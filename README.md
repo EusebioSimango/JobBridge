@@ -1,6 +1,6 @@
 # KaziRadar
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-kaziradar.onrender.com-2ea44f?style=flat-square&logo=fastapi)](https://kaziradar.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-kaziradar--s7wb.onrender.com-2ea44f?style=flat-square&logo=fastapi)](https://kaziradar-s7wb.onrender.com)
 [![Tests](https://img.shields.io/github/actions/workflow/status/EusebioSimango/kaziradar/tests.yml?branch=main&style=flat-square&label=tests)](https://github.com/EusebioSimango/kaziradar/actions/workflows/tests.yml)
 [![Hackathon](https://img.shields.io/badge/SerpApi-PyCon_ZA_2026-blue?style=flat-square)](https://serpapi.com/pyconzahackathon)
 [![SerpApi Python package](https://img.shields.io/badge/SerpApi-Python_package-8A2BE2?style=flat-square)](https://github.com/serpapi/serpapi-python)
@@ -122,7 +122,7 @@ uv run kaziradar "data engineer" --remote --level senior --json
 
 ## Web demo
 
-The same search as a web page: a role, up to 3 places, "also remote jobs", level, type, date and the two checkboxes. A [sample list](https://kaziradar.onrender.com/example) needs no searches.
+The same search as a web page: a role, up to 3 places, "also remote jobs", level, type, date and the two checkboxes. A [sample list](https://kaziradar-s7wb.onrender.com/example) needs no searches.
 
 Run it locally:
 
