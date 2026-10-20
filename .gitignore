@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# Test and tool caches
+.pytest_cache/
+.ruff_cache/
+
+# Local job lists; publish only examples/
+jobs-*.md
+jobs*.json

@@ -1,0 +1,14 @@
+{
+ "search_parameters": {
+  "q": "data analyst",
+  "engine": "google_jobs",
+  "location_requested": "Lisbon, Portugal",
+  "location_used": "Lisbon,Portugal",
+  "google_domain": "google.com",
+  "hl": "en"
+ },
+ "search_information": {
+  "jobs_results_state": "Fully empty"
+ },
+ "error": "Google hasn't returned any results for this query."
+}

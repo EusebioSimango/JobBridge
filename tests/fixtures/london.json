@@ -1,0 +1,607 @@
+{
+ "search_parameters": {
+  "q": "data analyst",
+  "engine": "google_jobs",
+  "location_requested": "London, United Kingdom",
+  "location_used": "London TV Region,England,United Kingdom",
+  "google_domain": "google.com",
+  "hl": "en"
+ },
+ "filters": [
+  {
+   "name": "No degree",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rTeVlh13PVwUUMwhfNLG9qUltfLvdkD2SvH2dLZgpP6rkru6jwZwPLo_DDcPy_9cuUcErI3zaIiQp23unY9qtgOPMK2AQp5cvdtEDptrBlARlhC9mmEeTyTg5ogW7tFryq9HIwFefSpHE4mY_bL9xXI4Z_uU",
+    "q": "data analyst no degree"
+   },
+   "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+no+degree&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTeVlh13PVwUUMwhfNLG9qUltfLvdkD2SvH2dLZgpP6rkru6jwZwPLo_DDcPy_9cuUcErI3zaIiQp23unY9qtgOPMK2AQp5cvdtEDptrBlARlhC9mmEeTyTg5ogW7tFryq9HIwFefSpHE4mY_bL9xXI4Z_uU&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QxKsJKAB6BAgWEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+no+degree&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTeVlh13PVwUUMwhfNLG9qUltfLvdkD2SvH2dLZgpP6rkru6jwZwPLo_DDcPy_9cuUcErI3zaIiQp23unY9qtgOPMK2AQp5cvdtEDptrBlARlhC9mmEeTyTg5ogW7tFryq9HIwFefSpHE4mY_bL9xXI4Z_uU"
+  },
+  {
+   "name": "Remote",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviHSvwaqwhfe5LOI04hyiJ4icppHUuzUdARakhixjQXSuaTrTglEGhGg8bPKpLKFw0ZVjZdBmCID6hq9JNLgfCZCdi2CVb9Hz374TkdNaLyV0Do25d26ePJQdyUUZIV14rCe_ofg",
+    "q": "data analyst remote"
+   },
+   "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviHSvwaqwhfe5LOI04hyiJ4icppHUuzUdARakhixjQXSuaTrTglEGhGg8bPKpLKFw0ZVjZdBmCID6hq9JNLgfCZCdi2CVb9Hz374TkdNaLyV0Do25d26ePJQdyUUZIV14rCe_ofg&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QxKsJKAF6BAgXEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviHSvwaqwhfe5LOI04hyiJ4icppHUuzUdARakhixjQXSuaTrTglEGhGg8bPKpLKFw0ZVjZdBmCID6hq9JNLgfCZCdi2CVb9Hz374TkdNaLyV0Do25d26ePJQdyUUZIV14rCe_ofg"
+  },
+  {
+   "name": "Job type",
+   "options": [
+    {
+     "name": "Full time",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn15J2D02h6BeTIe7CQCBOZxcDat-8SLg7ITCdlESw6WL6EhwRMdoPioh_rZu6aXwhdlb_quDPcV-tW6IewefErJyPAJg0GKKhuc4w5_d-TyvyzI8omrA44HevHsBVYrpS45lxBNxBSr-8eNq0AGAmp0h6OfjYjWcrsg65Zq2ERa6RCHIJ5XXfpftU1hy0ST22-g0Lwm-3N1O_I4ERCkGsbvgDTcrdT3X5oWvujTkO9cWg_q3NO95Pykzj1eM4ZlZPI4XOd5-JH3Rn4lOq8rttbE-AFW7g",
+      "q": "data analyst full time"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn15J2D02h6BeTIe7CQCBOZxcDat-8SLg7ITCdlESw6WL6EhwRMdoPioh_rZu6aXwhdlb_quDPcV-tW6IewefErJyPAJg0GKKhuc4w5_d-TyvyzI8omrA44HevHsBVYrpS45lxBNxBSr-8eNq0AGAmp0h6OfjYjWcrsg65Zq2ERa6RCHIJ5XXfpftU1hy0ST22-g0Lwm-3N1O_I4ERCkGsbvgDTcrdT3X5oWvujTkO9cWg_q3NO95Pykzj1eM4ZlZPI4XOd5-JH3Rn4lOq8rttbE-AFW7g&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIGhAC",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn15J2D02h6BeTIe7CQCBOZxcDat-8SLg7ITCdlESw6WL6EhwRMdoPioh_rZu6aXwhdlb_quDPcV-tW6IewefErJyPAJg0GKKhuc4w5_d-TyvyzI8omrA44HevHsBVYrpS45lxBNxBSr-8eNq0AGAmp0h6OfjYjWcrsg65Zq2ERa6RCHIJ5XXfpftU1hy0ST22-g0Lwm-3N1O_I4ERCkGsbvgDTcrdT3X5oWvujTkO9cWg_q3NO95Pykzj1eM4ZlZPI4XOd5-JH3Rn4lOq8rttbE-AFW7g"
+    },
+    {
+     "name": "Part time",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn0ULyMbJGuDTiXf-NFq1UZJiaZ7s05KuQ7IBXuAWIIuybMph8EmPmWTic2cxelWe-fxvemjBEl7s7RVgO7uHdcZKr9RDexSu_7ynLakORRBq5TsiP2yDvfeFn6Ku4ScCzE2zS4AaKZQpyjmuYAM0YEW5jxUlgqY1i1hSYduolj5ic01SyWcoAynsw--hI5k_rTUN7uTJZZnVxDNeLw4CJ5geBOgeSYEbukJnoOfp7E5hND5sR_oM4goV3Z8aReYtwIHkmtGsRQNCVdl7ZIPWFhlHdCJDw",
+      "q": "data analyst part time"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn0ULyMbJGuDTiXf-NFq1UZJiaZ7s05KuQ7IBXuAWIIuybMph8EmPmWTic2cxelWe-fxvemjBEl7s7RVgO7uHdcZKr9RDexSu_7ynLakORRBq5TsiP2yDvfeFn6Ku4ScCzE2zS4AaKZQpyjmuYAM0YEW5jxUlgqY1i1hSYduolj5ic01SyWcoAynsw--hI5k_rTUN7uTJZZnVxDNeLw4CJ5geBOgeSYEbukJnoOfp7E5hND5sR_oM4goV3Z8aReYtwIHkmtGsRQNCVdl7ZIPWFhlHdCJDw&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIGhAD",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn0ULyMbJGuDTiXf-NFq1UZJiaZ7s05KuQ7IBXuAWIIuybMph8EmPmWTic2cxelWe-fxvemjBEl7s7RVgO7uHdcZKr9RDexSu_7ynLakORRBq5TsiP2yDvfeFn6Ku4ScCzE2zS4AaKZQpyjmuYAM0YEW5jxUlgqY1i1hSYduolj5ic01SyWcoAynsw--hI5k_rTUN7uTJZZnVxDNeLw4CJ5geBOgeSYEbukJnoOfp7E5hND5sR_oM4goV3Z8aReYtwIHkmtGsRQNCVdl7ZIPWFhlHdCJDw"
+    },
+    {
+     "name": "Contract",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-lmMX6Bx8THKsEXG1Ih5tN8lIRV8fYCbf8_yy_-yZ8BD5jWSUeqQzCTZVoTCIH6O-uamoCEe8vGZjhr9r2NhH30EoMwzzsOV4UsDSn-xDnTXqmBWUGT1dAlYT3reCx4tZqiwluTARQqDlkTgf5Bh_cgkQ_vR3ILglCkSZ_mT7hL5R8BWYQgOmSrNrn2W5gtwkwEr7cEoGUG9fKuoOOgOJTKIPQ_AYTmN1yDaPhI8lvH2CyL5y9AhS2PXJuwvL9FFOLawVkDnjxKZlCHTPoiv_vUFgh38",
+      "q": "data analyst contract"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-lmMX6Bx8THKsEXG1Ih5tN8lIRV8fYCbf8_yy_-yZ8BD5jWSUeqQzCTZVoTCIH6O-uamoCEe8vGZjhr9r2NhH30EoMwzzsOV4UsDSn-xDnTXqmBWUGT1dAlYT3reCx4tZqiwluTARQqDlkTgf5Bh_cgkQ_vR3ILglCkSZ_mT7hL5R8BWYQgOmSrNrn2W5gtwkwEr7cEoGUG9fKuoOOgOJTKIPQ_AYTmN1yDaPhI8lvH2CyL5y9AhS2PXJuwvL9FFOLawVkDnjxKZlCHTPoiv_vUFgh38&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIGhAE",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-lmMX6Bx8THKsEXG1Ih5tN8lIRV8fYCbf8_yy_-yZ8BD5jWSUeqQzCTZVoTCIH6O-uamoCEe8vGZjhr9r2NhH30EoMwzzsOV4UsDSn-xDnTXqmBWUGT1dAlYT3reCx4tZqiwluTARQqDlkTgf5Bh_cgkQ_vR3ILglCkSZ_mT7hL5R8BWYQgOmSrNrn2W5gtwkwEr7cEoGUG9fKuoOOgOJTKIPQ_AYTmN1yDaPhI8lvH2CyL5y9AhS2PXJuwvL9FFOLawVkDnjxKZlCHTPoiv_vUFgh38"
+    },
+    {
+     "name": "Internship",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC-D-JL968Vq7HoLLeCgp__uIT4CRZfET3C51gNiX0WeCew_vHV4vcHwR_XPc3O-uVs48Q7v8bNl1TKL-_Y1bMk4YXOSbg2i1Y-BmMNrCnEjgeuinOGe4rVubSJPBrCR7LPArN9ZtDEvawJTOiHIv0-6fUQ4YyKtaSfW7DALeM0vEtcIuFZ8ayg3LPe0Fsi6Ycb2WpJUmHQKAPwhJw6DLdvth-RfGl5JKUsv1PAF1MWAbBG6Pdp935HlAHBa6tPKauKB32Cz57JCANBUJr9_agrgVhubE",
+      "q": "data analyst internship"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC-D-JL968Vq7HoLLeCgp__uIT4CRZfET3C51gNiX0WeCew_vHV4vcHwR_XPc3O-uVs48Q7v8bNl1TKL-_Y1bMk4YXOSbg2i1Y-BmMNrCnEjgeuinOGe4rVubSJPBrCR7LPArN9ZtDEvawJTOiHIv0-6fUQ4YyKtaSfW7DALeM0vEtcIuFZ8ayg3LPe0Fsi6Ycb2WpJUmHQKAPwhJw6DLdvth-RfGl5JKUsv1PAF1MWAbBG6Pdp935HlAHBa6tPKauKB32Cz57JCANBUJr9_agrgVhubE&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIGhAF",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC-D-JL968Vq7HoLLeCgp__uIT4CRZfET3C51gNiX0WeCew_vHV4vcHwR_XPc3O-uVs48Q7v8bNl1TKL-_Y1bMk4YXOSbg2i1Y-BmMNrCnEjgeuinOGe4rVubSJPBrCR7LPArN9ZtDEvawJTOiHIv0-6fUQ4YyKtaSfW7DALeM0vEtcIuFZ8ayg3LPe0Fsi6Ycb2WpJUmHQKAPwhJw6DLdvth-RfGl5JKUsv1PAF1MWAbBG6Pdp935HlAHBa6tPKauKB32Cz57JCANBUJr9_agrgVhubE"
+    }
+   ]
+  },
+  {
+   "name": "Job type",
+   "options": [
+    {
+     "name": "Full time",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn15J2D02h6BeTIe7CQCBOZxcDat-8SLg7ITCdlESw6WL6EhwRMdoPioh_rZu6aXwhdlb_quDPcV-tW6IewefErJyPAJg0GKKhuc4w5_d-TyvyzI8omrA44HevHsBVYrpS45lxBNxBSr-8eNq0AGAmp0h6OfjYjWcrsg65Zq2ERa6RCHIJ5XXfpftU1hy0ST22-g0Lwm-3N1O_I4ERCkGsbvgDTcrdT3X5oWvujTkO9cWg_q3NO95Pykzj1eM4ZlZPI4XOd5-JH3Rn4lOq8rttbE-AFW7g",
+      "q": "data analyst full time"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn15J2D02h6BeTIe7CQCBOZxcDat-8SLg7ITCdlESw6WL6EhwRMdoPioh_rZu6aXwhdlb_quDPcV-tW6IewefErJyPAJg0GKKhuc4w5_d-TyvyzI8omrA44HevHsBVYrpS45lxBNxBSr-8eNq0AGAmp0h6OfjYjWcrsg65Zq2ERa6RCHIJ5XXfpftU1hy0ST22-g0Lwm-3N1O_I4ERCkGsbvgDTcrdT3X5oWvujTkO9cWg_q3NO95Pykzj1eM4ZlZPI4XOd5-JH3Rn4lOq8rttbE-AFW7g&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIGhAC",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn15J2D02h6BeTIe7CQCBOZxcDat-8SLg7ITCdlESw6WL6EhwRMdoPioh_rZu6aXwhdlb_quDPcV-tW6IewefErJyPAJg0GKKhuc4w5_d-TyvyzI8omrA44HevHsBVYrpS45lxBNxBSr-8eNq0AGAmp0h6OfjYjWcrsg65Zq2ERa6RCHIJ5XXfpftU1hy0ST22-g0Lwm-3N1O_I4ERCkGsbvgDTcrdT3X5oWvujTkO9cWg_q3NO95Pykzj1eM4ZlZPI4XOd5-JH3Rn4lOq8rttbE-AFW7g"
+    },
+    {
+     "name": "Part time",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn0ULyMbJGuDTiXf-NFq1UZJiaZ7s05KuQ7IBXuAWIIuybMph8EmPmWTic2cxelWe-fxvemjBEl7s7RVgO7uHdcZKr9RDexSu_7ynLakORRBq5TsiP2yDvfeFn6Ku4ScCzE2zS4AaKZQpyjmuYAM0YEW5jxUlgqY1i1hSYduolj5ic01SyWcoAynsw--hI5k_rTUN7uTJZZnVxDNeLw4CJ5geBOgeSYEbukJnoOfp7E5hND5sR_oM4goV3Z8aReYtwIHkmtGsRQNCVdl7ZIPWFhlHdCJDw",
+      "q": "data analyst part time"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn0ULyMbJGuDTiXf-NFq1UZJiaZ7s05KuQ7IBXuAWIIuybMph8EmPmWTic2cxelWe-fxvemjBEl7s7RVgO7uHdcZKr9RDexSu_7ynLakORRBq5TsiP2yDvfeFn6Ku4ScCzE2zS4AaKZQpyjmuYAM0YEW5jxUlgqY1i1hSYduolj5ic01SyWcoAynsw--hI5k_rTUN7uTJZZnVxDNeLw4CJ5geBOgeSYEbukJnoOfp7E5hND5sR_oM4goV3Z8aReYtwIHkmtGsRQNCVdl7ZIPWFhlHdCJDw&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIGhAD",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRaaSS3Ic-6fk5ne4e8sLpn0ULyMbJGuDTiXf-NFq1UZJiaZ7s05KuQ7IBXuAWIIuybMph8EmPmWTic2cxelWe-fxvemjBEl7s7RVgO7uHdcZKr9RDexSu_7ynLakORRBq5TsiP2yDvfeFn6Ku4ScCzE2zS4AaKZQpyjmuYAM0YEW5jxUlgqY1i1hSYduolj5ic01SyWcoAynsw--hI5k_rTUN7uTJZZnVxDNeLw4CJ5geBOgeSYEbukJnoOfp7E5hND5sR_oM4goV3Z8aReYtwIHkmtGsRQNCVdl7ZIPWFhlHdCJDw"
+    },
+    {
+     "name": "Contract",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-lmMX6Bx8THKsEXG1Ih5tN8lIRV8fYCbf8_yy_-yZ8BD5jWSUeqQzCTZVoTCIH6O-uamoCEe8vGZjhr9r2NhH30EoMwzzsOV4UsDSn-xDnTXqmBWUGT1dAlYT3reCx4tZqiwluTARQqDlkTgf5Bh_cgkQ_vR3ILglCkSZ_mT7hL5R8BWYQgOmSrNrn2W5gtwkwEr7cEoGUG9fKuoOOgOJTKIPQ_AYTmN1yDaPhI8lvH2CyL5y9AhS2PXJuwvL9FFOLawVkDnjxKZlCHTPoiv_vUFgh38",
+      "q": "data analyst contract"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-lmMX6Bx8THKsEXG1Ih5tN8lIRV8fYCbf8_yy_-yZ8BD5jWSUeqQzCTZVoTCIH6O-uamoCEe8vGZjhr9r2NhH30EoMwzzsOV4UsDSn-xDnTXqmBWUGT1dAlYT3reCx4tZqiwluTARQqDlkTgf5Bh_cgkQ_vR3ILglCkSZ_mT7hL5R8BWYQgOmSrNrn2W5gtwkwEr7cEoGUG9fKuoOOgOJTKIPQ_AYTmN1yDaPhI8lvH2CyL5y9AhS2PXJuwvL9FFOLawVkDnjxKZlCHTPoiv_vUFgh38&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIGhAE",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-lmMX6Bx8THKsEXG1Ih5tN8lIRV8fYCbf8_yy_-yZ8BD5jWSUeqQzCTZVoTCIH6O-uamoCEe8vGZjhr9r2NhH30EoMwzzsOV4UsDSn-xDnTXqmBWUGT1dAlYT3reCx4tZqiwluTARQqDlkTgf5Bh_cgkQ_vR3ILglCkSZ_mT7hL5R8BWYQgOmSrNrn2W5gtwkwEr7cEoGUG9fKuoOOgOJTKIPQ_AYTmN1yDaPhI8lvH2CyL5y9AhS2PXJuwvL9FFOLawVkDnjxKZlCHTPoiv_vUFgh38"
+    },
+    {
+     "name": "Internship",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC-D-JL968Vq7HoLLeCgp__uIT4CRZfET3C51gNiX0WeCew_vHV4vcHwR_XPc3O-uVs48Q7v8bNl1TKL-_Y1bMk4YXOSbg2i1Y-BmMNrCnEjgeuinOGe4rVubSJPBrCR7LPArN9ZtDEvawJTOiHIv0-6fUQ4YyKtaSfW7DALeM0vEtcIuFZ8ayg3LPe0Fsi6Ycb2WpJUmHQKAPwhJw6DLdvth-RfGl5JKUsv1PAF1MWAbBG6Pdp935HlAHBa6tPKauKB32Cz57JCANBUJr9_agrgVhubE",
+      "q": "data analyst internship"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC-D-JL968Vq7HoLLeCgp__uIT4CRZfET3C51gNiX0WeCew_vHV4vcHwR_XPc3O-uVs48Q7v8bNl1TKL-_Y1bMk4YXOSbg2i1Y-BmMNrCnEjgeuinOGe4rVubSJPBrCR7LPArN9ZtDEvawJTOiHIv0-6fUQ4YyKtaSfW7DALeM0vEtcIuFZ8ayg3LPe0Fsi6Ycb2WpJUmHQKAPwhJw6DLdvth-RfGl5JKUsv1PAF1MWAbBG6Pdp935HlAHBa6tPKauKB32Cz57JCANBUJr9_agrgVhubE&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIGhAF",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC-D-JL968Vq7HoLLeCgp__uIT4CRZfET3C51gNiX0WeCew_vHV4vcHwR_XPc3O-uVs48Q7v8bNl1TKL-_Y1bMk4YXOSbg2i1Y-BmMNrCnEjgeuinOGe4rVubSJPBrCR7LPArN9ZtDEvawJTOiHIv0-6fUQ4YyKtaSfW7DALeM0vEtcIuFZ8ayg3LPe0Fsi6Ycb2WpJUmHQKAPwhJw6DLdvth-RfGl5JKUsv1PAF1MWAbBG6Pdp935HlAHBa6tPKauKB32Cz57JCANBUJr9_agrgVhubE"
+    }
+   ]
+  },
+  {
+   "name": "Date posted",
+   "options": [
+    {
+     "name": "Yesterday",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRfAGjpVuggoEFHzE1xNXEEcHH8XNMl7eaLAgqd5z-NotFmpQxcSXjhgSButOGL1aS5OWTWycm3OrCxwxk9JMcaK0htg7Lg8o8qRgkIObtYp6WTNw1oHGKpvyHSNokscu8jgD9hN2L9HZDNMjr6uTAjaDxidOOEekRqIt6mm4hPfbvai6yi0FCX-lqdtZzc5bLfzjQz8rY6ujhxFQBFzT-SI1frpIwyHteevSixc0UrP06CxKbbqxjKXV1nvrGQceeH5CPGNLPdjchOT54t_QkY9xGHHS4jWA3fmUNw7qiaOfpL3M7g",
+      "q": "data analyst since yesterday"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRfAGjpVuggoEFHzE1xNXEEcHH8XNMl7eaLAgqd5z-NotFmpQxcSXjhgSButOGL1aS5OWTWycm3OrCxwxk9JMcaK0htg7Lg8o8qRgkIObtYp6WTNw1oHGKpvyHSNokscu8jgD9hN2L9HZDNMjr6uTAjaDxidOOEekRqIt6mm4hPfbvai6yi0FCX-lqdtZzc5bLfzjQz8rY6ujhxFQBFzT-SI1frpIwyHteevSixc0UrP06CxKbbqxjKXV1nvrGQceeH5CPGNLPdjchOT54t_QkY9xGHHS4jWA3fmUNw7qiaOfpL3M7g&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIHBAC",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRfAGjpVuggoEFHzE1xNXEEcHH8XNMl7eaLAgqd5z-NotFmpQxcSXjhgSButOGL1aS5OWTWycm3OrCxwxk9JMcaK0htg7Lg8o8qRgkIObtYp6WTNw1oHGKpvyHSNokscu8jgD9hN2L9HZDNMjr6uTAjaDxidOOEekRqIt6mm4hPfbvai6yi0FCX-lqdtZzc5bLfzjQz8rY6ujhxFQBFzT-SI1frpIwyHteevSixc0UrP06CxKbbqxjKXV1nvrGQceeH5CPGNLPdjchOT54t_QkY9xGHHS4jWA3fmUNw7qiaOfpL3M7g"
+    },
+    {
+     "name": "Last 3 days",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3vZGlTPkMj0ocuj8VL4NMjUvYN8BDsd55sSkuuEU808KwZbZVhJDSXQpyCiVhI8GTP-jD9q1i4GRl3gks4e49bAVnJYUfX0KTOO4PoH4ZSoKcyBUg1sjPNneAbVFQEjs2uRpUNFRRGx__MI3CDDE3qG2rTOXoUahx1s_j2b1dLnKwwUY2xMDA4Zf4od3CPuC3LMQBRJC36nxOWI_HboC3ouMOK1I0PYc6WJMVHGYQhRKzD1Da6wRQlH4KP78JYKoXGsIC99s5WCk5erFKlAwBP0dZBxaRoQPszIKCHthNRbaN80-wlLyzTeAxkWNwSxeAQO95qw",
+      "q": "data analyst in the last 3 days"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3vZGlTPkMj0ocuj8VL4NMjUvYN8BDsd55sSkuuEU808KwZbZVhJDSXQpyCiVhI8GTP-jD9q1i4GRl3gks4e49bAVnJYUfX0KTOO4PoH4ZSoKcyBUg1sjPNneAbVFQEjs2uRpUNFRRGx__MI3CDDE3qG2rTOXoUahx1s_j2b1dLnKwwUY2xMDA4Zf4od3CPuC3LMQBRJC36nxOWI_HboC3ouMOK1I0PYc6WJMVHGYQhRKzD1Da6wRQlH4KP78JYKoXGsIC99s5WCk5erFKlAwBP0dZBxaRoQPszIKCHthNRbaN80-wlLyzTeAxkWNwSxeAQO95qw&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIHBAD",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3vZGlTPkMj0ocuj8VL4NMjUvYN8BDsd55sSkuuEU808KwZbZVhJDSXQpyCiVhI8GTP-jD9q1i4GRl3gks4e49bAVnJYUfX0KTOO4PoH4ZSoKcyBUg1sjPNneAbVFQEjs2uRpUNFRRGx__MI3CDDE3qG2rTOXoUahx1s_j2b1dLnKwwUY2xMDA4Zf4od3CPuC3LMQBRJC36nxOWI_HboC3ouMOK1I0PYc6WJMVHGYQhRKzD1Da6wRQlH4KP78JYKoXGsIC99s5WCk5erFKlAwBP0dZBxaRoQPszIKCHthNRbaN80-wlLyzTeAxkWNwSxeAQO95qw"
+    },
+    {
+     "name": "Last week",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj05bL5zvb37RRW1SesxkcjxH3T2j8bxqCwOwWsTxp0j0Pu2Tw5HVZyO2QOLSoDpwchm4IxlPiXVSaoMHXoeKSJFu8Nn0jKWPpVoBZCh20UYAbptC3HMFBGNtVHho8xAGyrdHGqiWdjlXF2zCoZ1dK2jxM9nfNwPxpbDgLdYnZeENDd46t-O4OJ2HbFqsGIzgEOly8iFGlYsacrNujL3ZR7X8ngcBSr4EUjqKy6C8fTUhlT60B80y0tIsLHDk2b1BUhJ1bKayLGYMUiW2eN8rAtvUpRy7hLhaM3NDxxGo-yOMjnQJraudhr6rm4s-9BTAsnkTrhG0",
+      "q": "data analyst in the last week"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj05bL5zvb37RRW1SesxkcjxH3T2j8bxqCwOwWsTxp0j0Pu2Tw5HVZyO2QOLSoDpwchm4IxlPiXVSaoMHXoeKSJFu8Nn0jKWPpVoBZCh20UYAbptC3HMFBGNtVHho8xAGyrdHGqiWdjlXF2zCoZ1dK2jxM9nfNwPxpbDgLdYnZeENDd46t-O4OJ2HbFqsGIzgEOly8iFGlYsacrNujL3ZR7X8ngcBSr4EUjqKy6C8fTUhlT60B80y0tIsLHDk2b1BUhJ1bKayLGYMUiW2eN8rAtvUpRy7hLhaM3NDxxGo-yOMjnQJraudhr6rm4s-9BTAsnkTrhG0&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIHBAE",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj05bL5zvb37RRW1SesxkcjxH3T2j8bxqCwOwWsTxp0j0Pu2Tw5HVZyO2QOLSoDpwchm4IxlPiXVSaoMHXoeKSJFu8Nn0jKWPpVoBZCh20UYAbptC3HMFBGNtVHho8xAGyrdHGqiWdjlXF2zCoZ1dK2jxM9nfNwPxpbDgLdYnZeENDd46t-O4OJ2HbFqsGIzgEOly8iFGlYsacrNujL3ZR7X8ngcBSr4EUjqKy6C8fTUhlT60B80y0tIsLHDk2b1BUhJ1bKayLGYMUiW2eN8rAtvUpRy7hLhaM3NDxxGo-yOMjnQJraudhr6rm4s-9BTAsnkTrhG0"
+    },
+    {
+     "name": "Last month",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH31yT_xWHwcvq0yqhSxauk0DxDw3rjor6yXiQ_I8G0jyAdv9RcXu1O942BboYqqzVi6qp6ukYwQtBLDjaYF0W3WJ8oWRtYJX2MsfiAqCC16rl7-Y7Dfy8FBYPp5qf3ABh19KLfVhBD9yjdzZKSTPF-5OlqGmhfDC7PwDgKZZChimleAGjKAOR6EsS3VMtlxtuuQ8A2q_dphl3ealGtwfOB-lBjc0aDlNU3r3icnLLm3gBJvFbIxv2i-XYAvNYCk7-d9Hky9Zb4rduVfeLOYfKHgGFZju5vVDxmn7NJ4dQyABphAk7I87Npnkd2De7mlL7jpkf0rU",
+      "q": "data analyst in the last month"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH31yT_xWHwcvq0yqhSxauk0DxDw3rjor6yXiQ_I8G0jyAdv9RcXu1O942BboYqqzVi6qp6ukYwQtBLDjaYF0W3WJ8oWRtYJX2MsfiAqCC16rl7-Y7Dfy8FBYPp5qf3ABh19KLfVhBD9yjdzZKSTPF-5OlqGmhfDC7PwDgKZZChimleAGjKAOR6EsS3VMtlxtuuQ8A2q_dphl3ealGtwfOB-lBjc0aDlNU3r3icnLLm3gBJvFbIxv2i-XYAvNYCk7-d9Hky9Zb4rduVfeLOYfKHgGFZju5vVDxmn7NJ4dQyABphAk7I87Npnkd2De7mlL7jpkf0rU&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIHBAF",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH31yT_xWHwcvq0yqhSxauk0DxDw3rjor6yXiQ_I8G0jyAdv9RcXu1O942BboYqqzVi6qp6ukYwQtBLDjaYF0W3WJ8oWRtYJX2MsfiAqCC16rl7-Y7Dfy8FBYPp5qf3ABh19KLfVhBD9yjdzZKSTPF-5OlqGmhfDC7PwDgKZZChimleAGjKAOR6EsS3VMtlxtuuQ8A2q_dphl3ealGtwfOB-lBjc0aDlNU3r3icnLLm3gBJvFbIxv2i-XYAvNYCk7-d9Hky9Zb4rduVfeLOYfKHgGFZju5vVDxmn7NJ4dQyABphAk7I87Npnkd2De7mlL7jpkf0rU"
+    }
+   ]
+  },
+  {
+   "name": "Date posted",
+   "options": [
+    {
+     "name": "Yesterday",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRfAGjpVuggoEFHzE1xNXEEcHH8XNMl7eaLAgqd5z-NotFmpQxcSXjhgSButOGL1aS5OWTWycm3OrCxwxk9JMcaK0htg7Lg8o8qRgkIObtYp6WTNw1oHGKpvyHSNokscu8jgD9hN2L9HZDNMjr6uTAjaDxidOOEekRqIt6mm4hPfbvai6yi0FCX-lqdtZzc5bLfzjQz8rY6ujhxFQBFzT-SI1frpIwyHteevSixc0UrP06CxKbbqxjKXV1nvrGQceeH5CPGNLPdjchOT54t_QkY9xGHHS4jWA3fmUNw7qiaOfpL3M7g",
+      "q": "data analyst since yesterday"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRfAGjpVuggoEFHzE1xNXEEcHH8XNMl7eaLAgqd5z-NotFmpQxcSXjhgSButOGL1aS5OWTWycm3OrCxwxk9JMcaK0htg7Lg8o8qRgkIObtYp6WTNw1oHGKpvyHSNokscu8jgD9hN2L9HZDNMjr6uTAjaDxidOOEekRqIt6mm4hPfbvai6yi0FCX-lqdtZzc5bLfzjQz8rY6ujhxFQBFzT-SI1frpIwyHteevSixc0UrP06CxKbbqxjKXV1nvrGQceeH5CPGNLPdjchOT54t_QkY9xGHHS4jWA3fmUNw7qiaOfpL3M7g&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIHBAC",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRfAGjpVuggoEFHzE1xNXEEcHH8XNMl7eaLAgqd5z-NotFmpQxcSXjhgSButOGL1aS5OWTWycm3OrCxwxk9JMcaK0htg7Lg8o8qRgkIObtYp6WTNw1oHGKpvyHSNokscu8jgD9hN2L9HZDNMjr6uTAjaDxidOOEekRqIt6mm4hPfbvai6yi0FCX-lqdtZzc5bLfzjQz8rY6ujhxFQBFzT-SI1frpIwyHteevSixc0UrP06CxKbbqxjKXV1nvrGQceeH5CPGNLPdjchOT54t_QkY9xGHHS4jWA3fmUNw7qiaOfpL3M7g"
+    },
+    {
+     "name": "Last 3 days",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3vZGlTPkMj0ocuj8VL4NMjUvYN8BDsd55sSkuuEU808KwZbZVhJDSXQpyCiVhI8GTP-jD9q1i4GRl3gks4e49bAVnJYUfX0KTOO4PoH4ZSoKcyBUg1sjPNneAbVFQEjs2uRpUNFRRGx__MI3CDDE3qG2rTOXoUahx1s_j2b1dLnKwwUY2xMDA4Zf4od3CPuC3LMQBRJC36nxOWI_HboC3ouMOK1I0PYc6WJMVHGYQhRKzD1Da6wRQlH4KP78JYKoXGsIC99s5WCk5erFKlAwBP0dZBxaRoQPszIKCHthNRbaN80-wlLyzTeAxkWNwSxeAQO95qw",
+      "q": "data analyst in the last 3 days"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3vZGlTPkMj0ocuj8VL4NMjUvYN8BDsd55sSkuuEU808KwZbZVhJDSXQpyCiVhI8GTP-jD9q1i4GRl3gks4e49bAVnJYUfX0KTOO4PoH4ZSoKcyBUg1sjPNneAbVFQEjs2uRpUNFRRGx__MI3CDDE3qG2rTOXoUahx1s_j2b1dLnKwwUY2xMDA4Zf4od3CPuC3LMQBRJC36nxOWI_HboC3ouMOK1I0PYc6WJMVHGYQhRKzD1Da6wRQlH4KP78JYKoXGsIC99s5WCk5erFKlAwBP0dZBxaRoQPszIKCHthNRbaN80-wlLyzTeAxkWNwSxeAQO95qw&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIHBAD",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3vZGlTPkMj0ocuj8VL4NMjUvYN8BDsd55sSkuuEU808KwZbZVhJDSXQpyCiVhI8GTP-jD9q1i4GRl3gks4e49bAVnJYUfX0KTOO4PoH4ZSoKcyBUg1sjPNneAbVFQEjs2uRpUNFRRGx__MI3CDDE3qG2rTOXoUahx1s_j2b1dLnKwwUY2xMDA4Zf4od3CPuC3LMQBRJC36nxOWI_HboC3ouMOK1I0PYc6WJMVHGYQhRKzD1Da6wRQlH4KP78JYKoXGsIC99s5WCk5erFKlAwBP0dZBxaRoQPszIKCHthNRbaN80-wlLyzTeAxkWNwSxeAQO95qw"
+    },
+    {
+     "name": "Last week",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj05bL5zvb37RRW1SesxkcjxH3T2j8bxqCwOwWsTxp0j0Pu2Tw5HVZyO2QOLSoDpwchm4IxlPiXVSaoMHXoeKSJFu8Nn0jKWPpVoBZCh20UYAbptC3HMFBGNtVHho8xAGyrdHGqiWdjlXF2zCoZ1dK2jxM9nfNwPxpbDgLdYnZeENDd46t-O4OJ2HbFqsGIzgEOly8iFGlYsacrNujL3ZR7X8ngcBSr4EUjqKy6C8fTUhlT60B80y0tIsLHDk2b1BUhJ1bKayLGYMUiW2eN8rAtvUpRy7hLhaM3NDxxGo-yOMjnQJraudhr6rm4s-9BTAsnkTrhG0",
+      "q": "data analyst in the last week"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj05bL5zvb37RRW1SesxkcjxH3T2j8bxqCwOwWsTxp0j0Pu2Tw5HVZyO2QOLSoDpwchm4IxlPiXVSaoMHXoeKSJFu8Nn0jKWPpVoBZCh20UYAbptC3HMFBGNtVHho8xAGyrdHGqiWdjlXF2zCoZ1dK2jxM9nfNwPxpbDgLdYnZeENDd46t-O4OJ2HbFqsGIzgEOly8iFGlYsacrNujL3ZR7X8ngcBSr4EUjqKy6C8fTUhlT60B80y0tIsLHDk2b1BUhJ1bKayLGYMUiW2eN8rAtvUpRy7hLhaM3NDxxGo-yOMjnQJraudhr6rm4s-9BTAsnkTrhG0&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIHBAE",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj05bL5zvb37RRW1SesxkcjxH3T2j8bxqCwOwWsTxp0j0Pu2Tw5HVZyO2QOLSoDpwchm4IxlPiXVSaoMHXoeKSJFu8Nn0jKWPpVoBZCh20UYAbptC3HMFBGNtVHho8xAGyrdHGqiWdjlXF2zCoZ1dK2jxM9nfNwPxpbDgLdYnZeENDd46t-O4OJ2HbFqsGIzgEOly8iFGlYsacrNujL3ZR7X8ngcBSr4EUjqKy6C8fTUhlT60B80y0tIsLHDk2b1BUhJ1bKayLGYMUiW2eN8rAtvUpRy7hLhaM3NDxxGo-yOMjnQJraudhr6rm4s-9BTAsnkTrhG0"
+    },
+    {
+     "name": "Last month",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH31yT_xWHwcvq0yqhSxauk0DxDw3rjor6yXiQ_I8G0jyAdv9RcXu1O942BboYqqzVi6qp6ukYwQtBLDjaYF0W3WJ8oWRtYJX2MsfiAqCC16rl7-Y7Dfy8FBYPp5qf3ABh19KLfVhBD9yjdzZKSTPF-5OlqGmhfDC7PwDgKZZChimleAGjKAOR6EsS3VMtlxtuuQ8A2q_dphl3ealGtwfOB-lBjc0aDlNU3r3icnLLm3gBJvFbIxv2i-XYAvNYCk7-d9Hky9Zb4rduVfeLOYfKHgGFZju5vVDxmn7NJ4dQyABphAk7I87Npnkd2De7mlL7jpkf0rU",
+      "q": "data analyst in the last month"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQnuiOiqF_-o8pCwK3-tCpWUdvNLl3A:1792509422133&q=data+analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH31yT_xWHwcvq0yqhSxauk0DxDw3rjor6yXiQ_I8G0jyAdv9RcXu1O942BboYqqzVi6qp6ukYwQtBLDjaYF0W3WJ8oWRtYJX2MsfiAqCC16rl7-Y7Dfy8FBYPp5qf3ABh19KLfVhBD9yjdzZKSTPF-5OlqGmhfDC7PwDgKZZChimleAGjKAOR6EsS3VMtlxtuuQ8A2q_dphl3ealGtwfOB-lBjc0aDlNU3r3icnLLm3gBJvFbIxv2i-XYAvNYCk7-d9Hky9Zb4rduVfeLOYfKHgGFZju5vVDxmn7NJ4dQyABphAk7I87Npnkd2De7mlL7jpkf0rU&udm=8&sa=X&ved=2ahUKEwjx-fL68ciXAxUzL1kFHV0BF00QkbEKegQIHBAF",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=London%2C+United+Kingdom&q=data+analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH31yT_xWHwcvq0yqhSxauk0DxDw3rjor6yXiQ_I8G0jyAdv9RcXu1O942BboYqqzVi6qp6ukYwQtBLDjaYF0W3WJ8oWRtYJX2MsfiAqCC16rl7-Y7Dfy8FBYPp5qf3ABh19KLfVhBD9yjdzZKSTPF-5OlqGmhfDC7PwDgKZZChimleAGjKAOR6EsS3VMtlxtuuQ8A2q_dphl3ealGtwfOB-lBjc0aDlNU3r3icnLLm3gBJvFbIxv2i-XYAvNYCk7-d9Hky9Zb4rduVfeLOYfKHgGFZju5vVDxmn7NJ4dQyABphAk7I87Npnkd2De7mlL7jpkf0rU"
+    }
+   ]
+  }
+ ],
+ "jobs_results": [
+  {
+   "title": "Data Analyst",
+   "company_name": "SDG Group",
+   "location": "Milton Keynes, United Kingdom",
+   "via": "SDG Group",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=data+analyst&htidocid=CD_N5FSdqPJxiIiGAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAwAUFz7CU4Bt6I9EVx0EgoFi5M4l7QN1yvX5GgitD_hN6vLG1_22WS7Eg3hxhhXNTjAXVpQwrkbQBgqER9pex3Mkl6cU42FV0MLXdHJ5ISplcWN0uqfRgecKUU0ak7n41Ik9nn-LCuoZnknCAyPEO0X17Qy6R5eHIx6qAP7XqYvYE_tg5EAAAA&shmds=v1_ARwrE209veuwlfaHfylMACuyE29_2oHn3r1JYC-zeTDxfBy7PA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=data+analyst&htidocid=CD_N5FSdqPJxiIiGAAAAAA%3D%3D",
+   "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAeCAMAAABOrS0HAAAAY1BMVEUAAAD___-Li4uRkZHh4eHJycmWlpZ2dnapqakFBQVMTEyioqLMzMzX19cpKSn5-flCQkJVVVU5OTl9fX2EhIQzMzNHR0ceHh6zs7MODg7u7u5iYmJpaWm5ubkkJCRvb28YGBhNJehKAAABbklEQVQ4jeWS7XaDIAyGEwVB_EClWnW19v6vciFWR3Xruv3c3tNjUsgDSQjAv1Xl9ivdG5s6Mk_BBHcLEhEvi0megfEOdOhl-YvDD0CNgbofgBcmpp7Nw07jXLN46ezMCjZOXaFpycsQRUkLxJ1CLvcn-Z0lKZF5sBXez0TBIVf-FjiGXO_zNlb7DV1CV_h8WrQqBYUog0iLIgS3Fie-53wwwGiXm0IwoRTqALxnQwfmW3NqnO-bH-DZ5x7mahBzX3O5Vk7gNgMi3-LU8R1P1J6eylIbmH0CdjwGsNMFJyB4BdX60AHIPb_sQYgQJjyz29N1eC_chl2t1C34NwjOUAgY0Bq-EH1BTBRsKDyF45BOOEoa_Ioeb8SxsCh9gSeaBEE_As-JmTXErlUmikLSaCmTlF01SV2azLu3RMp4qdFVXQ1zDdFQH679SnZ6OXRRrNm49YlelsaphWv2OJwvKeM5kd8HHjVHqvwN90f0Dka8DO3LQ37NAAAAAElFTkSuQmCC.png",
+   "extensions": [
+    "Full-time"
+   ],
+   "source_link": "https://careers.sdggroup.com/jobs/3790517-data-analyst?promotion=969960-trackable-share-link-data-analyst",
+   "job_title": "Data Analyst",
+   "description": " \n\nSDG Group is a global Consulting firm specialising in Data & Analytics. We are committed to unlocking an organisations’ potential and hidden value by offering in-depth analytics expertise that empowers our clients’ business models to become successful data-driven enterprises. Innovation is in our DNA. We constantly innovate our value proposition with cutting-edge laboratories and transformational models to provide the ultimate analytics practices and solutions.\n\nSDG Group works on the pillars of Triple Expertise, incorporating business process skills by domain with technical knowledge and partnership with the most important and innovative software providers. Our portfolio also features cutting-edge laboratories and the development of Advanced Analytics & AI technologies.\n\nWhy Join Us?\n\n\nWe’re looking for problem solvers, innovators, and collaborators who want to be a part of the mission to help us to further grow our company! You will have the ability to learn the latest technologies in the market and build strong relationships with technical and business leaders, all while deepening your expertise and enhancing your skills.\n\n\nWe will work with you to create customised career plans which will allow you to grow independently, as well as with your colleagues. If you value inclusivity and want to join a culture that empowers you to show up as your authentic self, join us.\n\nAbout The Data Analyst Role\n\n\n \n\nAs a Data Analyst, you will be responsible for analysing data using statistical techniques, implementing and maintaining databases, gathering data from primary and secondary sources and identifying, analysing and interpreting trends from the data.\n\nWhat You’ll Be Doing\n\n\nIn collaboration with the other members of your team and your Manager, you will be in charge of, or participate in the following activities:\n\n\n\nBusiness requirements mapping to functional and technical design\nData structure analysis and data model design\nDevelopment of data transformation processes\nImplementation of metrics and visualisations\nFront-end and user interface development\nWorking with team members by converting business requirements to achieve functional and technical design\nIdeally you will be able to offer\n\n\n\nRelevant Bachelor’s Degree (Data Science, Analytics, Computer Science, Engineering, Mathematics, Physics, Business Technology, STEM, etc.)\nStrong passion for data and technology with the aspiration to work in Management Consulting\nDemonstrable experience using SQL, Python or related languages\nSome knowledge of BI technologies, data modeling, data management\nAt least 12 months Commercial experience in data analysis, data technology, business intelligence, analytics\nExperience working with modern Business Intelligence, Analytics, or Data Management technologies\nOutstanding oral and written communication skills\nAbility and willingness to digest technical business information and present that with sensitivity to business stakeholders\nAbility to build strong relationship with internal team members and client team\nProductivity and autonomy, eager to accept challenges\n \n\n ",
+   "apply_options": [
+    {
+     "title": "SDG Group",
+     "link": "https://careers.sdggroup.com/jobs/3790517-data-analyst?promotion=969960-trackable-share-link-data-analyst&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Glassdoor",
+     "link": "https://www.glassdoor.co.uk/job-listing/data-analyst-sdg-group-JV_IC3253143_KO0,12_KE13,22.htm?jl=1009411801192&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "SimplyHired",
+     "link": "https://www.simplyhired.co.uk/job/qgFtEAbGD4kNvxHQO3g5ClE_XWVS5iFom8bzl5cAkB3c87DHWao9jQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Indeed",
+     "link": "https://uk.indeed.com/viewjob?jk=f61b0595b8093a16&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "BeBee",
+     "link": "https://bebee.com/gb/jobs/data-analyst-haystack-milton-keynes-england--t7xk-825646862?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Talents By StudySmarter",
+     "link": "https://talents.studysmarter.co.uk/companies/sdg-group/milton-keynes/data-analyst-18276589/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Hunt UK Visa Sponsors",
+     "link": "https://huntukvisasponsors.com/job/data-analyst-at-tech-mahindra-hmauqzuqc4wa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Glassdoor",
+     "link": "https://www.glassdoor.com/job-listing/data-analyst-sdg-group-JV_IC3253143_KO0,12_KE13,22.htm?jl=1009411801192&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJTREcgR3JvdXAiLCJodGlkb2NpZCI6IkNEX041RlNkcVBKeGlJaUdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0luVEc5dVpHOXVJRlJXSUZKbFoybHZiaXhGYm1kc1lXNWtMRlZ1YVhSbFpDQkxhVzVuWkc5dCIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURTlGYW5WaGRFSnJkVTlYUkZkWE4wSm9aSHBTUTNaQ1Eya3pOa2w0VVZkZlRUaGZTbk5TYm5OM1VrZHJMVUZyWmxkdlUxRTFVVlp5TkZCdlluTjJRek14U0Y5dVQxQkpORWhaTVZjeVUwSTRUbmQyUW5WaFUwVlVUa0ZOVUd4WFpVSmxNbEF4YVZCb05rRmxORWRJY2poYWFFRTBMVWx5VVdWWmFrRmxOVkpIZDBnMVZrd1NGemR2V0ZoaGRraExRamRRWlRWT2IxQXpXVXhqTmtGUkdpSkJSSE55T1daU1QwaGhSazh4ZVRCV1RWRnNlbWxxU1Y5VFpIRktkbkpaUkhoMyIsImZjdiI6IjMiLCJmY19pZCI6IkNEX041RlNkcVBKeGlJaUdBQUFBQUE9PSJ9"
+  },
+  {
+   "title": "Data Analyst - Specialty",
+   "company_name": "Howden Group Services Limited",
+   "location": "United Kingdom",
+   "via": "Workday",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=data+analyst&htidocid=54LBzrBSQrtKi_BYAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3MsQrCMBCAYVz7CE43CzYiuOgkCIq6FedyTY80Jc2F3Knt0_iqVpefb_qLz6IwJ1SEY8QwicIaqkTWY9Bp9pUbEMJsO-AIZ2YXaHnoVJPsjREJpRNF9ba0PBiO1PBoem7kl1o6zJQCKtXb3WYsU3Qrc-F3S_Mr8zNBRfnlLQnc_eCVWvARHvGvm4-u5eELvIC5E6IAAAA&shmds=v1_ARwrE23QBc1fGA7JJlz8ondknrS5l4w0WD-RBZoUCTsZ8v2ICA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=data+analyst&htidocid=54LBzrBSQrtKi_BYAAAAAA%3D%3D",
+   "extensions": [
+    "9 days ago",
+    "Full-time"
+   ],
+   "source_link": "https://hyperiongrp.wd3.myworkdayjobs.com/en-US/Hyperion_External/job/Data-Analyst---Specialty_R0019598-1",
+   "job_title": "Data Analyst - Specialty",
+   "description": "Who are we? Howden is a global insurance group with employee ownership at its heart. Together, we have pushed the boundaries of insurance. We are united by a shared passion and no-limits mindset, and our strength lies in our ability to collaborate as a powerful international team comprised of 24,000 employees spanning over 56 countries. People join Howden for many different reasons, but they stay for the same one: our culture. It’s what sets us apart, and the reason our employees have been turning down headhunters for years. Whatever your priorities – work / life balance, career progression, sustainability, volunteering – you’ll find like-minded people driving change at Howden. Role Overview Role Overview The role is dedicated to the Aviation team. Its primary focus is to support our Senior Data Analyst, Aviation and ultimately the wider Aviation team with data analysis, reporting and analytics; all of the role’s deliverables relate to the aviation portfolio. For the first year, you will spend dedicated time each week embedded with the central Data & Analytics team. That team provides the formal training, tooling and access to the “back end” — the data lake, SQL and detailed data-analytical environment — that sits behind the Aviation team’s reporting, and the role applies that capability directly to Aviation work. The Aviation team’s data function is currently led by deep domain knowledge — over 20 years of aviation insurance experience across claims, finance, broking and account management — together with a clear understanding of the data and the outputs the team needs. This role complements that domain expertise with formal analytical and technical depth (data-lake access, SQL and structured data analysis), developed and supported through the Data & Analytics team. In summary: Focus: dedicated to Aviation team data, reporting and analytics. Working pattern: approximately 25% of each week embedded with the Data & Analytics team. Development model: technical training, tooling and back-end (data lake / SQL) access provided by the Data & Analytics team and applied directly to Aviation work. What You’ll Do Work with brokers and business stakeholders to understand real-world problems and translate them into data and AI questions. Explore and prototype data ideas, helping to shape user stories and analytical approaches. Clean, analyse and validate data from multiple sources — including premium and placement data, claims experience and underwriter / portfolio performance — to ensure accuracy and reliability. Spot patterns, trends and anomalies, and help explain what they mean in practice. Use modern data and analytics tools to turn raw data into clear, actionable outputs — reports, dashboards and analytics that support broker lineslips / facilities and senior management, both regular and ad-hoc. Support the use of AI-enabled tools to automate repetitive data entry, cleansing and reconciliation, and to accelerate the production of reports and analytics. Collaborate with data, technology and analytics teams across the wider group. Apply appropriate human review, document your work and follow best-practice data and AI standards. Break problems into steps an agent can execute, and use good judgement about when to lean on AI and when to do the work yourself. What You’ll Grow Into As you build aviation domain knowledge and technical depth, the role broadens to include: Acting as a data and analytics point of contact for the team’s lineslip portfolio — building and maintaining reporting suites covering bordereaux, income, claims and utilisation. Producing consolidated, portfolio-level analytics to support renewal strategy and market presentations. Identifying data-quality issues in lineslip records and working with brokers to resolve them at source. Acting as a business-analyst liaison between the broking team and IT / AI development resources — defining requirements, mapping workflows and setting data-capture standards. Participating in testing (UAT) and supporting brokers using AI-enabled tools: troubleshooting, onboarding users and maintaining guides and training materials. What We’re Looking For Essential A degree (or equivalent) in a numerate or analytical subject — e.g. maths, statistics, data science, economics, engineering or sciences. Strong attention to detail and logical thinking. A genuine interest in how data can influence business decisions. Confidence explaining ideas to both technical and non-technical audiences. An inquisitive, problem-solving mindset — comfortable with modern AI tooling and keen to keep pace with a fast-moving landscape. Technical skills (you don’t need all of these on day one) Experience using Excel for analysis. Exposure to Python, SQL and/or R through study, projects or internships. Familiarity with data-visualisation tools such as Power BI (or similar). Interest in learning modern data platforms (e.g. Databricks). Experience using GenAI / LLMs to support operational workflows and analytics. Any exposure to automation tools (e.g. Power Automate) and to producing presentation materials is an advantage. Nice to have (but not required) University or personal projects involving real datasets. A basic understanding of data modelling or data pipelines. An interest in — or willingness to learn — insurance and aviation. Domain knowledge can be developed on the job. Key Stakeholders Emma Roberts and the wider Aviation team. Aviation brokers and client executives. Markets / insurers (indirectly, through placement data and reporting). Central Data & Analytics team; IT / AI development teams. Operations teams. How Success Will Be Measured Accuracy and timeliness of reporting. Quality and usefulness of data insights. Data quality and completeness across the aviation portfolio. Growing confidence and independence with the data platform and analytical tooling. Adoption and effectiveness of AI-enabled tools in day-to-day work. Progress against agreed learning and development goals. Tools & Systems (Typical) Microsoft Excel. Power BI. SQL / data lake (e.g. Databricks). Power Automate / Power Platform. SharePoint / Dataverse GenAI tools (e.g. Copilot / Claude) for reporting and process support. What You’ll Get A structured early-career role with on-the-job learning and mentoring. Exposure to client and operations work across a specialist line of business. Training and professional qualifications (e.g. Chartered Insurance Institute). Competitive salary, generous pension and private medical cover. What do we offer in return? A career that you define. At Howden, we value diversity – there is no one Howden type. Instead, we’re looking for individuals who share the same values as us: Our successes have all come from someone brave enough to try something new We support each other in the small everyday moments and the bigger challenges We are determined to make a positive difference at work and beyond Reasonable adjustments We're committed to providing reasonable accommodations at Howden to ensure that our positions align well with your needs. Besides the usual adjustments such as software, IT, and office setups, we can also accommodate other changes such as flexible hours* or hybrid working*. If you're excited by this role but have some doubts about whether it’s the right fit for you, send us your application – if your profile fits the role’s criteria, we will be in touch to assist in helping to get you set up with any reasonable adjustments you may require. *Not all positions can accommodate changes to working hours or locations. Reach out to your Recruitment Partner if you want to know more. Permanent Howden began in 1994, as just three people and a dog. Now there are 23,000 of us, and we're a leading global insurance group, managing $37bn of premiums for our clients. Our largest shareholder group is us – the people who work in the business – supported by three long-term, minority growth-equity partners who share our vision to build a business to last, one that will never be sold. The owner's mindset is something that's embedded in our culture; our people readily take ownership of their decisions, their actions, and their outputs. They’re invested in every sense. And we all know that by working together to drive the business forward, everyone will benefit from the extraordinary results we can achieve.",
+   "apply_options": [
+    {
+     "title": "Workday",
+     "link": "https://hyperiongrp.wd3.myworkdayjobs.com/en-US/Hyperion_External/job/Data-Analyst---Specialty_R0019598-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Built In",
+     "link": "https://builtin.com/job/data-analyst-fincrime/11223175?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "CSR Jobs",
+     "link": "https://csrjobs.club/jobs/sc-johnson-professional-europe-data-analyst-sustainability-69wr?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Talents By StudySmarter",
+     "link": "https://talents.studysmarter.co.uk/companies/datatech-analytics/data-analyst-heathrow-51443898/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "RGP Remote Jobs In USA",
+     "link": "https://remoterush.mysmartpros.com/job/4434663?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Job Leap",
+     "link": "https://www.jobleap.co.uk/job/BTglw4dAF/data-analyst-sustainability?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "CWJobs",
+     "link": "https://www.cwjobs.co.uk/job/data-analyst-pitstops/relay-technologies-ltd-job107993587?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Hunt UK Visa Sponsors",
+     "link": "https://huntukvisasponsors.com/job/data-analyst-supply-3c76xha7wj20?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBTcGVjaWFsdHkiLCJjb21wYW55X25hbWUiOiJIb3dkZW4gR3JvdXAgU2VydmljZXMgTGltaXRlZCIsImh0aWRvY2lkIjoiNTRMQnpyQlNRcnRLaV9CWUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSW5URzl1Wkc5dUlGUldJRkpsWjJsdmJpeEZibWRzWVc1a0xGVnVhWFJsWkNCTGFXNW5aRzl0IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNYSjZhakZzTUZoblpFaGhlRXhpYVRoTk9VRmhOVGhRU0RSUGF6SldZMGxYVmxvMmVFWlNWVjl3WTFoNE9XWnRkWHBxU0VSaGEwRlpSbXd3YlRrNVpUVnZVemxwYkdsMGIzVXRaMlZ6TkdkclZESnlOeTFMTFY4eVRreHRjbkJXV1VOWlkzQkpiVGR2UmxGTmNucHBVV3RxT1ZVNGRIbGhZbFJHU0cwelZtUXdiMFpMTFdZU0Z6ZHZXRmhoZGtoTFFqZFFaVFZPYjFBeldVeGpOa0ZSR2lKQlJITnlPV1pSVWpCU00ydHNjVWhzUjBSWE5uTnZSSE4xVFdOWFFuWmxiV05uIiwiZmN2IjoiMyIsImZjX2lkIjoiNTRMQnpyQlNRcnRLaV9CWUFBQUFBQT09In0="
+  },
+  {
+   "title": "Bureau Data Analyst Lead",
+   "company_name": "Commercial Services Group",
+   "location": "West Malling, United Kingdom",
+   "via": "SimplyHired",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=data+analyst&htidocid=YR7ElK5Gsfpu3zkkAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNuwrCMBSAYVz7CE5nFm1EcFAnL1DwMok4ltP0kEaSnJCTSn0k39K6_PBNf_GdFOrQJ8IeTpgR9gHdRzJcCVtYwJkbEMKkO-AAFbNxNN11OUfZKiXiSiMZs9WlZq84UMODenEj_9TSYaLoMFO9Wi-HMgYz2xzZe0raooM7pbfVJFAl7iPYAE8a3zd0zgYzh0ewmVq4jGjZ_wCYtMdyrAAAAA&shmds=v1_ARwrE21zFcdxEoCIugfwnEeHi9eK-9PG5eVK_nlROXUrWDPJqg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=data+analyst&htidocid=YR7ElK5Gsfpu3zkkAAAAAA%3D%3D",
+   "thumbnail": "https://serpapi.com/searches/6ad785ec1736b768c9dd2dfb/images/rsVXr9cnabEcIGnkSnySILQ5eVjZAkMWSC8n4YCVZXE.jpeg",
+   "extensions": [
+    "6 days ago",
+    "£32,126.17 a year",
+    "Full-time",
+    "No degree mentioned"
+   ],
+   "detected_extensions": {
+    "qualifications": "No degree mentioned"
+   },
+   "source_link": "https://www.simplyhired.co.uk/job/hpxkx8R2yQPof3QAgOHNzHZmmN2_rx2AFZp2SsPCnJCDZXNbJ1gu6A",
+   "job_title": "Bureau Data Analyst Lead",
+   "description": "Location: Kings Hill / Hybrid\n\n\nSalary/package: £32,126.17 per annum\n\n\nContract type: Permanent\n\n\nHours: Full time, 37 hours per week\n\n\nAs a Bureau Data Analyst Lead, you will lead a team of Bureau Data Analysts who deliver reporting, analysis and insight to public sector customers across energy and utilities. This is an opportunity to shape and influence a growing service, ensuring customers receive high-quality reporting while helping the business continuously improve and innovate.\n\n\n\nThis is an excellent opportunity for an experienced people manager who is passionate about data, continuous improvement and delivering great service outcomes. You'll lead and develop a growing team, use insight to inform decision-making and play a key role in shaping the future direction of the bureau service, with a visible impact across the wider organisation.\n\n\nWho we are\nLASER Energy's mission is to deliver unique end-to-end solutions that help reduce energy costs and support the public sector on their journey to net zero.\n\n\nAs the leading provider of decarbonisation and energy services to the public sector, our goal is to always push the boundaries; we’ll explore new solutions and technologies to make sure the journey to net zero grows ever-greener and always more efficient – for us and our customers. All the while we strive to deliver on our goals, we also recognise how important it is to create an inviting, colourful place for our employees to work.\n\n\nWhy this role matters\nAs the lead for the Bureau Data Analyst team, you'll drive service excellence, identify opportunities for improvement and help shape the future direction of the service. You'll empower and develop a team of analysts, using data and insight to strengthen decision-making, improve customer experience and support the delivery of an evolving, market-leading service.\n\n\nWhat you’ll be doing\nLeading and develop a team of Bureau Data Analysts to deliver excellent customer outcomes.\n\n\nManage team performance, workload planning and delivery against service standards and deadlines.\n\n\nSupport colleagues through coaching, mentoring and ongoing development conversations.\n\n\nEnsure reporting outputs meet high standards of quality, consistency and accuracy.\n\n\nChallenge existing processes to identify opportunities to improve services and customer outcomes.\n\n\nDeveloping new service opportunities that add value for existing and future customers.\n\n\nManaging escalations and supporting the resolution of complex operational challenges.\n\n\nProviding performance reporting and insight to support decision making and future service development.\n\n\nWhat we’re looking for\nProven experience managing and developing successful teams.\n\n\nStrong experience working with data, reporting and performance information.\n\n\nThe ability to challenge processes, identify opportunities and drive positive change.\n\n\nExperience implementing service improvements and delivering measurable outcomes.\n\n\nExperience managing operational performance, quality standards and delivery targets.\n\n\nGood Microsoft Excel and Power BI skills.\n\n\nA proactive, inquisitive and solutions-focused approach with a desire to continuously improve services.\n\n\nEnergy industry experience would be beneficial but is not essential. We are more interested in candidates with strong leadership, data and service improvement experience.\n\n\nWhat you’ll get in return\nSalary of £32,126.17 per annum.\n\n\n25 days annual leave, increasing to 27 after four years.\n\n\nBirthday Day Off.\n\n\nOne Concessionary Day off during the Christmas Period.\n\n\nLife assurance cover 4x salary.\n\n\nPension scheme with 4% employer contribution.\n\n\nAdditional benefits including retail and gym discounts, health cash plan and cycle to work scheme.\n\n\nVolunteer days and access to a comprehensive wellbeing programme.\n\n\nTailored development support with real opportunities to progress.\n\n\nAccess to Learning & Development opportunities via our CSG Academy.\n\n\nHybrid working.\n\n\nWhy CSG?\nCSG is the UK’s largest local authority-owned trading company (LATCO), generating over £700 million in revenue per annum and supporting more than 16,000 education and public sector customers globally.\n\n\nWe are growing through a combination of organic development, acquisitions and strategic partnerships. Our 35+ businesses deliver services across education, IT, HR, legal, energy, procurement and more, all focused on delivering meaningful impact.\n\n\nAs a locally owned organisation, we take pride in reinvesting a significant proportion of our profits into frontline services, helping strengthen the communities we serve.\n\n\nInclusion & Accessibility\nWe are committed to fostering a diverse and inclusive workplace where everyone feels valued and respected. We encourage applications from suitably qualified people of all backgrounds.\n\n\nAs a member of Inclusive Employers with Silver Accreditation, we are actively building an environment that supports inclusion, flexibility and belonging for all colleagues.\n\n\nWe are committed to providing reasonable adjustments throughout our application and interview process; please let us know if you require any.",
+   "apply_options": [
+    {
+     "title": "SimplyHired",
+     "link": "https://www.simplyhired.co.uk/job/hpxkx8R2yQPof3QAgOHNzHZmmN2_rx2AFZp2SsPCnJCDZXNbJ1gu6A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Indeed",
+     "link": "https://uk.indeed.com/viewjob?jk=41faaa3bcaabb27a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "LinkedIn",
+     "link": "https://uk.linkedin.com/jobs/view/bureau-data-analyst-lead-at-laser-energy-part-of-commercial-services-group-4476672034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Glassdoor",
+     "link": "https://www.glassdoor.co.uk/job-listing/jv?jl=1010295608180&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Jobijoba UK",
+     "link": "https://www.jobijoba.co.uk/detail/92/18d5f1e3f30c6ff699cc04cb78db6fc8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Jobrapido",
+     "link": "https://uk.jobrapido.com/jobpreview/6262827303856766976?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Trabajo.org",
+     "link": "https://gb.trabajo.org/job-4112-6447c3f2dd58942fac6c086e3875cd4e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Recruit.net",
+     "link": "https://www.recruit.net/job/bureau-data-analyst-jobs/39AAD7C830E735D0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJCdXJlYXUgRGF0YSBBbmFseXN0IExlYWQiLCJjb21wYW55X25hbWUiOiJDb21tZXJjaWFsIFNlcnZpY2VzIEdyb3VwIiwiaHRpZG9jaWQiOiJZUjdFbEs1R3NmcHUzemtrQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJblRHOXVaRzl1SUZSV0lGSmxaMmx2Yml4RmJtZHNZVzVrTEZWdWFYUmxaQ0JMYVc1blpHOXQiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEhORVpGbG9hVXAwYlVZNU5YZGZTM1l3TmtWdGFGWXpZV1ZUT1d4QlFrNUxUMnhOY2xWV05rSnRaV3AyY1ZSSlVreHNPV3BWV1ZFNWIwNHlURFZsVlUxaU56UXpWalJJWlZwbE5tWTVNMEZUWVhwMGFtOWhXSEoxV25kaVVIWTJaMmRGYVVSak5XSlhibVJuVFVoUFZWRnZNSEE1TjFWMk4zZGxRVWhOYlVrMllpMTFRbE1TRnpkdldGaGhka2hMUWpkUVpUVk9iMUF6V1V4ak5rRlJHaUpCUkhOeU9XWlRZVkJNTWxScWMyMUhiemxVZGpaQlJETmxlQzFLWDFZM1p6ZFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJZUjdFbEs1R3NmcHUzemtrQUFBQUFBPT0ifQ=="
+  },
+  {
+   "title": "Business Analyst - Chief Data Office",
+   "company_name": "Barclays",
+   "location": "Glasgow, United Kingdom",
+   "via": "Barclays Careers",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=data+analyst&htidocid=o9pUPMRY6VFWW4QqAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE4HbqKNCC52sgqCDk7O5Zpek0iaK70T26fxVa3LP_zDl30XWVG-JSQSgVPCOInCFs4-UAsXVIRH2wZL87txDUI4WA-c4MrsIi0Lr9rL0RiRmDtR1GBzy53hRDWP5sW1_FOJx4H6iErV_rAb8z659aqctYiTQJjBiOL4s4FnCkoN3ENyDXc_UhaThKIAAAA&shmds=v1_ARwrE224gECnm8ructxdBPsJ-Gy0HlOHZFqJQIXVyXV5uPz8Pg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=data+analyst&htidocid=o9pUPMRY6VFWW4QqAAAAAA%3D%3D",
+   "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADYAAAA4CAMAAACBkfufAAAAVFBMVEX___8Are8Aq-8AqO4Apu4rsvDx-f77_f_P6vrm9P3V7Pu44Pih1_el2Pfb7_tbvvJ8yfQ7tfCt2_eO0PVyxvMAn-3I5_qZ0_aGzfVnwvPB4_lJufFzv_GSAAABi0lEQVRIie2ViY6kIBCGi1OQS4RG0fd_zy16xs5mZgy6m2yySf-JKSF8qbIOBHjrrf9D3gaRh7uUenBK2HQXk8NICYk3iGESUaENhIjmN4rpSrCREdrOC0JYMxjsBa8zw-MFc9KsAyjNzn1nBBXTSptldRLPdY8aeDtG6JN6Wd77uhbbdzHdwcafsfHPMN_B9I8Y7wX5mZKvWIf6LMBX9eu90O8UXbqY5ERUtn6Um64rq4Jw2cUgc5X4EWsEnhTPfQp0ArYdCWXaUEgXnKHmFcLRXBXWfh9_aITtVT22Qa9DXpK_Fe9KOg4ZfgTJzXUK_e3PMFm44esptTO2q5tQk-_1799J-hGHXw_40uarlMHj2g9ag9TSnM2cEo4C8BnMvmYQJskH7j42zaEWUewZFqwFkwI-bpkT7uBF6VKGPFnJTwfcZBPRCQO3R5iwYBKvWYFN6TEIxc4q6Cxws_gwriVbs4NWO1jno_YBFJRwgs01e_w5qcUWEH6JztdaATanEpiQ71b-rbf-pX4B8eMPcDUSOUEAAAAASUVORK5CYII.png",
+   "extensions": [
+    "5 days ago",
+    "Full-time"
+   ],
+   "source_link": "https://search.jobs.barclays/job/glasgow/business-analyst-chief-data-office/13015/102040053824",
+   "job_title": "Business Analyst - Chief Data Office",
+   "description": "Barclays’ Chief Data Office is seeking an experienced Business Analyst who combines strong data literacy, business and data architecture awareness and process re-engineering expertise with a proven track record of delivering complex change within large financial services organisations. The ideal candidate will be comfortable navigating a SAFe delivery environment, working across multiple Agile teams and stakeholder groups to translate strategic objectives into sustainable business outcomes. They will be equally adept at analysing data, redesigning processes, shaping requirements, influencing senior stakeholders and partnering with architecture and engineering teams to deliver enterprise-scale transformation. \n\n \n\nTo be successful in this role, you should have sounded knowledge and skills in:\n\n\nProven Business Analysis experience delivering large-scale business and technology transformation programmes within complex, highly regulated financial services organisations.  Strong experience working within a Scaled Agile Framework (SAFe) environment, including Programme Increment (PI) planning, backlog refinement, feature definition, dependency management and cross-functional delivery.  Strong understanding of data management, data architecture, governance, lineage, metadata and regulatory data requirements.  Experience leading business process redesign, target operating model development and organisational change initiatives.  Ability to engage effectively with business and technical stakeholders at all levels, including senior leadership, architects, engineers and data professionals.  Strong analytical, problem-solving and stakeholder management capabilities, with the ability to use data to identify issues, generate insights and support decision-making.  Experience using JIRA, Confluence, Visio, MS Project and Microsoft Office applications.  \n\nYou may be assessed on the key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking and digital and technology, as well as job-specific technical skills.\n\n \n\nThis role will be based out of Glasgow.\n\n Purpose of the role\n\nTo support the organisation, achieve its strategic objectives by the identification of business requirements and solutions that address business problems and opportunities. \n\n\nAccountabilities\n\nIdentification and analysis of business problems and client requirements that require change within the organisation.Development of business requirements that will address business problems and opportunities.Collaboration with stakeholders to ensure that proposed solutions meet their needs and expectations.Support the creation of business cases that justify investment in proposed solutions.Conduct feasibility studies to determine the viability of proposed solutions.Support the creation of reports on project progress to ensure proposed solutions are delivered on time and within budget.Creation of operational design and process design to ensure that proposed solutions are delivered within the agreed scope.Support to change management activities, including development of a traceability matrix to ensure proposed solutions are successfully implemented and embedded in the organisation.\nVice President Expectations\n\nTo contribute or set strategy, drive requirements and make recommendations for change. Plan resources, budgets, and policies; manage and maintain policies/ processes; deliver continuous improvements and escalate breaches of policies/procedures..If managing a team, they define jobs and responsibilities, planning for the department’s future needs and operations, counselling employees on performance and contributing to employee pay decisions/changes. They may also lead a number of specialists to influence the operations of a department, in alignment with strategic as well as tactical priorities, while balancing short and long term goals and ensuring that budgets and schedules meet corporate requirements..If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others..OR for an individual contributor, they will be a subject matter expert within own discipline and will guide technical direction. They will lead collaborative, multi-year assignments and guide team members through structured assignments, identify the need for the inclusion of other areas of specialisation to complete assignments. They will train, guide and coach less experienced specialists and provide information affecting long term profits, organisational risks and strategic decisions..Advise key stakeholders, including functional leadership teams and senior management on functional and cross functional areas of impact and alignment.Manage and mitigate risks through assessment, in support of the control and governance agenda.Demonstrate leadership and accountability for managing risk and strengthening controls in relation to the work your team does.Demonstrate comprehensive understanding of the organisation functions to contribute to achieving the goals of the business.Collaborate with other areas of work, for business aligned support areas to keep up to speed with business activity and the business strategies.Create solutions based on sophisticated analytical thought comparing and selecting complex alternatives. In-depth analysis with interpretative thinking will be required to define problems and develop innovative solutions.Adopt and include the outcomes of extensive research in problem solving processes.Seek out, build and maintain trusting relationships and partnerships with internal and external stakeholders in order to accomplish key business objectives, using influencing and negotiating skills to achieve outcomes.\nAll colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave..",
+   "apply_options": [
+    {
+     "title": "Barclays Careers",
+     "link": "https://search.jobs.barclays/job/glasgow/business-analyst-chief-data-office/13015/102040053824?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "JobLeads",
+     "link": "https://www.jobleads.com/gb/job/business-analyst-chief-data-office--glasgow--e1540869139df18c05b043b5fd77279bb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0IC0gQ2hpZWYgRGF0YSBPZmZpY2UiLCJjb21wYW55X25hbWUiOiJCYXJjbGF5cyIsImh0aWRvY2lkIjoibzlwVVBNUlk2VkZXVzRRcUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSW5URzl1Wkc5dUlGUldJRkpsWjJsdmJpeEZibWRzWVc1a0xGVnVhWFJsWkNCTGFXNW5aRzl0IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNqRmtjV2N0UTBGMmExOHdZamxDU1MxU1EwUlJTM05JTFdoV1ZsVkJRakoyZDNSZk5FYzRPVEpWVkdoUFJITm9jRGs0TTNkS2RsWlhXRU5JTFRRdFkxaHpSbFp2Y2tneVJESm1hM2RuYzBOMGFFbHZaMjVxV21oZmFtWlhSRFoxYWtnMGFTMWtTMU5SU3pCU1IyOUpiMmQ1Tm5sNVZucDBaa3hwVmtKd1FsWTRhMWhzYm5FU0Z6ZHZXRmhoZGtoTFFqZFFaVFZPYjFBeldVeGpOa0ZSR2lKQlJITnlPV1pSY1V4VlMyUkxPSHBHYm1GbVVqWjFVa0k1TWxkRWRIWnZObFJCIiwiZmN2IjoiMyIsImZjX2lkIjoibzlwVVBNUlk2VkZXVzRRcUFBQUFBQT09In0="
+  },
+  {
+   "title": "Senior Data Analyst (12 Month FTC)",
+   "company_name": "Funding Circle",
+   "location": "Anywhere",
+   "via": "Jobs",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=data+analyst&htidocid=68KIBGJPIhuizAVbAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXJvQrCMBAAYFz7CE43VtFGCw7qJJUK_kzqLGlyJJH0rjQn1NfxSdXlW77sM8rWV6TAPey1aNiRju8kkC9LuDCJh_pWTWAOR24goe6NByY4MLuI460X6dJGqZRi4ZJoCaYw3CombHhQT27Sn0fyuscuasFHuVoMRUdumtcvsoEcVKE3ESEQnJks0wzuFAQtnH5ruf0C2ae5WKUAAAA&shmds=v1_ARwrE20xUlyhHPAeTnixKIgZ_sKSWqnp2Sql6TP5C1MgwiF30w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=data+analyst&htidocid=68KIBGJPIhuizAVbAAAAAA%3D%3D",
+   "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAq1BMVEX___-mGciiAMbYqejMld7XsOW5tL-fAMT5-PnXpee7t8H7-_uwqrfm5Oitp7TW09kwC0sAACx6bodELVrs1vPKx8_b2d7Vq-Py8fPjxe7Kjd306Pjp0fLozfHz4_ivPM6OhZlMN2FjVnNcTW6bk6Q1GU8AADI9I1SGfJEAABjGgNwfAEAAACK9addwZH-lnqz48foAACe6YNUpAEcNADe1UdLDeNsYADveuuv-sQKUAAABeklEQVRIie2SfU_CMBCHbwXaUdt1dLSMV_cKU3RFUfD7fzLbOaOZwt-a7FnS3yXNk_RuB9DT09Pzz5gvli5Ww1X3JvavaR4ha4DNLSFjSNIo_XaX4Zxe8kbE88gKpgh5aAB1ceMrHWOumAIdZJhyrEwMjAYdb2k9J9rTiTJLsGSiVCGb8C3b0VxFlZQsCu464j1y4nSEWlFSIbGOVAZ7ugNJMxVpmkkGDx3RQxYyfWxiDLUBkJWJaA5bsRU21U7g3GTqqSMOHYvDrIkp2M6AV0GhDSQ-TQJhdMGFgaLoiiPH7DBvYgOgmQYs2suEt4VO07ojouaNy2fy8VR6LPaKWvHGfnAW7nTEvOM10_QQDNrh5BiEqrBMpTmGcaiDsvyhfIloCH4rRrZHkKwu_IlP7V95obK6KKJXm2vifSwAGFOxGsMENA_VS4DV76Lt7NQUa8-tHA_LI5dBxiAJ9_ysi7C8IJ6Gm8_y7TR3Y2gHA3ETV9e8p6en58_yDodMHHIcm5TYAAAAAElFTkSuQmCC.png",
+   "extensions": [
+    "12 days ago",
+    "Work from home",
+    "Full-time",
+    "No degree mentioned"
+   ],
+   "detected_extensions": {
+    "qualifications": "No degree mentioned"
+   },
+   "source_link": "https://jobs.ashbyhq.com/fundingcircle/9f36a474-b2ac-43e2-9e5c-ea78fb0e0506",
+   "job_title": "Senior Data Analyst (12 Month FTC)",
+   "description": "We’re on a mission to back the UK’s small businesses like no one else 🚀Small businesses are the backbone of the economy, and we’re here to help them win. We’ve built a platform that uses clever data to get them the funding they need in minutes, not weeks.\n\n\n\nAt Funding Circle, we have the restless energy of a fintech start-up with the stability of a public company. It’s a unique mix that gives Circlers the autonomy to take ownership and the scale to make an impact that truly counts.\n\n\n\nWe’re a high-performing team that chooses to lift each other up. We challenge, we champion, and we have each other’s backs -  because we know that when we stand together, we move faster and build better.\n\n\n\nThe impact is real: Last year alone, the businesses on our platform generated £7.2bn for the UK economy 📈 Come and join a mission that matters!\n\n[Read our Impact Report] | [See our Trustpilot]\n\n\n\nThe role ⚡📍 London (Hybrid) | 🤝 2 days in the office | 💰 Competitive Salary + Benefits\n\nYou’ll make a real difference for our customers and your team from day one. We believe the fastest way to grow is by doing, so we give you the ownership to run with things and see real-time results.\n\nWe are looking for a Senior Data Analyst to join the Data team, which sits under Tech and Data.\n\n This role is a 12 month FTC joining a team of experienced analytics engineers and managers to support the increasing Analytical demands across the business. In this role, you will:\n\nDesign, develop and maintain performant, scalable and best practice Tableau reports.\n\nCollaborating with business users to understand their needs with the aim to automate identified manual processes, and create documentation.\n\nProvide training and support to Tableau users.\n\nSupport and collaborate with 3rd party developers to ensure a successful migration from AWS Athena to Snowflake whilst representing the businesses needs.\n\nWhat we’re looking for 🌱Deep Expertise in SQL with experience working with modern Data Warehouses (Snowflake, Redshift, BigQuery).\n\nA practical approach to problem-solving that balances high technical standards with key business priorities\n\nExpert in Tableau\n\nExceptional communication and interpersonal skills, with the ability to partner smoothly across non-technical teams using Data for story telling.\n\nStrong interpersonal and communication skills and the ability to work collaboratively in cross-functional teams.\n\nAble to architect custom AI solutions and smart automated systems that are safe, maintainable, and aligned with our long-term mission\n\nAct as a technical bridge and mentor, training “builders\" across the company to move from basic AI usage to sophisticated system creation\n\nSkills we’d love to see:\n\nStrong understanding of financial datasets or prior exposure to the banking/fintech sector.\n\nIdeally experience with DBT, building and maintaining modular, scalable data models.\n\nWe’re building a place where everyone truly feels they belong. Even if your past experience doesn't align perfectly with every requirement, we'd still love to hear from you.\n\n\n\nWhy join us? 💜We back you to build an incredible career and by joining us, you'll be part of one of The Sunday Times Best Companies to Work For 2026! As a flexible-first employer, we use a \"best of both\" approach. We’ll see you in our London office to collaborate – with barista coffee and subsidised Just Eat lunches on us!\n\nOur Circler Proposition focuses on five areas:\n\nFlexibility: We provide a benefit allowance you can tailor to your own life and family.\n\nHealth: This includes private medical and dental, health assessments, and access to a digital GP.\n\nWealth: We offer life assurance, share schemes, and financial coaching.\n\nDevelopment: You get a dedicated annual learning allowance to help you level up.\n\nLifestyle: We have electric car and cycle-to-work schemes, plus season ticket loans.\n\nWe also have award-winning parental leave policies. We're here to support you through the big life moments, from fertility treatments to new additions to the family.\n\n\n\nReady to join a mission that matters? We’d love to chat!",
+   "apply_options": [
+    {
+     "title": "Jobs",
+     "link": "https://jobs.ashbyhq.com/fundingcircle/9f36a474-b2ac-43e2-9e5c-ea78fb0e0506?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "BeBee",
+     "link": "https://bebee.com/gb/jobs/senior-product-analyst-12-month-ftc-just-eat--ss-gb-1d2mfb0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Talents By StudySmarter",
+     "link": "https://talents.studysmarter.co.uk/companies/just-eat-takeaway-com/senior-product-analyst-12-month-ftc-30720902/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "ApplyCV",
+     "link": "https://www.applycv.app/jobs/senior-product-analyst-12-month-ftc-just-eat-takeaway-478f34?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0ICgxMiBNb250aCBGVEMpIiwiY29tcGFueV9uYW1lIjoiRnVuZGluZyBDaXJjbGUiLCJodGlkb2NpZCI6IjY4S0lCR0pQSWh1aXpBVmJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0luVEc5dVpHOXVJRlJXSUZKbFoybHZiaXhGYm1kc1lXNWtMRlZ1YVhSbFpDQkxhVzVuWkc5dCIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURjg1TFMwMVdqWlhlall3ZG5NeVJHOHlOVVp1Y1haSWRGWjZXbTEzVGtGcGRXNTBSbmxNVG1ab01rcDRiRlF6VVZKbk1HZFBUM1EwWTI5U01UTkZZMDlWTjBOM2FYTXRabVIzVEMxTGMwOWFlV0l0ZVVaM1NFWlpZamd0VVVjMFMzZGFZamRFVlVkS2IzcFlhVzFLWjBOMFgyTk5VbTQ0YmpCa1FURkJSMnRtT0VSbFJVc1NGemR2V0ZoaGRraExRamRRWlRWT2IxQXpXVXhqTmtGUkdpSkJSSE55T1daVVUxZGtXR0pLYlVkQlJFSk5URUUyY1V4RVVVZDNWbVp6WWs5MyIsImZjdiI6IjMiLCJmY19pZCI6IjY4S0lCR0pQSWh1aXpBVmJBQUFBQUE9PSJ9"
+  },
+  {
+   "title": "Data Analyst",
+   "company_name": "MWHTreatment",
+   "location": "Hyde, United Kingdom",
+   "via": "Indeed",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=data+analyst&htidocid=KIups-JxzmVvDNorAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCQAwAUFz7CU4BnUTvRHCxkyBYFDfFsaRtuJ5ck3LJ0P6Bny2-4RXfRbG6oCGcGdOsBju4SQNKmNsehOEqEhIty95s1JP3qskFNbTYulYGL0yNTP4jjf6rtcdMY0Kj-nDcT27ksFk_3tUzE9pAbBAZqrmjLbw4GnVwjxw6GX5iC0BYiwAAAA&shmds=v1_ARwrE22sagyi6AIv1HXoqYf3run5xJR8PqRjX1oaKZmmkHWGPw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=data+analyst&htidocid=KIups-JxzmVvDNorAAAAAA%3D%3D",
+   "extensions": [
+    "Full-time",
+    "No degree mentioned"
+   ],
+   "detected_extensions": {
+    "qualifications": "No degree mentioned"
+   },
+   "source_link": "https://uk.indeed.com/viewjob?jk=03681c54cd4247ce",
+   "job_title": "Data Analyst",
+   "description": "We are looking to strengthen our Data Management team with an Data Analyst based at the Hattersley office with hybrid working available.\n\n\n You will report directly to the Head of Strategy and PMO, and the role purpose is to develop, implement, manage, continually review and refine ESD’s information governance of, and to promote good practice in, the management of all data pertaining to the measured performance of ESD's prescribed activities.\n\n\n \n  Prepare and present reliable data for monthly Operational, JV Partner, and Strategic Board reports.\n \n \n  Ensure alignment with client reporting tools to maintain a single version of the truth.\n \n \n  Embed best practice in information acquisition, management, governance, and lifecycle control.\n \n \n  Improve access to information and enable its effective reuse across the organisation.\n \n \n  Promote information quality, integrity, compliance, and risk awareness.\n \n \n  Maintain retention schedules and ensure statutory compliance in information handling.\n \n \n  Monitor informationmanagement performance and report on compliance trends.\n \n \n  Support the ESD Business Management System and contribute to BIM strategy development.\n \n \n  Interface with all project stakeholders to ensure that data is exchanged effectively and in formats that support their onward purpose.",
+   "apply_options": [
+    {
+     "title": "Indeed",
+     "link": "https://uk.indeed.com/viewjob?jk=03681c54cd4247ce&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJNV0hUcmVhdG1lbnQiLCJodGlkb2NpZCI6IktJdXBzLUp4em1WdkROb3JBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0luVEc5dVpHOXVJRlJXSUZKbFoybHZiaXhGYm1kc1lXNWtMRlZ1YVhSbFpDQkxhVzVuWkc5dCIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbVpLVjJaWFpuTldSMEkyZFVwZlNHY3lNRk5GWkZSRmVtZGFUM0pwV0dkU1NsZDRPV3RsT0hsNVYyNVBkMWxHZGw5UFpFWm1ZMk5CYUc5UVJHcExXVVY0YmxneFptSllWMEY0VEhsbFkyeElRWGRFT0daRlJYazVNRVZJZGpSWmJGUlNNbGhUUkRCUWRXcDBUV3BoYzFaVFNpMW9RMVo2TjBodlIzazFORzVZYTBwNFRGb1NGemR2V0ZoaGRraExRamRRWlRWT2IxQXpXVXhqTmtGUkdpSkJSSE55T1daUlRVRkpSa1kxZDNwRkxXeGxNalZ3VWpCM2NYZHdTMWRTVWpkMyIsImZjdiI6IjMiLCJmY19pZCI6IktJdXBzLUp4em1WdkROb3JBQUFBQUE9PSJ9"
+  },
+  {
+   "title": "Data Analyst (Spanish Speaker)",
+   "company_name": "futureproof",
+   "location": "Anywhere",
+   "via": "Built In",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=data+analyst&htidocid=11UAKABe-LaF5mEEAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7CU63CCraitBFJ0EQ1K04l2ubJtH0LuSuUL_Fn1WXN7zsM8vKMyrCiTC8RWFZRSQvDqpo8GXSCrZw5QbEYGodMMGF2QYzPzrVKIeiEAm5FUX1bd7yUDCZhqfiyY38qcVhMjGgmnpf7qY8kl0v-lHH3ybmHjzBnalj2sCDvJoObp5sx8MXhXaraZ4AAAA&shmds=v1_ARwrE23qfiuc0m5bG-CdtEI1zuWJmsl9bGJn8r7CU_cWunyreA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=data+analyst&htidocid=11UAKABe-LaF5mEEAAAAAA%3D%3D",
+   "thumbnail": "https://serpapi.com/searches/6ad785ec1736b768c9dd2dfb/images/W-N1aZD5_rljtWh2hzcFs2jQGKqMqY4fmwA7ZehKtv8.png",
+   "extensions": [
+    "19 days ago",
+    "Work from home",
+    "Full-time"
+   ],
+   "source_link": "https://builtin.com/job/data-analyst-spanish-speaker/11479939",
+   "job_title": "Data Analyst (Spanish Speaker)",
+   "description": "This is a remote position.\n\n   The Data Analyst plays a critical role in transforming data into reliable business intelligence for the Spanish organization.     \n    \n\n   The role supports operational performance, financial control, customer and merchant insights, and evidence-based decision-making across a transaction-intensive business environment.     \n    \n\n   You will partner with Business, Finance, Operations, Product, Technology, Data Engineering, and Data Governance teams to consolidate information from multiple platforms, define trusted KPIs, investigate discrepancies, and provide a consistent view of customers, transactions, billing, and operational processes.     \n    \n\n   The position also contributes to ongoing data transformation initiatives while ensuring strong standards around data governance, quality, security, and documentation.     \n    \n\n   Key Responsibilities     \n       Business Partnership & Decision Support     \n                Collect, challenge, and translate business needs into clear analytical questions, metrics, dashboards, and data products.       \n      \n\n             Partner with business and functional teams to understand performance drivers and provide insight-led recommendations.       \n      \n\n             Deliver recurring and ad-hoc analysis supporting operational decisions, growth initiatives, service quality, and management reporting.       \n      \n\n             Clearly communicate findings, assumptions, limitations, and recommended actions to both technical and non-technical stakeholders.       \n      \n\n          Data Analysis, Integration & Reconciliation     \n                Analyze and reconcile data from multiple systems, databases, files, and external partners.       \n      \n\n             Identify gaps and inconsistencies between different data sources.       \n      \n\n             Investigate discrepancies and perform root-cause analysis, particularly across transaction, payment, ordering, billing, invoicing, and financial-control processes.       \n      \n\n             Design and maintain unified analytical datasets and repeatable controls providing a reliable and traceable view of business activity.       \n      \n\n             Collaborate with Data Engineering and source-system owners to define transformation rules, resolve data defects, and improve data availability.       \n      \n\n          Analytics, Business Intelligence & Reporting     \n                Develop, maintain, and optimize operational and management dashboards, primarily using Power BI and, where relevant, Qlik Sense, Metabase, or comparable BI tools.       \n      \n\n             Use advanced SQL to query, transform, validate, and analyze large datasets.       \n      \n\n             Apply Python and/or R for statistical analysis, automation, or repeatable analytical processing.       \n      \n\n             Create meaningful visualizations and data stories that make complex findings understandable and actionable.       \n      \n\n             Apply analytical and statistical techniques including:       \n      \n\n                  Trend analysis         \n        \n\n                   Segmentation         \n        \n\n                   Forecasting         \n        \n\n                   Regression         \n        \n\n                   Control sampling         \n        \n\n                   Anomaly detection         \n        \n\n                     KPI Definition, Data Governance & Quality     \n                Define and document business metrics and KPIs, including calculation rules, ownership, source systems, refresh frequency, and quality thresholds.       \n      \n\n             Contribute to data glossary, metadata, data lineage, and master-data initiatives.       \n      \n\n             Establish and monitor data-quality controls covering completeness, accuracy, consistency, timeliness, uniqueness, and traceability.       \n      \n\n             Ensure data is handled in accordance with security, privacy, access-control, retention, and regulatory requirements.       \n      \n\n          Collaboration & Delivery     \n                Work closely with local and international stakeholders across Data Engineering, Architecture, Security, Data Governance, Finance, Operations, Product, and Technology.       \n      \n\n             Contribute to data integration, platform migration, and reporting-modernization initiatives.       \n      \n\n             Ensure continuity of KPIs, reporting, and controls during system or platform transitions.       \n      \n\n             Maintain clear documentation for datasets, dashboards, analytical models, business rules, and controls.       \n      \n\n             Manage priorities transparently and contribute to agile planning and delivery processes.       \n      \n\n             Take ownership of agreed analytical outcomes.       \n      \n\n              \n   \n\n    \n     Requirements            Minimum 3 years of experience in Data Analytics, Business Intelligence, or a comparable analytical role.       \n      \n\n             Demonstrated experience working with multiple data sources and translating business questions into robust analytical and reporting solutions.       \n      \n\n             Experience with data integration, migration, reconciliation, or data-quality improvement initiatives is highly valued.       \n      \n\n             Experience within multinational, digital, fintech, payments, retail, employee-benefits, or other transaction-intensive environments is advantageous.       \n      \n\n          Technical Skills     \n                Advanced SQL, including:       \n      \n\n                  Complex queries         \n        \n\n                   Data transformation         \n        \n\n                   Data validation         \n        \n\n                   Performance awareness         \n        \n\n                   Database optimization         \n        \n\n                        Strong hands-on experience with Power BI.       \n      \n\n             Knowledge of Qlik Sense, Metabase, or comparable visualization platforms is advantageous.       \n      \n\n             Working knowledge of Python and/or R for data analysis, automation, and statistical modelling.       \n      \n\n             Understanding of analytical data modelling concepts including:       \n      \n\n                  Star schemas         \n        \n\n                   Slowly changing dimensions         \n        \n\n                   Dashboard-ready semantic models         \n        \n\n                        Knowledge of Data Governance, Data Quality, metadata, data lineage, and KPI-management practices.       \n      \n\n             Experience with ClickHouse is a plus.       \n      \n\n             Understanding of hybrid or cloud data architectures, ideally within the Microsoft Azure ecosystem, is advantageous.       \n      \n\n          Education     \n       Bachelor's or Master's degree in Statistics, Applied Mathematics, Data Science, Economics, Engineering, Computer Science, or another relevant quantitative discipline.     \n    \n\n   Languages     \n                Fluent Spanish – required       \n      \n\n             Professional English – required       \n      \n\n             French, Portuguese, or additional European languages are an advantage.       \n      \n\n          Key Competencies     \n                Strong data analysis and reconciliation skills       \n      \n\n             Business Intelligence and data visualization       \n      \n\n             Statistical and analytical modelling       \n      \n\n             Business process understanding and KPI design       \n      \n\n             Data governance and data quality       \n      \n\n             Data integration and source-to-target mapping       \n      \n\n             Root-cause analysis and problem solving       \n      \n\n             Strong analytical thinking and curiosity       \n      \n\n             Accountability and ownership       \n      \n\n             Attention to detail       \n      \n\n             Strong stakeholder collaboration       \n      \n\n             Ability to explain complex data topics in clear business language       \n      \n\n             Adaptability and continuous learning       \n      \n\n             Ability to use AI-enabled analytical tools responsibly to support analysis and automation       \n      \n\n              \n   \n\n    \n     Benefits            Based in EU      \n\n\n             Remote      \n\n\n             Collaboration with international teams and stakeholders across different time zones      \n\n\n             B2B Contract",
+   "apply_options": [
+    {
+     "title": "Built In",
+     "link": "https://builtin.com/job/data-analyst-spanish-speaker/11479939?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKFNwYW5pc2ggU3BlYWtlcikiLCJjb21wYW55X25hbWUiOiJmdXR1cmVwcm9vZiIsImh0aWRvY2lkIjoiMTFVQUtBQmUtTGFGNW1FRUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSW5URzl1Wkc5dUlGUldJRkpsWjJsdmJpeEZibWRzWVc1a0xGVnVhWFJsWkNCTGFXNW5aRzl0IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVTkdhalJGV1ZkV05VOVNjRzlETWxWcGRGVTJhbDlOZGxkaWVqVnpla05mYkhkbU1rVkRVV053YzJKbGNVVkhVSGMzY21Wb1dHNDRSbTVDZUhRelUxWm5NMEptU3pkbGNqTnBUSGcxWDBsUmVYWXdlbWRwT1VGUlZubFBiazVqVkRNeFoxWmtlbFp4YzFsaWMyeEtSR3BwVFZOYU1YZHdUamRzWDJKM2RVUjROME13ZGtzU0Z6ZHZXRmhoZGtoTFFqZFFaVFZPYjFBeldVeGpOa0ZSR2lKQlJITnlPV1pVVGxwMlRVTnlhVXhvVEY5Sk9GcDBWbVZJV25WVVoyNWtVRzFCIiwiZmN2IjoiMyIsImZjX2lkIjoiMTFVQUtBQmUtTGFGNW1FRUFBQUFBQT09In0="
+  },
+  {
+   "title": "Insight Data Analyst",
+   "company_name": "SCS Railways",
+   "location": "London, United Kingdom",
+   "via": "Glassdoor",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=data+analyst&htidocid=xbSjnwNuNs0stai7AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCMBAAYFz7CE43OfiTiOBiJ1EQfyaLc7m0IYmkd6V3YPsaPrH4DV_xnRWrK0kKUeGMinAkzJMobODGDsTj0ERgggtzyH5eRtVeDtaKZBNEUVNjGu4sk3c82jc7-VdLxMH3GdXXu_12ND2F5aI6VfDElD84CSSCB1PLtIYXJfUt3BOFlrsfkSLYhZUAAAA&shmds=v1_ARwrE21ClKMRzi8R5pmuBDCdtpGe0j9TWPagSJ6-KxFqBNrOPA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=data+analyst&htidocid=xbSjnwNuNs0stai7AAAAAA%3D%3D",
+   "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAKlBMVEXMPSwpPmskZK4pPm0qPmorPmkoPmomUo0kZbAjZK0jZK4fZK55UW3LPivOZ-tYAAAAMklEQVRIie3LtxEAMAgAMZwj-69LzdEwwKuXFKf1MdeuzrnvqwREIpFIJBKJRCKRmIsGiqcccSwBf8UAAAAASUVORK5CYII.png",
+   "extensions": [
+    "7 days ago",
+    "Part-time",
+    "No degree mentioned"
+   ],
+   "detected_extensions": {
+    "qualifications": "No degree mentioned"
+   },
+   "source_link": "https://www.glassdoor.co.uk/job-listing/insight-data-analyst-scs-railways-JV_IC2671300_KO0,20_KE21,33.htm?jl=1010295610102",
+   "job_title": "Insight Data Analyst",
+   "description": "Job Introduction\n\nPurpose\n\n\nTurn disparate project and financial data into clear, proactive insight - linking trends, early warnings, and predictive signals to decisions made by senior stakeholders and the leadership team. You’ll work with and around existing reporting requirements, adding analysis that explains the “why” and “what next,” not just the “what.”\n\n\nKey Outcomes\n\n\nEarly warning: Detect leading indicators of cost/schedule variance, risk exposure, and delivery slippage before they surface in monthly reporting.\nPredictive view: Build light‑weight forecasts and scenarios that quantify impact and recommend mitigations.\nDecision support: Deliver concise, executive‑ready narratives (one‑pagers, briefings) that drive action.\nWhat You’ll Do\n\n\nAnalyse large, multi‑source datasets (cost, schedule, risk, change, progress) to uncover trends, drivers, and anomalies.\nPerform time‑series, regression, variance and sensitivity analyses; translate results into clear recommendations.\nCreate fit‑for‑purpose visuals (e.g., small-multiple charts, run‑charts, control charts) to evidence findings - no “dashboard factory.”\nDefine and track leading KPIs and thresholds; set up alerts and watchlists for emerging risks.\nPartner with PMO/Project Controls/Finance to align insights with the reporting cycle and governance forums.\nImprove data quality and consistency; shape simple data models that make recurring analysis faster.\n\n\n\nFlexible working: We welcome you to ask about the flexibility you need. This might be part-time, remote working, or compressed hours for example. Anyone who applies for a role can ask about flexibility at interview. In return, we will explore what is possible for the role.\n\n\nThe Ideal Candidate\n\nWhat You’ll Bring\n\n\nStrong analytical toolkit: advanced Excel (modelling, Power Query, complex formulas), sound statistics, and storytelling with data.\nWorking knowledge of Power BI for light modelling/visuals (deep dashboard development not required).\nAbility to join the dots across data, context, and delivery realities; crisp written and verbal communication for senior audiences.\nExperience operating in fast‑paced project environments and influencing through evidence.\nNice to Have (Desirable, not essential)\n\n\nProject Controls background (EV, cost & schedule analytics, trends, PMB, WBS) and/or Finance (budgeting, forecasting, variance).\nAbility to interpret Primavera P6 outputs (logic, slippage, float) and link schedule signals to cost/risk.\nExposure to major infrastructure programmes.\nSQL and/or basic Python/R for heavier analysis or repeatable workflows\nDemonstrable experience in the development of reports and dashboards to a diverse set of stakeholders in a fast paced environmen\nHighly skilled in mainstream BI tools (including but not limited to Power BI\nUnderstand and promote data qualit\nKnowledge or experience with Extract Transform Load (ETL\nKnowledge with Azure integration services\nAbout The Company\n\nThe role will work on the HS2 project. HS2 is the UK’s new high speed rail network. It will be a catalyst for economic growth across Britain, freeing up space on the existing railways and connecting 8 out of the UK’s 10 biggest cities with fast, reliable and frequent high speed services\n\n\nThe Skanska | Costain | STRABAG (SCS JV) is delivering the HS2 London Tunnels Contract. Scope of works includes twin-bored tunnels (TBM), SCL tunnels, shaft sinking, bridge demolition and reconstruction, services diversions, earthworks and the construction of site compounds.\n\n\nYou’ll be a welcomed member of the wider team, with opportunities to take on additional responsibility, join our EDI Champions program or support the local community (e.g. as a STEM ambassador).\n\n\nYour personal and professional development is important to us. We welcome a discussion about how we can support you with further study, or professional membership or attainment for example.\n\n\nHS2 – working with Skanska, Costain and STRABAG, closely monitors job applications, to ensure an inclusive recruitment process. To ensure we are able to maintain this, and to recruit a diverse workforce, we require candidates to complete the diversity form as part of their application so we are able to monitor and improve our approach to diversity. Please note, all responses are anonymous and we will not share any of your data with other parties. All data will be held securely, (as stated within the Data Protection Act 2018 and UK GDPR) and will be reported to HS2.\n\n\nIt is an SCSJV requirement that all employees, Design House, and Supply Chains must implement and comply with the requirements of ISO 9001:2015 Quality Management System, ISO 14001:2015 Environmental Management System with guidance for use”, OHSAS 18001:2017 Occupational Health and Safety Management Systems and ISO/IEC 27001:2013 Information Security Management System, Policies, Plans, Procedures and Processes, and statutory requirements as they affect the Joint Venture ‘s operations and ensure that the requirements, as applicable within their discipline, are effectively implemented on the project. Develop a culture of safety on the project through the absolute commitment to the Zero Accidents target and ethos, and develops a wider awareness of quality, environmental issues and demonstrates commitment to achieve continual improvement and Zero tolerance.\n\n\nWe are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of age, disability, sex, race, religion or belief, gender reassignment, marriage/civil partnership, pregnancy/maternity, or sexual orientation\n\n\nSCS Railways is a Disability Confident Leader. We want to encourage disabled people to apply for our roles and have an opportunity to display your skills, talent, and abilities. We will ensure that a fair and proportionate number of disabled applicants that meet the minimum criteria for this position will be offered an interview.\n\n\nPlease see the disability confident commitments:\n\n\nhttps://www.gov.uk/government/publications/disability-confident-guidance-for-levels-1-2-and-3/level-1-disability-confident-committed\n\n\nTo be considered for an interview under this scheme you have:\n\n\nA physical or mental impairment, which has a substantial and long-term effect (over 12 months) adverse effect on your ability to carry out normal day-to-day activities\nDemonstrated in your application and pre-interview stage that you meet the minimum job criteria and person specification for the role",
+   "apply_options": [
+    {
+     "title": "Glassdoor",
+     "link": "https://www.glassdoor.co.uk/job-listing/insight-data-analyst-scs-railways-JV_IC2671300_KO0,20_KE21,33.htm?jl=1010295610102&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Talents By StudySmarter",
+     "link": "https://talents.studysmarter.co.uk/companies/prostatecanceruk/data-insight-analyst-11005804/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Jobs4 London",
+     "link": "https://www.jobs4london.co.uk/job/szVwTXxyF/london/insight-data-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "LinkedIn",
+     "link": "https://uk.linkedin.com/jobs/view/insight-data-analyst-at-skanska-costain-strabag-joint-venture-4479572196?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Indeed",
+     "link": "https://uk.indeed.com/viewjob?jk=ddcb5acaf7c9c9a0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "HireHi",
+     "link": "https://hirehi.ru/analytics/insight-data-analyst-146348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Jobrapido",
+     "link": "https://uk.jobrapido.com/jobpreview/2288305524946501632?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Talent.com",
+     "link": "https://uk.talent.com/view?id=641973934496221199&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJJbnNpZ2h0IERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNDUyBSYWlsd2F5cyIsImh0aWRvY2lkIjoieGJTam53TnVOczBzdGFpN0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSW5URzl1Wkc5dUlGUldJRkpsWjJsdmJpeEZibWRzWVc1a0xGVnVhWFJsWkNCTGFXNW5aRzl0IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVVmtNakF5T1VZNVlXaG1Xa2xOUW1WR0xWcG5ObmxFUzBKd1VHdG9TMFIwWTJwSWVXMTJPREpTZUhoaGIyWnRZV3BtZFdsU2RVbFVUMUEzV25GV1Z5MXFibUprYm10aU1UaFZjMjl5VEdNMU1XTjJjRGhsWDBoRGVtTmtVRE5FU1d0Q1RHNUJTSEpzTURWd2RrUXRhRlF6TW5NMmVYRlBXbE5DTUZBMGFuTldlVnBMY1dZU0Z6ZHZXRmhoZGtoTFFqZFFaVFZPYjFBeldVeGpOa0ZSR2lKQlJITnlPV1pVWHpKQmJuWndVbk13WmpKRFkzSkhjbUp4VUZjek9HaEhSMlZCIiwiZmN2IjoiMyIsImZjX2lkIjoieGJTam53TnVOczBzdGFpN0FBQUFBQT09In0="
+  },
+  {
+   "title": "Data Analyst/Scientist or Senior Data Analyst/Scientist",
+   "company_name": "Hoare Lea",
+   "location": "Almondsbury, United Kingdom",
+   "via": "BeBee",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=data+analyst&htidocid=jTIk4XoDg2zCZVFkAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_3WKQQrCMBAA8doneNqjiDYieNFTQVBUvBTPJUmXNJLuluwK9WV-z_oALzMwTPGZFfejVQsV2fQWNbWPSBpFgTPUSHHSn2ENF3YgaLPvgAlOzCHh_NCpDrI3RiSVQdRq9KXn3jCh49E82ckPjXQ245CsYrPdbcZyoLBcnHmKcEMLkaBKPVMr7pXfK3hQVGzhGim03H8BVZq3gboAAAA&shmds=v1_ARwrE234G3TC6GawcENpsdgWOkOCY5nY-2niwPU17BynrkLU_g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=data+analyst&htidocid=jTIk4XoDg2zCZVFkAAAAAA%3D%3D",
+   "thumbnail": "https://serpapi.com/searches/6ad785ec1736b768c9dd2dfb/images/p-JFKOqSdPjXIq9lPYTAUXDH0Ot6ISeMtuowAgax4PI.jpeg",
+   "extensions": [
+    "8 days ago",
+    "Full-time"
+   ],
+   "source_link": "https://bebee.com/gb/jobs/data-analyst-scientist-or-senior-data-analyst-scientist-hoare-lea-almondsbury-england--t7xk-880589647",
+   "job_title": "Data Analyst/Scientist or Senior Data Analyst/Scientist",
+   "description": "Bristol or London\nAbout Us\nHoare Lea is a human-centric and planet-conscious engineering consultancy. We offer intelligent and sustainable solutions to complex design challenges for the built environment throughout the UK and further afield.\n\n\nWe provide a wide range of engineering and consultancy services, including acoustics, air quality, building services (MEP), fire, lighting, security and sustainability to name but a few. Together, our highly skilled teams use technical expertise and problem-solving skills to bring buildings to life. We ensure that whatever the building, its design is outstanding, and its operations meet the needs of the communities it serves.\n\n\nWe are as committed to providing an environment where everyone can realise their unique potential. So, in joining Hoare Lea, you will experience a business that enriches your knowledge, supports your wellbeing, and welcomes your individuality. You’ll have the opportunity to participate in our 9-day fortnight scheme, thriving community groups, varied social and networking events, and extensive professional and technical development schemes.\n\n\nWe also offer an extensive benefits package, including private medical cover, an electric vehicle salary sacrifice scheme, stock options, and 25 days of annual leave (increasing with service), alongside flexible and hybrid working.\n\n\nWhatever your ambitions or circumstances, our aim is to enable everyone to develop their knowledge, give their best, and enjoy what they do.\n\n\nAbout The Role\nOur multi-disciplinary software, product, and data team serves as a central hub of digital expertise and innovation, supporting projects across the company. We work collaboratively with engineers, consultants and other specialists to use data and technology to solve real-world problems and improve the services we provide to our clients.\n\n\nWe have an opportunity for a Data Analyst/Scientist or Senior Data Analyst/Scientist to play a key role in using data, analytics, statistical methods and data science to generate insight, support decision-making and improve our engineering services.\n\n\nThis is a broad analytical role. You will work across the full lifecycle of a problem: understanding stakeholder needs, exploring and assessing data, identifying appropriate analytical approaches, communicating findings and, where appropriate, developing statistical or machine-learning models or client-ready insights/tools. This is a role for someone who enjoys variety and has a critical eye for finding the right solution for the problem.\n\n\nSometimes this may be exploratory analysis, a dashboard or a set of clearly defined metrics; in other cases, it may involve forecasting, statistical modelling, machine learning or building/working with AI.\n\n\nIt's an exciting time to join our Digital team. Working alongside a range of specialist engineers and consultants, you will be joining a collaborative, knowledgeable, highly engaged team, and offer a supportive, flexible, and high-performing work culture. In a time where building and energy resilience is ever more important, we are driving forward innovation to make an impact with data and technology.\n\n\nYou will have the opportunity to engage in a variety of high-impact projects, working on challenging problems for some of the UK’s most notable organisations, including the NHS and Oxford University. Our team has recently worked on creating data science-led for managing estates in hospitals, building energy forecasting models, and harnessing data on building performance to create better designed buildings of the future.\n\n\nIn this key and varied role, you can expect to:\n\n\n\nWork with engineers, consultants, product teams and other stakeholders to understand their needs and translate sometimes ambiguous questions into well-defined analytical problems.\nDevelop and implement data-driven solutions to solve real-world business problems across the company.\nUse SQL, Python and other analytical tools to investigate datasets, identify trends and relationships, test hypotheses and generate actionable insights.\nApply appropriate statistical techniques, forecasting methods, ML and AI approaches where they add value to the problem being solved.\nCollaborate with the product and software engineering teams to turn analytical work into reusable tools, workflows and data-driven products where appropriate.\nDevelop reproducible and maintainable analytical code, following best practices, including version control, testing, and peer reviews.\nContribute to the development of analytical and data science capability across the business by sharing approaches, reusable methods and good practice\n\nAbout You\nTo be successful in this role you’ll need:\nEssential Skills\n\nExperience applying data and analysis to real-world business, engineering or operational problems.\nStrong analytical problem-solving skills, with the ability to take an initially ambiguous question and determine an appropriate analytical approach.\nAbility to work on projects independently and own deliverables.\nStrong proficiency in Python for data manipulation, analysis, visualisation and data science (e.g., Pandas, NumPy, Scikit-learn).\nProficiency in data querying languages (e.g., SQL). Solid understanding of software engineering best practices (version control, unit testing, code review, etc.).\nStrong experience with data visualisation frameworks (e.g., PowerBI, Streamlit).\nExperience applying machine learning and AI, including generative AI, to real-world problems where it provides clear benefit.\nFamiliarity with statistical concepts and their application in data analysis.\nSolid communication skills, capable of effectively engaging with and presenting findings to both technical and non-technical audiences.\nUnderstanding of data governance, privacy, responsible AI and other relevant standards.\n\nDesirable Skills\n\nKnowledge of the engineering industry and its challenges.\nExperience with one of the major machine learning frameworks (TensorFlow or PyTorch).\nKnowledge of mathematical optimisation methods, such as linear, integer or constraint optimisation, and associated tools (e.g. OR-Tools).\nExperience with MS Fabric or equivalent data warehousing solution.\nExperience working in a cloud computing environment.\nFamiliarity with containerisation and deployment technologies (e.g., Docker, CI/CD pipelines).\n\nFor candidates joining at\nSenior\nlevel, we would additionally expect you to lead more complex or ambiguous analytical projects, shape analytical approaches and overarching priorities, work independently with senior stakeholders, review and support the work of others, and help raise analytical standards across the team.\nHow To Apply\nTo apply simply complete a CV profile and submit your application.\nIf shortlisted, one of our recruitment team will be in touch to arrange an introductory call (about 30 minutes) to discuss the role and your experience in more detail. From there, successful candidates will be invited to attend a panel interview, either via Microsoft Teams or in person at one of our offices. We aim to provide feedback at each stage of the process.\n\n\nAdjustments and accommodations\nIf there are adjustments or accommodations that we can put in place to help you participate and give your best at any stage of the recruitment process (whether relating to disability, neurodivergence or anything else) please let us know.\n\n\nData privacy\nWe have updated our terms and conditions for candidates, click here to find out more.\n\n\nRecruitment agencies\nWe have a Preferred Supplier List of trusted partners who assist us when required. We do not acknowledge speculative CVs or unsolicited candidate introductions from agencies not on the list.",
+   "apply_options": [
+    {
+     "title": "BeBee",
+     "link": "https://bebee.com/gb/jobs/data-analyst-scientist-or-senior-data-analyst-scientist-hoare-lea-almondsbury-england--t7xk-880589647?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "LinkedIn",
+     "link": "https://uk.linkedin.com/jobs/view/data-analyst-scientist-or-senior-data-analyst-scientist-at-hoare-lea-4477779800?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "JobLeads",
+     "link": "https://www.jobleads.com/gb/job/data-analyst-scientist-or-senior-data-analyst-scientist--almondsbury--eba5c455386678cabbb915604f5b61c44?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Trabajo.org",
+     "link": "https://gb.trabajo.org/job-4112-89d19f5d5617b1398487b5a4d6781281?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Agents.one",
+     "link": "https://agents.one/job/428391/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "AI Engineers Jobs In AEJ",
+     "link": "https://aiengineers.jobs/en/company/hoare-lea/jobs/412067?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QvU2NpZW50aXN0IG9yIFNlbmlvciBEYXRhIEFuYWx5c3QvU2NpZW50aXN0IiwiY29tcGFueV9uYW1lIjoiSG9hcmUgTGVhIiwiaHRpZG9jaWQiOiJqVElrNFhvRGcyekNaVkZrQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJblRHOXVaRzl1SUZSV0lGSmxaMmx2Yml4RmJtZHNZVzVrTEZWdWFYUmxaQ0JMYVc1blpHOXQiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdORmIwRjRiVmhYTUZNNFYwdzNZVTVpTTBKU1UyaGFVV2xvUkVST2ExRk1hWGRDT1RWbE1GRjJhMHBhVkc1ME9WTlVPRWhyUmtWdVlsQnNNbUpQVmtweGJUSTViR0UzTmt0WldIcElNSFJDWlRFdE1FYzFXSEZNTVZadlltNUpVM2QxYUdsQ1NESnNXbnBpWkdWbldGcFdZazFoZWxack5tOVpXRE0wVG5wS2JHVmFlbThTRnpkdldGaGhka2hMUWpkUVpUVk9iMUF6V1V4ak5rRlJHaUpCUkhOeU9XWlRlbVo0V1ROa1ZERlhSMEpOV1VwVFQwMUlWVGhCWkVsbFMwdDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJqVElrNFhvRGcyekNaVkZrQUFBQUFBPT0ifQ=="
+  },
+  {
+   "title": "GTM Insights Analyst - GTM Analytics",
+   "company_name": "Qualtrics",
+   "location": "London, United Kingdom",
+   "via": "Qualtrics",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=data+analyst&htidocid=yCoozF_nKoMj_dgXAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2MvQrCMBRGce0jOF1wE01EcLFTp-LfIOhckjQkkfTe0nuF-jS-qq3LgXP4-Irvoijrxw1OyClEYajQ5A8LbGHOf5PkePIzWWBvBheBEGqikP2yjCI9H7VmziqwmGmsHHWa0Fsa9Yssz2g4msH32Yhv9ofdqHoM69X9bbIM831CuBK2hBt4YhLfwiVhaKn7AWlNoSSiAAAA&shmds=v1_ARwrE20XFcHrqFeIj5H84n6PuWK58iDihQZOifkODw7ttpRnZA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=data+analyst&htidocid=yCoozF_nKoMj_dgXAAAAAA%3D%3D",
+   "thumbnail": "https://serpapi.com/searches/6ad785ec1736b768c9dd2dfb/images/ohbD1LZcD9j8w5ouS-0dLFwAuqunBZJwYpWSPZ9RcpQ.jpeg",
+   "extensions": [
+    "3 days ago",
+    "Full-time"
+   ],
+   "source_link": "https://www.qualtrics.com/careers/us/en/job/8274176/GTM-Insights-Analyst-GTM-Analytics",
+   "job_title": "GTM Insights Analyst - GTM Analytics",
+   "description": "At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers. \n\nWhen you join one of our teams, you’ll be part of a nimble group that’s empowered to set aggressive goals and move fast to achieve them. Strategic risks are encouraged and complex problems are solved together, by passing the microphone and iterating until the best solution comes to light. You won’t have to look to find growth opportunities—ready or not, they’ll find you. From retail to government to healthcare, we’re on a mission to bring humanity, connection, and empathy back to business. Join over 5,000 people across the globe who think that’s work worth doing.\n \nGTM Insights Analyst - GTM Analytics\nWhy We Have This Role\n\n\n\nThe Qualtrics GTM Planning & Insights team is looking for a GTM analyst who wants to make an impact on a fast-growing business, can conduct in depth analytics and reporting, and can make strategic recommendations for the company. This role is essential to enabling our go-to-market revenue operations and surfacing valuable insights on opportunity areas to our field teams.\n\nHow You’ll Find Success\n\n\n\nAnalytical and data-oriented, with great troubleshooting and problem-solving skills.\nHas an eye for quality and scalability.\nExcellent organizational skills with the ability to multitask, prioritize, and manage time effectively.\nEnsures accuracy of work through attention to detail.\nTakes initiative, learns quickly, understands expected outcomes, absorbs context, and works proactively to get results.\n\nHow You’ll Grow\n\n\n\nGrow your data analysis, problem solving, and communication  skills across while developing expertise in sales and go-to-market operations.  \nLearn how global sales, customer success, and marketing teams operate, and improve the data/systems/insights that drive their growth\nOpportunity to help build a team and function team from the ground up\n\nThings You’ll Do\n\n\n\nPerform quantitative and qualitative analysis leading to actionable insights, assisting stakeholders throughout the business on special projects / reports.\nHandle inbound requests from field teams for data analysis, data requests, and decision making support. Proactively work with internal stakeholders to prioritize needs and/or requests on a weekly basis.  \nTransform complex data sets into actionable insights using analytical, visualization, and data tools such as Tableau, Excel, Python, R, MySQL, etc.  Create queries, views, reports, and easy-to-consumption dashboards/visualizations.  \nOwn end-to-end problem solving efforts from the discovery & exploration phase through to implementation.\nOwn an entire area of go-to-market operations: taking projects from start to finish with high quality and impact, acting as the “subject-matter-expert”, and collaborating with stakeholders to ensure the analytics are being used to drive business outcomes.\n\nWhat We’re Looking For On Your Resume\n\n\n\n2-7 years experience in visual reporting tools such as Tableau; experience with SQL and data manipulation/transformation\nRelevant experience with sales operations, associated CRM systems (i.e. salesforce.com or SAP C4C), or sales planning processes is a plus\nAble to deal with ambiguity in a fast-paced growth environment, manage strict SLAs and communicate effectively to a global audience\nDegree from a top-tier university with a quantitative or systems focus (e.g. informations systems, computer science, STEM, business analytics, finance, data science)\n\nWhat You Should Know About This Team\n\n\n\n\nGTM Planning & Insights plays a critical role in managing the operating rhythm of our global go-to-market field teams.\nCore responsibilities include territory planning, quota setting, pipeline and capacity health, customer health, performance management, and customer journey analytics.\nIf you are ready for a new high-impact challenge, we encourage you to apply.\n\n\nOur Team’s Favorite Perks and Benefits\n\n\n\nhttps://www.qualtrics.com/careers/us/en/emea-benefits \nFully funded private medical and dental insurance through Bupa for you and your dependents\nWellness reimbursement of up to £300 gross per quarter to support wellness activities for you and your family \nIncome protection in the event of prolonged illness providing for 66% of salary after 13 weeks of illness\nCompany pension plan with a 5% employee salary sacrifice contribution and a 9% employer contribution\nCommuter assistance of up to £5,000 gross per annum paid monthly via payroll to assist with your costs of commuting to and from the office\nEmployee Equity Purchase Plan allowing you to buy into Qualtrics’ equity and participate in the success of the company over time \nAnnual Leave - 25 days per annum plus an additional day of annual leave for each year of service, up to a total of 5 additional days\nAdditional leave programs to support you and your family\nAnnual Experience Bonus of £1,450 after one year of employment \nAdoption and surrogacy reimbursement up to  £8,200\nReferral bonus \nResources on topics such as childcare, elder care, parenting, household needs, pet care, moving and relocation, community resources, volunteer opportunities, and more\nCareer Action Plans\nMentorship programs\nResources on topics such as interpersonal skills, work-life balance, stress management, time management, and more \n\nThe Qualtrics Hybrid Work Model: Our hybrid work model is elegantly simple: we all gather in the office three days a week; Mondays and Thursdays, plus one day selected by your organizational leader. These purposeful in-person days in thoughtfully designed offices help us do our best work and harness the power of collaboration and innovation. For the rest of the week, work where you want, owning the integration of work and life. #hybrid\n \nQualtrics is an equal opportunity employer meaning that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other protected characteristic.\n \n​​​​​​​Applicants in the United States of America have rights under Federal Employment Laws:Family & Medical Leave Act, Equal Opportunity Employment, Employee Polygraph Protection Act\n \nQualtrics is committed to the inclusion of all qualified individuals. As part of this commitment, Qualtrics will ensure that persons with disabilities are provided with reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please let your Qualtrics contact/recruiter know.\n \nNot finding a role that’s the right fit for now? Qualtrics Insiders is the one-stop shop for all things Qualtrics Life. Sign up for exclusive access to content created with you in mind and get the scoop on what we have going on at Qualtrics - upcoming events, behind the scenes stories from the team, interview tips, hot jobs, and more. No spam - we promise! You'll hear from us two times a month max with fresh, totally tailored info - so be sure to stay connected as you explore your best role and company fit.",
+   "apply_options": [
+    {
+     "title": "Qualtrics",
+     "link": "https://www.qualtrics.com/careers/us/en/job/8274176/GTM-Insights-Analyst-GTM-Analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Built In",
+     "link": "https://builtin.com/job/gtm-insights-analyst-gtm-analytics/11621830?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Startup Jobs",
+     "link": "https://startup.jobs/gtm-insights-analyst-gtm-analytics-qualtrics-10424419?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Built In London",
+     "link": "https://builtinlondon.uk/job/gtm-insights-analyst-gtm-analytics/11621830?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "LinkedIn",
+     "link": "https://uk.linkedin.com/jobs/view/gtm-insights-analyst-gtm-analytics-at-qualtrics-4478721029?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Glassdoor",
+     "link": "https://www.glassdoor.co.uk/job-listing/gtm-insights-analyst-gtm-analytics-qualtrics-JV_IC2671300_KO0,34_KE35,44.htm?jl=1010293105536&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Adzuna",
+     "link": "https://www.adzuna.co.uk/jobs/details/5926517949?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "AI Foundry - BYU",
+     "link": "https://aifoundry.byu.edu/jobs/cabb1e39-d86b-4220-874a-a804f96b5c64?from=fn%3Dgtm%26seniority%3Dlead%26minSalary%3D80000&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJHVE0gSW5zaWdodHMgQW5hbHlzdCAtIEdUTSBBbmFseXRpY3MiLCJjb21wYW55X25hbWUiOiJRdWFsdHJpY3MiLCJodGlkb2NpZCI6InlDb296Rl9uS29Nal9kZ1hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0luVEc5dVpHOXVJRlJXSUZKbFoybHZiaXhGYm1kc1lXNWtMRlZ1YVhSbFpDQkxhVzVuWkc5dCIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbFoyWmpad1pUUnNOR1pxU2xwTlExYzRTV28zYjBrMldXNUVXVWgzVURFMVV6UlFZbXcwWDNZNU0yZE5OVVJIWWtoNWJtTmFlV2RzVVVJMVQxRjBlVU5ZWnpOUWVXVmZXbkpRVkY5aGIxTkZNM0V6TUVkTk1FOXJhRGhyV1Y4elFYZFdWVXR0WVZWVFJsZElOR3g2VjA0d2Myd3laR1Y0WHpCaVJtUnlXVGs1WkhBeGJYb1NGemR2V0ZoaGRraExRamRRWlRWT2IxQXpXVXhqTmtGUkdpSkJSSE55T1daU1lWcHlUVE5QV25KR09HRk5VMnRVVG1wNmVYazVZMTlOUVRWQiIsImZjdiI6IjMiLCJmY19pZCI6InlDb296Rl9uS29Nal9kZ1hBQUFBQUE9PSJ9"
+  }
+ ]
+}

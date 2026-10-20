@@ -1,0 +1,299 @@
+{
+ "search_parameters": {
+  "q": "entry level software developer",
+  "engine": "google_jobs",
+  "location_requested": "Johannesburg, South Africa",
+  "location_used": "Johannesburg,Gauteng,South Africa",
+  "google_domain": "google.com",
+  "hl": "en"
+ },
+ "filters": [
+  {
+   "name": "No degree",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rNeEzPcnA9fIlYaGM7Y7F5Z8FlFgqDeDKumRssL09ci9UqlAliaiZqNJwoXij7Dkxn-kqReH20WCkHdeIeG5yeNDgdpnKPZrWQXTMVPbRX-fTiCFI6IYuiO_4jfzo_EILlBcA_pZt7R50tb2Vm7Ofv3goVYeDWpP4w1fv5nM54n9wFJbQ",
+    "q": "entry level software developer no degree"
+   },
+   "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+no+degree&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNeEzPcnA9fIlYaGM7Y7F5Z8FlFgqDeDKumRssL09ci9UqlAliaiZqNJwoXij7Dkxn-kqReH20WCkHdeIeG5yeNDgdpnKPZrWQXTMVPbRX-fTiCFI6IYuiO_4jfzo_EILlBcA_pZt7R50tb2Vm7Ofv3goVYeDWpP4w1fv5nM54n9wFJbQ&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQxKsJKAB6BAgYEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+no+degree&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNeEzPcnA9fIlYaGM7Y7F5Z8FlFgqDeDKumRssL09ci9UqlAliaiZqNJwoXij7Dkxn-kqReH20WCkHdeIeG5yeNDgdpnKPZrWQXTMVPbRX-fTiCFI6IYuiO_4jfzo_EILlBcA_pZt7R50tb2Vm7Ofv3goVYeDWpP4w1fv5nM54n9wFJbQ"
+  },
+  {
+   "name": "Remote",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_qrbTxIuRPMiRG81FwjWWx-mpEWYkezFVQRbLqpnfknyMDoPwlseLi3ntQDeLNdTmkRQvgn0CywNgChuGf9Zf1iymQs7x4kIqta04V7-gwdpzjWwi5J3mxCAnUXhnYwbql6Xsz5ntEq18k5VGKWKo15RzwUhthmhA-2hEi-AASaIBTjh",
+    "q": "entry level software developer remote"
+   },
+   "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_qrbTxIuRPMiRG81FwjWWx-mpEWYkezFVQRbLqpnfknyMDoPwlseLi3ntQDeLNdTmkRQvgn0CywNgChuGf9Zf1iymQs7x4kIqta04V7-gwdpzjWwi5J3mxCAnUXhnYwbql6Xsz5ntEq18k5VGKWKo15RzwUhthmhA-2hEi-AASaIBTjh&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQxKsJKAF6BAgZEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_qrbTxIuRPMiRG81FwjWWx-mpEWYkezFVQRbLqpnfknyMDoPwlseLi3ntQDeLNdTmkRQvgn0CywNgChuGf9Zf1iymQs7x4kIqta04V7-gwdpzjWwi5J3mxCAnUXhnYwbql6Xsz5ntEq18k5VGKWKo15RzwUhthmhA-2hEi-AASaIBTjh"
+  },
+  {
+   "name": "Job type",
+   "options": [
+    {
+     "name": "Full time",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6VzoCX5eFViEQtUVeyEaxphaJ_JU_AVRTNpZgQet47i0DNQi0li3Dt1XtC4LIIhQxMFUzmGxRFzHXcW1uYu6TXVh1uxGPsqP1qmwZVrKmhmHZPW-LcvPdaVLHMK-tvoN_kRWINoodW7YP-nLMgRQXy96Mu08s4UOPwi7AKLw6PxCRPc6k3GvjVLelTuawsVgty1ZlIT7XIV25HGBoyjb_DOkJGWAKNU30PEmSsHwjDEdtbHBxB_wAsnrTIjd_k4Zwbv8pgllc8HFBgj7ieE6D_FOeUDv4w",
+      "q": "entry level software developer full time"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6VzoCX5eFViEQtUVeyEaxphaJ_JU_AVRTNpZgQet47i0DNQi0li3Dt1XtC4LIIhQxMFUzmGxRFzHXcW1uYu6TXVh1uxGPsqP1qmwZVrKmhmHZPW-LcvPdaVLHMK-tvoN_kRWINoodW7YP-nLMgRQXy96Mu08s4UOPwi7AKLw6PxCRPc6k3GvjVLelTuawsVgty1ZlIT7XIV25HGBoyjb_DOkJGWAKNU30PEmSsHwjDEdtbHBxB_wAsnrTIjd_k4Zwbv8pgllc8HFBgj7ieE6D_FOeUDv4w&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIGxAC",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6VzoCX5eFViEQtUVeyEaxphaJ_JU_AVRTNpZgQet47i0DNQi0li3Dt1XtC4LIIhQxMFUzmGxRFzHXcW1uYu6TXVh1uxGPsqP1qmwZVrKmhmHZPW-LcvPdaVLHMK-tvoN_kRWINoodW7YP-nLMgRQXy96Mu08s4UOPwi7AKLw6PxCRPc6k3GvjVLelTuawsVgty1ZlIT7XIV25HGBoyjb_DOkJGWAKNU30PEmSsHwjDEdtbHBxB_wAsnrTIjd_k4Zwbv8pgllc8HFBgj7ieE6D_FOeUDv4w"
+    },
+    {
+     "name": "Part time",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6Vz2KCSEElnq5WUheoxVifWP2YhTGrfi5YMS71xygm3NbgVOPQntm4CvU4y6T7iDsEY2IXsE-B-4oBklECYoL7yOPbHP13PPYHQfE-hFjl1n6tmU8-x5whGCepG5kOFSAQtSs0dQOW0HWmEpg_PN3MJXP-Fj1foQDJ4sXGQjeuhNih_GqvOQD6ytA_KYSv-Zwxb-MnxQENepCnc0r_a2OpC2GgN7TqIoFuJp3omMpr4kkOL2FtFT_6Nsf-Ll8K5G4APRXxRhwlHhRLgVjJF9dcIM7nQVng",
+      "q": "entry level software developer part time"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6Vz2KCSEElnq5WUheoxVifWP2YhTGrfi5YMS71xygm3NbgVOPQntm4CvU4y6T7iDsEY2IXsE-B-4oBklECYoL7yOPbHP13PPYHQfE-hFjl1n6tmU8-x5whGCepG5kOFSAQtSs0dQOW0HWmEpg_PN3MJXP-Fj1foQDJ4sXGQjeuhNih_GqvOQD6ytA_KYSv-Zwxb-MnxQENepCnc0r_a2OpC2GgN7TqIoFuJp3omMpr4kkOL2FtFT_6Nsf-Ll8K5G4APRXxRhwlHhRLgVjJF9dcIM7nQVng&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIGxAD",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6Vz2KCSEElnq5WUheoxVifWP2YhTGrfi5YMS71xygm3NbgVOPQntm4CvU4y6T7iDsEY2IXsE-B-4oBklECYoL7yOPbHP13PPYHQfE-hFjl1n6tmU8-x5whGCepG5kOFSAQtSs0dQOW0HWmEpg_PN3MJXP-Fj1foQDJ4sXGQjeuhNih_GqvOQD6ytA_KYSv-Zwxb-MnxQENepCnc0r_a2OpC2GgN7TqIoFuJp3omMpr4kkOL2FtFT_6Nsf-Ll8K5G4APRXxRhwlHhRLgVjJF9dcIM7nQVng"
+    },
+    {
+     "name": "Contract",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzezC5SALP1J2QZVrXdfQg08683toW65nJdWsB4O6t0DKA0FCqvkrQ7BlkQeeHbV0gL1QSRuJ6xWyLIW-FoXjrAIG2P5FpmdY_mWNBM-ITMTp1qZJwpJ3Xb6QIQzlhtBBLugfcbg-KOVBiWi65zTUpBqU2Cvicv2UM4AcrpHgL6cFhiwBQsvptRJLBxZ3pQFY7_WDklu7zWIEWHc4L5eq3OyAa7F1nXfsi-vzPNVnCxQZpoyxUVZqxFqXNEkqBNOXrCKRXkay61wiYNoZsscJ6-RRoQFb4lnIBlyJGBKUeHhvyx8bi-g",
+      "q": "entry level software developer contract"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzezC5SALP1J2QZVrXdfQg08683toW65nJdWsB4O6t0DKA0FCqvkrQ7BlkQeeHbV0gL1QSRuJ6xWyLIW-FoXjrAIG2P5FpmdY_mWNBM-ITMTp1qZJwpJ3Xb6QIQzlhtBBLugfcbg-KOVBiWi65zTUpBqU2Cvicv2UM4AcrpHgL6cFhiwBQsvptRJLBxZ3pQFY7_WDklu7zWIEWHc4L5eq3OyAa7F1nXfsi-vzPNVnCxQZpoyxUVZqxFqXNEkqBNOXrCKRXkay61wiYNoZsscJ6-RRoQFb4lnIBlyJGBKUeHhvyx8bi-g&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIGxAE",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzezC5SALP1J2QZVrXdfQg08683toW65nJdWsB4O6t0DKA0FCqvkrQ7BlkQeeHbV0gL1QSRuJ6xWyLIW-FoXjrAIG2P5FpmdY_mWNBM-ITMTp1qZJwpJ3Xb6QIQzlhtBBLugfcbg-KOVBiWi65zTUpBqU2Cvicv2UM4AcrpHgL6cFhiwBQsvptRJLBxZ3pQFY7_WDklu7zWIEWHc4L5eq3OyAa7F1nXfsi-vzPNVnCxQZpoyxUVZqxFqXNEkqBNOXrCKRXkay61wiYNoZsscJ6-RRoQFb4lnIBlyJGBKUeHhvyx8bi-g"
+    },
+    {
+     "name": "Internship",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHs-9CDxtCSkeaolvX-hX2zCmhCCAr7V1hloa3W1g2cYhT8p8Yvwp03Kiy7-rySsPYf0zzSdATI8q-RaNQ46pPkcUVAR4SzeFNBfxOkq09Zkab99Mu58hAz7WY661SpYYyf2Ssa_ltpM_StDZT5U9ZeeaR2id_omWr35zs8VbNN55Lgn9_XI4DkaruMawOYlAxYoF2SiYaMALtft_JDRQSB3WV9hcoRfKuh46Zz-qR240zhmxwR0j1xsCumRMrrYItNwv2swSD05oPSIwVxYY3Uwtv5BWS5hrh12heWWWViIllWMIHQ",
+      "q": "entry level software developer internship"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHs-9CDxtCSkeaolvX-hX2zCmhCCAr7V1hloa3W1g2cYhT8p8Yvwp03Kiy7-rySsPYf0zzSdATI8q-RaNQ46pPkcUVAR4SzeFNBfxOkq09Zkab99Mu58hAz7WY661SpYYyf2Ssa_ltpM_StDZT5U9ZeeaR2id_omWr35zs8VbNN55Lgn9_XI4DkaruMawOYlAxYoF2SiYaMALtft_JDRQSB3WV9hcoRfKuh46Zz-qR240zhmxwR0j1xsCumRMrrYItNwv2swSD05oPSIwVxYY3Uwtv5BWS5hrh12heWWWViIllWMIHQ&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIGxAF",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHs-9CDxtCSkeaolvX-hX2zCmhCCAr7V1hloa3W1g2cYhT8p8Yvwp03Kiy7-rySsPYf0zzSdATI8q-RaNQ46pPkcUVAR4SzeFNBfxOkq09Zkab99Mu58hAz7WY661SpYYyf2Ssa_ltpM_StDZT5U9ZeeaR2id_omWr35zs8VbNN55Lgn9_XI4DkaruMawOYlAxYoF2SiYaMALtft_JDRQSB3WV9hcoRfKuh46Zz-qR240zhmxwR0j1xsCumRMrrYItNwv2swSD05oPSIwVxYY3Uwtv5BWS5hrh12heWWWViIllWMIHQ"
+    }
+   ]
+  },
+  {
+   "name": "Job type",
+   "options": [
+    {
+     "name": "Full time",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6VzoCX5eFViEQtUVeyEaxphaJ_JU_AVRTNpZgQet47i0DNQi0li3Dt1XtC4LIIhQxMFUzmGxRFzHXcW1uYu6TXVh1uxGPsqP1qmwZVrKmhmHZPW-LcvPdaVLHMK-tvoN_kRWINoodW7YP-nLMgRQXy96Mu08s4UOPwi7AKLw6PxCRPc6k3GvjVLelTuawsVgty1ZlIT7XIV25HGBoyjb_DOkJGWAKNU30PEmSsHwjDEdtbHBxB_wAsnrTIjd_k4Zwbv8pgllc8HFBgj7ieE6D_FOeUDv4w",
+      "q": "entry level software developer full time"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6VzoCX5eFViEQtUVeyEaxphaJ_JU_AVRTNpZgQet47i0DNQi0li3Dt1XtC4LIIhQxMFUzmGxRFzHXcW1uYu6TXVh1uxGPsqP1qmwZVrKmhmHZPW-LcvPdaVLHMK-tvoN_kRWINoodW7YP-nLMgRQXy96Mu08s4UOPwi7AKLw6PxCRPc6k3GvjVLelTuawsVgty1ZlIT7XIV25HGBoyjb_DOkJGWAKNU30PEmSsHwjDEdtbHBxB_wAsnrTIjd_k4Zwbv8pgllc8HFBgj7ieE6D_FOeUDv4w&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIGxAC",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6VzoCX5eFViEQtUVeyEaxphaJ_JU_AVRTNpZgQet47i0DNQi0li3Dt1XtC4LIIhQxMFUzmGxRFzHXcW1uYu6TXVh1uxGPsqP1qmwZVrKmhmHZPW-LcvPdaVLHMK-tvoN_kRWINoodW7YP-nLMgRQXy96Mu08s4UOPwi7AKLw6PxCRPc6k3GvjVLelTuawsVgty1ZlIT7XIV25HGBoyjb_DOkJGWAKNU30PEmSsHwjDEdtbHBxB_wAsnrTIjd_k4Zwbv8pgllc8HFBgj7ieE6D_FOeUDv4w"
+    },
+    {
+     "name": "Part time",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6Vz2KCSEElnq5WUheoxVifWP2YhTGrfi5YMS71xygm3NbgVOPQntm4CvU4y6T7iDsEY2IXsE-B-4oBklECYoL7yOPbHP13PPYHQfE-hFjl1n6tmU8-x5whGCepG5kOFSAQtSs0dQOW0HWmEpg_PN3MJXP-Fj1foQDJ4sXGQjeuhNih_GqvOQD6ytA_KYSv-Zwxb-MnxQENepCnc0r_a2OpC2GgN7TqIoFuJp3omMpr4kkOL2FtFT_6Nsf-Ll8K5G4APRXxRhwlHhRLgVjJF9dcIM7nQVng",
+      "q": "entry level software developer part time"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6Vz2KCSEElnq5WUheoxVifWP2YhTGrfi5YMS71xygm3NbgVOPQntm4CvU4y6T7iDsEY2IXsE-B-4oBklECYoL7yOPbHP13PPYHQfE-hFjl1n6tmU8-x5whGCepG5kOFSAQtSs0dQOW0HWmEpg_PN3MJXP-Fj1foQDJ4sXGQjeuhNih_GqvOQD6ytA_KYSv-Zwxb-MnxQENepCnc0r_a2OpC2GgN7TqIoFuJp3omMpr4kkOL2FtFT_6Nsf-Ll8K5G4APRXxRhwlHhRLgVjJF9dcIM7nQVng&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIGxAD",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJB_JIUxV8UdNYNdG0RpaLXK1XjzFevFodRlvNgGja6Vz2KCSEElnq5WUheoxVifWP2YhTGrfi5YMS71xygm3NbgVOPQntm4CvU4y6T7iDsEY2IXsE-B-4oBklECYoL7yOPbHP13PPYHQfE-hFjl1n6tmU8-x5whGCepG5kOFSAQtSs0dQOW0HWmEpg_PN3MJXP-Fj1foQDJ4sXGQjeuhNih_GqvOQD6ytA_KYSv-Zwxb-MnxQENepCnc0r_a2OpC2GgN7TqIoFuJp3omMpr4kkOL2FtFT_6Nsf-Ll8K5G4APRXxRhwlHhRLgVjJF9dcIM7nQVng"
+    },
+    {
+     "name": "Contract",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzezC5SALP1J2QZVrXdfQg08683toW65nJdWsB4O6t0DKA0FCqvkrQ7BlkQeeHbV0gL1QSRuJ6xWyLIW-FoXjrAIG2P5FpmdY_mWNBM-ITMTp1qZJwpJ3Xb6QIQzlhtBBLugfcbg-KOVBiWi65zTUpBqU2Cvicv2UM4AcrpHgL6cFhiwBQsvptRJLBxZ3pQFY7_WDklu7zWIEWHc4L5eq3OyAa7F1nXfsi-vzPNVnCxQZpoyxUVZqxFqXNEkqBNOXrCKRXkay61wiYNoZsscJ6-RRoQFb4lnIBlyJGBKUeHhvyx8bi-g",
+      "q": "entry level software developer contract"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzezC5SALP1J2QZVrXdfQg08683toW65nJdWsB4O6t0DKA0FCqvkrQ7BlkQeeHbV0gL1QSRuJ6xWyLIW-FoXjrAIG2P5FpmdY_mWNBM-ITMTp1qZJwpJ3Xb6QIQzlhtBBLugfcbg-KOVBiWi65zTUpBqU2Cvicv2UM4AcrpHgL6cFhiwBQsvptRJLBxZ3pQFY7_WDklu7zWIEWHc4L5eq3OyAa7F1nXfsi-vzPNVnCxQZpoyxUVZqxFqXNEkqBNOXrCKRXkay61wiYNoZsscJ6-RRoQFb4lnIBlyJGBKUeHhvyx8bi-g&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIGxAE",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzezC5SALP1J2QZVrXdfQg08683toW65nJdWsB4O6t0DKA0FCqvkrQ7BlkQeeHbV0gL1QSRuJ6xWyLIW-FoXjrAIG2P5FpmdY_mWNBM-ITMTp1qZJwpJ3Xb6QIQzlhtBBLugfcbg-KOVBiWi65zTUpBqU2Cvicv2UM4AcrpHgL6cFhiwBQsvptRJLBxZ3pQFY7_WDklu7zWIEWHc4L5eq3OyAa7F1nXfsi-vzPNVnCxQZpoyxUVZqxFqXNEkqBNOXrCKRXkay61wiYNoZsscJ6-RRoQFb4lnIBlyJGBKUeHhvyx8bi-g"
+    },
+    {
+     "name": "Internship",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHs-9CDxtCSkeaolvX-hX2zCmhCCAr7V1hloa3W1g2cYhT8p8Yvwp03Kiy7-rySsPYf0zzSdATI8q-RaNQ46pPkcUVAR4SzeFNBfxOkq09Zkab99Mu58hAz7WY661SpYYyf2Ssa_ltpM_StDZT5U9ZeeaR2id_omWr35zs8VbNN55Lgn9_XI4DkaruMawOYlAxYoF2SiYaMALtft_JDRQSB3WV9hcoRfKuh46Zz-qR240zhmxwR0j1xsCumRMrrYItNwv2swSD05oPSIwVxYY3Uwtv5BWS5hrh12heWWWViIllWMIHQ",
+      "q": "entry level software developer internship"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHs-9CDxtCSkeaolvX-hX2zCmhCCAr7V1hloa3W1g2cYhT8p8Yvwp03Kiy7-rySsPYf0zzSdATI8q-RaNQ46pPkcUVAR4SzeFNBfxOkq09Zkab99Mu58hAz7WY661SpYYyf2Ssa_ltpM_StDZT5U9ZeeaR2id_omWr35zs8VbNN55Lgn9_XI4DkaruMawOYlAxYoF2SiYaMALtft_JDRQSB3WV9hcoRfKuh46Zz-qR240zhmxwR0j1xsCumRMrrYItNwv2swSD05oPSIwVxYY3Uwtv5BWS5hrh12heWWWViIllWMIHQ&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIGxAF",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHs-9CDxtCSkeaolvX-hX2zCmhCCAr7V1hloa3W1g2cYhT8p8Yvwp03Kiy7-rySsPYf0zzSdATI8q-RaNQ46pPkcUVAR4SzeFNBfxOkq09Zkab99Mu58hAz7WY661SpYYyf2Ssa_ltpM_StDZT5U9ZeeaR2id_omWr35zs8VbNN55Lgn9_XI4DkaruMawOYlAxYoF2SiYaMALtft_JDRQSB3WV9hcoRfKuh46Zz-qR240zhmxwR0j1xsCumRMrrYItNwv2swSD05oPSIwVxYY3Uwtv5BWS5hrh12heWWWViIllWMIHQ"
+    }
+   ]
+  },
+  {
+   "name": "Date posted",
+   "options": [
+    {
+     "name": "Yesterday",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n7gfKgYzU8zWsB3voatNRFxzOSfGPigATAzt0N3PnTcgBQproApO8VQiyx2dS_zGaaNNTSQ0LQrwTtVcaRTDkcFyj3CeWIkLF3tG1VMD5go4kiyhpmAxNsx1AckfqZ_HoYVLMgxF0-bwZtfmg9d_Xa95yQjQ6QI5b7WOtbvlqO4YlD2CawtmPhEOne9km11FH5eWDgbrtT6DDKc6gG2YV3LdJFrfVjz6mq4dqNHjoennr-UVqliL-bO84dEYNGDS1s8yVyoxJ5KwIdxf1b_VYOMz8lNr7KuYrpgE7xpMiRDJIDU6yqNr9wUtuXX0eoYoJPyiSziX-a9r_xufA3ZxWNdJR6f1",
+      "q": "entry level software developer since yesterday"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n7gfKgYzU8zWsB3voatNRFxzOSfGPigATAzt0N3PnTcgBQproApO8VQiyx2dS_zGaaNNTSQ0LQrwTtVcaRTDkcFyj3CeWIkLF3tG1VMD5go4kiyhpmAxNsx1AckfqZ_HoYVLMgxF0-bwZtfmg9d_Xa95yQjQ6QI5b7WOtbvlqO4YlD2CawtmPhEOne9km11FH5eWDgbrtT6DDKc6gG2YV3LdJFrfVjz6mq4dqNHjoennr-UVqliL-bO84dEYNGDS1s8yVyoxJ5KwIdxf1b_VYOMz8lNr7KuYrpgE7xpMiRDJIDU6yqNr9wUtuXX0eoYoJPyiSziX-a9r_xufA3ZxWNdJR6f1&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIHBAC",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n7gfKgYzU8zWsB3voatNRFxzOSfGPigATAzt0N3PnTcgBQproApO8VQiyx2dS_zGaaNNTSQ0LQrwTtVcaRTDkcFyj3CeWIkLF3tG1VMD5go4kiyhpmAxNsx1AckfqZ_HoYVLMgxF0-bwZtfmg9d_Xa95yQjQ6QI5b7WOtbvlqO4YlD2CawtmPhEOne9km11FH5eWDgbrtT6DDKc6gG2YV3LdJFrfVjz6mq4dqNHjoennr-UVqliL-bO84dEYNGDS1s8yVyoxJ5KwIdxf1b_VYOMz8lNr7KuYrpgE7xpMiRDJIDU6yqNr9wUtuXX0eoYoJPyiSziX-a9r_xufA3ZxWNdJR6f1"
+    },
+    {
+     "name": "Last 3 days",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSYxcTpABSXxUEMYb6crUNZi6Zdqru3AOYFbPtFmfi5ca_UIkK1I9PnfYGUSS-stHWJAuv1W6oHl0enQfBLGZVNWXQJe4j8bimM-2vKxiKCQ3INKzdNTLjUl0i2hoO2_WYVm8M0mtyRjKPPs4WuqC9DEAyALTEXILFYr8pVW5SfyESshhHzblvvnksaHzRdwEHD7qmDvqvmCuH9zzoHaR0dHeFZQjuOTxcD2g4tDZXqXv9SCeZ0OHSTA_XW9biAxT8CK8-8dsDIuUgvZB6zuIsI8tkjDcp80U6mhG9Ih-MwkhgDKg22JpLcE04UNl7lvgah0B2NQuujxmLM86PLD8N1yTd-MM",
+      "q": "entry level software developer in the last 3 days"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSYxcTpABSXxUEMYb6crUNZi6Zdqru3AOYFbPtFmfi5ca_UIkK1I9PnfYGUSS-stHWJAuv1W6oHl0enQfBLGZVNWXQJe4j8bimM-2vKxiKCQ3INKzdNTLjUl0i2hoO2_WYVm8M0mtyRjKPPs4WuqC9DEAyALTEXILFYr8pVW5SfyESshhHzblvvnksaHzRdwEHD7qmDvqvmCuH9zzoHaR0dHeFZQjuOTxcD2g4tDZXqXv9SCeZ0OHSTA_XW9biAxT8CK8-8dsDIuUgvZB6zuIsI8tkjDcp80U6mhG9Ih-MwkhgDKg22JpLcE04UNl7lvgah0B2NQuujxmLM86PLD8N1yTd-MM&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIHBAD",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSYxcTpABSXxUEMYb6crUNZi6Zdqru3AOYFbPtFmfi5ca_UIkK1I9PnfYGUSS-stHWJAuv1W6oHl0enQfBLGZVNWXQJe4j8bimM-2vKxiKCQ3INKzdNTLjUl0i2hoO2_WYVm8M0mtyRjKPPs4WuqC9DEAyALTEXILFYr8pVW5SfyESshhHzblvvnksaHzRdwEHD7qmDvqvmCuH9zzoHaR0dHeFZQjuOTxcD2g4tDZXqXv9SCeZ0OHSTA_XW9biAxT8CK8-8dsDIuUgvZB6zuIsI8tkjDcp80U6mhG9Ih-MwkhgDKg22JpLcE04UNl7lvgah0B2NQuujxmLM86PLD8N1yTd-MM"
+    },
+    {
+     "name": "Last week",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUh9NgIYaP7Ppj1Fel2vVISptMGUtY1RjpeOpBY92KZIdd3Zau3XrGRVZo7wN59V-roSOFePQsyD2tef8qnOggY4KO3HqG4U-KIAu_6YFc0F_0Jio5sNhf5ieIxhOxcEY74QJ3XfA3LKA1nisFMTCEi-X30HDGaSbp3k7jW-JnVHXWaly0nbL1EnZaHimBr8ZHRobcVSkegsl2thoPx-OtGx6J_GLyITSHj3f4COz06YHmPWdwI4g3EO_NMK7zN2sDagyLXJT80Pa9iO_pDre30uQKAFqoKABGFZ-qVlSBOmpt65F3tMfYRiGGSc6pRa9o8CqWexBKOI2fWHA6KgJh2AjDBN_",
+      "q": "entry level software developer in the last week"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUh9NgIYaP7Ppj1Fel2vVISptMGUtY1RjpeOpBY92KZIdd3Zau3XrGRVZo7wN59V-roSOFePQsyD2tef8qnOggY4KO3HqG4U-KIAu_6YFc0F_0Jio5sNhf5ieIxhOxcEY74QJ3XfA3LKA1nisFMTCEi-X30HDGaSbp3k7jW-JnVHXWaly0nbL1EnZaHimBr8ZHRobcVSkegsl2thoPx-OtGx6J_GLyITSHj3f4COz06YHmPWdwI4g3EO_NMK7zN2sDagyLXJT80Pa9iO_pDre30uQKAFqoKABGFZ-qVlSBOmpt65F3tMfYRiGGSc6pRa9o8CqWexBKOI2fWHA6KgJh2AjDBN_&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIHBAE",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUh9NgIYaP7Ppj1Fel2vVISptMGUtY1RjpeOpBY92KZIdd3Zau3XrGRVZo7wN59V-roSOFePQsyD2tef8qnOggY4KO3HqG4U-KIAu_6YFc0F_0Jio5sNhf5ieIxhOxcEY74QJ3XfA3LKA1nisFMTCEi-X30HDGaSbp3k7jW-JnVHXWaly0nbL1EnZaHimBr8ZHRobcVSkegsl2thoPx-OtGx6J_GLyITSHj3f4COz06YHmPWdwI4g3EO_NMK7zN2sDagyLXJT80Pa9iO_pDre30uQKAFqoKABGFZ-qVlSBOmpt65F3tMfYRiGGSc6pRa9o8CqWexBKOI2fWHA6KgJh2AjDBN_"
+    },
+    {
+     "name": "Last month",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjktlnRKMVU5QTuoPI3YVRTYj1oPFgaZbx-IoQ18PdQRQaak5ST2NepJuu-8Ah-e42ahINMBYScI-gZwa5FvtRcwhKBYGZftLwFYr0chzxo96euEGsbCKuev3Y2VBycciKMRzTsnFfVTWLyTo3Hc6eI5zIcHWiZgqy2N3iCUcMg5On2daLtzYJ4u0S7myqCfid2HzaJBp5KgQTWh-1j4NkduEAvWaJjxIgb9uGfPuA0YOir1RoW57PDlR_YToH3EXh_dnO7jM97jFtDcCcQQ8PGdca0MkHjQDcgvjgfR8A55TAUGQTLEVPtXtygFJR0Re_HO_0HbPZBJBIZxCboQ8pCHBfdvfG",
+      "q": "entry level software developer in the last month"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjktlnRKMVU5QTuoPI3YVRTYj1oPFgaZbx-IoQ18PdQRQaak5ST2NepJuu-8Ah-e42ahINMBYScI-gZwa5FvtRcwhKBYGZftLwFYr0chzxo96euEGsbCKuev3Y2VBycciKMRzTsnFfVTWLyTo3Hc6eI5zIcHWiZgqy2N3iCUcMg5On2daLtzYJ4u0S7myqCfid2HzaJBp5KgQTWh-1j4NkduEAvWaJjxIgb9uGfPuA0YOir1RoW57PDlR_YToH3EXh_dnO7jM97jFtDcCcQQ8PGdca0MkHjQDcgvjgfR8A55TAUGQTLEVPtXtygFJR0Re_HO_0HbPZBJBIZxCboQ8pCHBfdvfG&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIHBAF",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjktlnRKMVU5QTuoPI3YVRTYj1oPFgaZbx-IoQ18PdQRQaak5ST2NepJuu-8Ah-e42ahINMBYScI-gZwa5FvtRcwhKBYGZftLwFYr0chzxo96euEGsbCKuev3Y2VBycciKMRzTsnFfVTWLyTo3Hc6eI5zIcHWiZgqy2N3iCUcMg5On2daLtzYJ4u0S7myqCfid2HzaJBp5KgQTWh-1j4NkduEAvWaJjxIgb9uGfPuA0YOir1RoW57PDlR_YToH3EXh_dnO7jM97jFtDcCcQQ8PGdca0MkHjQDcgvjgfR8A55TAUGQTLEVPtXtygFJR0Re_HO_0HbPZBJBIZxCboQ8pCHBfdvfG"
+    }
+   ]
+  },
+  {
+   "name": "Date posted",
+   "options": [
+    {
+     "name": "Yesterday",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n7gfKgYzU8zWsB3voatNRFxzOSfGPigATAzt0N3PnTcgBQproApO8VQiyx2dS_zGaaNNTSQ0LQrwTtVcaRTDkcFyj3CeWIkLF3tG1VMD5go4kiyhpmAxNsx1AckfqZ_HoYVLMgxF0-bwZtfmg9d_Xa95yQjQ6QI5b7WOtbvlqO4YlD2CawtmPhEOne9km11FH5eWDgbrtT6DDKc6gG2YV3LdJFrfVjz6mq4dqNHjoennr-UVqliL-bO84dEYNGDS1s8yVyoxJ5KwIdxf1b_VYOMz8lNr7KuYrpgE7xpMiRDJIDU6yqNr9wUtuXX0eoYoJPyiSziX-a9r_xufA3ZxWNdJR6f1",
+      "q": "entry level software developer since yesterday"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n7gfKgYzU8zWsB3voatNRFxzOSfGPigATAzt0N3PnTcgBQproApO8VQiyx2dS_zGaaNNTSQ0LQrwTtVcaRTDkcFyj3CeWIkLF3tG1VMD5go4kiyhpmAxNsx1AckfqZ_HoYVLMgxF0-bwZtfmg9d_Xa95yQjQ6QI5b7WOtbvlqO4YlD2CawtmPhEOne9km11FH5eWDgbrtT6DDKc6gG2YV3LdJFrfVjz6mq4dqNHjoennr-UVqliL-bO84dEYNGDS1s8yVyoxJ5KwIdxf1b_VYOMz8lNr7KuYrpgE7xpMiRDJIDU6yqNr9wUtuXX0eoYoJPyiSziX-a9r_xufA3ZxWNdJR6f1&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIHBAC",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n7gfKgYzU8zWsB3voatNRFxzOSfGPigATAzt0N3PnTcgBQproApO8VQiyx2dS_zGaaNNTSQ0LQrwTtVcaRTDkcFyj3CeWIkLF3tG1VMD5go4kiyhpmAxNsx1AckfqZ_HoYVLMgxF0-bwZtfmg9d_Xa95yQjQ6QI5b7WOtbvlqO4YlD2CawtmPhEOne9km11FH5eWDgbrtT6DDKc6gG2YV3LdJFrfVjz6mq4dqNHjoennr-UVqliL-bO84dEYNGDS1s8yVyoxJ5KwIdxf1b_VYOMz8lNr7KuYrpgE7xpMiRDJIDU6yqNr9wUtuXX0eoYoJPyiSziX-a9r_xufA3ZxWNdJR6f1"
+    },
+    {
+     "name": "Last 3 days",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSYxcTpABSXxUEMYb6crUNZi6Zdqru3AOYFbPtFmfi5ca_UIkK1I9PnfYGUSS-stHWJAuv1W6oHl0enQfBLGZVNWXQJe4j8bimM-2vKxiKCQ3INKzdNTLjUl0i2hoO2_WYVm8M0mtyRjKPPs4WuqC9DEAyALTEXILFYr8pVW5SfyESshhHzblvvnksaHzRdwEHD7qmDvqvmCuH9zzoHaR0dHeFZQjuOTxcD2g4tDZXqXv9SCeZ0OHSTA_XW9biAxT8CK8-8dsDIuUgvZB6zuIsI8tkjDcp80U6mhG9Ih-MwkhgDKg22JpLcE04UNl7lvgah0B2NQuujxmLM86PLD8N1yTd-MM",
+      "q": "entry level software developer in the last 3 days"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSYxcTpABSXxUEMYb6crUNZi6Zdqru3AOYFbPtFmfi5ca_UIkK1I9PnfYGUSS-stHWJAuv1W6oHl0enQfBLGZVNWXQJe4j8bimM-2vKxiKCQ3INKzdNTLjUl0i2hoO2_WYVm8M0mtyRjKPPs4WuqC9DEAyALTEXILFYr8pVW5SfyESshhHzblvvnksaHzRdwEHD7qmDvqvmCuH9zzoHaR0dHeFZQjuOTxcD2g4tDZXqXv9SCeZ0OHSTA_XW9biAxT8CK8-8dsDIuUgvZB6zuIsI8tkjDcp80U6mhG9Ih-MwkhgDKg22JpLcE04UNl7lvgah0B2NQuujxmLM86PLD8N1yTd-MM&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIHBAD",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSYxcTpABSXxUEMYb6crUNZi6Zdqru3AOYFbPtFmfi5ca_UIkK1I9PnfYGUSS-stHWJAuv1W6oHl0enQfBLGZVNWXQJe4j8bimM-2vKxiKCQ3INKzdNTLjUl0i2hoO2_WYVm8M0mtyRjKPPs4WuqC9DEAyALTEXILFYr8pVW5SfyESshhHzblvvnksaHzRdwEHD7qmDvqvmCuH9zzoHaR0dHeFZQjuOTxcD2g4tDZXqXv9SCeZ0OHSTA_XW9biAxT8CK8-8dsDIuUgvZB6zuIsI8tkjDcp80U6mhG9Ih-MwkhgDKg22JpLcE04UNl7lvgah0B2NQuujxmLM86PLD8N1yTd-MM"
+    },
+    {
+     "name": "Last week",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUh9NgIYaP7Ppj1Fel2vVISptMGUtY1RjpeOpBY92KZIdd3Zau3XrGRVZo7wN59V-roSOFePQsyD2tef8qnOggY4KO3HqG4U-KIAu_6YFc0F_0Jio5sNhf5ieIxhOxcEY74QJ3XfA3LKA1nisFMTCEi-X30HDGaSbp3k7jW-JnVHXWaly0nbL1EnZaHimBr8ZHRobcVSkegsl2thoPx-OtGx6J_GLyITSHj3f4COz06YHmPWdwI4g3EO_NMK7zN2sDagyLXJT80Pa9iO_pDre30uQKAFqoKABGFZ-qVlSBOmpt65F3tMfYRiGGSc6pRa9o8CqWexBKOI2fWHA6KgJh2AjDBN_",
+      "q": "entry level software developer in the last week"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUh9NgIYaP7Ppj1Fel2vVISptMGUtY1RjpeOpBY92KZIdd3Zau3XrGRVZo7wN59V-roSOFePQsyD2tef8qnOggY4KO3HqG4U-KIAu_6YFc0F_0Jio5sNhf5ieIxhOxcEY74QJ3XfA3LKA1nisFMTCEi-X30HDGaSbp3k7jW-JnVHXWaly0nbL1EnZaHimBr8ZHRobcVSkegsl2thoPx-OtGx6J_GLyITSHj3f4COz06YHmPWdwI4g3EO_NMK7zN2sDagyLXJT80Pa9iO_pDre30uQKAFqoKABGFZ-qVlSBOmpt65F3tMfYRiGGSc6pRa9o8CqWexBKOI2fWHA6KgJh2AjDBN_&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIHBAE",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUh9NgIYaP7Ppj1Fel2vVISptMGUtY1RjpeOpBY92KZIdd3Zau3XrGRVZo7wN59V-roSOFePQsyD2tef8qnOggY4KO3HqG4U-KIAu_6YFc0F_0Jio5sNhf5ieIxhOxcEY74QJ3XfA3LKA1nisFMTCEi-X30HDGaSbp3k7jW-JnVHXWaly0nbL1EnZaHimBr8ZHRobcVSkegsl2thoPx-OtGx6J_GLyITSHj3f4COz06YHmPWdwI4g3EO_NMK7zN2sDagyLXJT80Pa9iO_pDre30uQKAFqoKABGFZ-qVlSBOmpt65F3tMfYRiGGSc6pRa9o8CqWexBKOI2fWHA6KgJh2AjDBN_"
+    },
+    {
+     "name": "Last month",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjktlnRKMVU5QTuoPI3YVRTYj1oPFgaZbx-IoQ18PdQRQaak5ST2NepJuu-8Ah-e42ahINMBYScI-gZwa5FvtRcwhKBYGZftLwFYr0chzxo96euEGsbCKuev3Y2VBycciKMRzTsnFfVTWLyTo3Hc6eI5zIcHWiZgqy2N3iCUcMg5On2daLtzYJ4u0S7myqCfid2HzaJBp5KgQTWh-1j4NkduEAvWaJjxIgb9uGfPuA0YOir1RoW57PDlR_YToH3EXh_dnO7jM97jFtDcCcQQ8PGdca0MkHjQDcgvjgfR8A55TAUGQTLEVPtXtygFJR0Re_HO_0HbPZBJBIZxCboQ8pCHBfdvfG",
+      "q": "entry level software developer in the last month"
+     },
+     "link": "https://www.google.com/search?sca_esv=34651f0857a3a838&hl=en&sxsrf=APpeQntPUcLh9gt_qa4TzIWQGCzY0mR9Qw:1792508912502&q=entry+level+software+developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjktlnRKMVU5QTuoPI3YVRTYj1oPFgaZbx-IoQ18PdQRQaak5ST2NepJuu-8Ah-e42ahINMBYScI-gZwa5FvtRcwhKBYGZftLwFYr0chzxo96euEGsbCKuev3Y2VBycciKMRzTsnFfVTWLyTo3Hc6eI5zIcHWiZgqy2N3iCUcMg5On2daLtzYJ4u0S7myqCfid2HzaJBp5KgQTWh-1j4NkduEAvWaJjxIgb9uGfPuA0YOir1RoW57PDlR_YToH3EXh_dnO7jM97jFtDcCcQQ8PGdca0MkHjQDcgvjgfR8A55TAUGQTLEVPtXtygFJR0Re_HO_0HbPZBJBIZxCboQ8pCHBfdvfG&udm=8&sa=X&ved=2ahUKEwjq2PGH8MiXAxWnNIYAHSjJO6cQkbEKegQIHBAF",
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Johannesburg%2C+South+Africa&q=entry+level+software+developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjktlnRKMVU5QTuoPI3YVRTYj1oPFgaZbx-IoQ18PdQRQaak5ST2NepJuu-8Ah-e42ahINMBYScI-gZwa5FvtRcwhKBYGZftLwFYr0chzxo96euEGsbCKuev3Y2VBycciKMRzTsnFfVTWLyTo3Hc6eI5zIcHWiZgqy2N3iCUcMg5On2daLtzYJ4u0S7myqCfid2HzaJBp5KgQTWh-1j4NkduEAvWaJjxIgb9uGfPuA0YOir1RoW57PDlR_YToH3EXh_dnO7jM97jFtDcCcQQ8PGdca0MkHjQDcgvjgfR8A55TAUGQTLEVPtXtygFJR0Re_HO_0HbPZBJBIZxCboQ8pCHBfdvfG"
+    }
+   ]
+  }
+ ],
+ "jobs_results": [
+  {
+   "title": "Job: Developer Entry Level System Gt",
+   "company_name": "Company : Absa",
+   "location": "Johannesburg, South Africa",
+   "via": "Jooble",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=entry+level+software+developer&htidocid=x56bu3vupC4ies6kAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNQQrCMBAA8doneNqz1EYEL-1JVArirQ8oSViTSpoN2a20P_KZtpeBgYEpfruieZKp4Y5fDJQwwyNKXuC1OXQLC47QChxhzYBRZ-uBIrRELuC-8SKJa6WYQ-VYtAy2sjQqimhoVh8yvKFnrzOmoAX78-U0Vym6Q3mjMem4QA1XwxqGuE68jhHZTNmV0NEkHq7vPFj9Bwu3X8SrAAAA&shmds=v1_ARwrE23UNdoWjf1bKqeZzZsdl7z4Z037EjFl7J9p1Fif3ciizg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=entry+level+software+developer&htidocid=x56bu3vupC4ies6kAAAAAA%3D%3D",
+   "thumbnail": "https://serpapi.com/searches/6ad783ec01289bf7791281c9/images/sArm8wFCAxlyAznsjDozGnGqituY-TbGyo9QT45zP1U.jpeg",
+   "extensions": [
+    "14 days ago",
+    "Full-time"
+   ],
+   "source_link": "https://za.jooble.org/jdp/1606048346918356455",
+   "job_title": "Job: Developer Entry Level System Gt",
+   "description": "Work as part of an agile team to provide application support for specified tech products & services. \n This includes first line support & basic optimization, administration, configuration, maintenance & trouble shooting / problem solving with end users of these tech products & services.ResponsibilitiesApply problem solving skills to solve technical problems on existing applicationsTake ownership for developing advanced design thinking and problem solving skills in preparation for greater complexity / changing / evolving techImplement configuration, optimization (egupgrades) & maintenance activity (egregular maintenance patches) for enterprise wide applicationsSchedule and oversee planned maintenance tasks, such as backups and performance tuning, in production for tech products & ServicesProvide inputs into application documentation for end usersLeverage application documentation to guide users through application support processesQualificationsBachelor's Degree: Information TechnologyHiring organization \n AbsaEmployment Type:internshipJob Location:Johannesburg, Gauteng, South AfricaAssociate (Entry-Level), **** South Africa \n LEVEL UP EXPERIENCE - Graduate Developer \n#J-*****-Ljbffr",
+   "apply_options": [
+    {
+     "title": "Jooble",
+     "link": "https://za.jooble.org/jdp/1606048346918356455?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "WhatJobs",
+     "link": "https://en-za.whatjobs.com/jobs/job-developer-entry-level-system/johannesburg-gauteng?id=58769185&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Jobrapido.com",
+     "link": "https://za.jobrapido.com/jobpreview/5159281392898539520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJKb2I6IERldmVsb3BlciBFbnRyeSBMZXZlbCBTeXN0ZW0gR3QiLCJjb21wYW55X25hbWUiOiJDb21wYW55IDogQWJzYSIsImh0aWRvY2lkIjoieDU2YnUzdnVwQzRpZXM2a0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWhTbTlvWVc1dVpYTmlkWEpuTEVkaGRYUmxibWNzVTI5MWRHZ2dRV1p5YVdOaCIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbmg0Y0ZvMk5qbGxUa2hST1RnMU1HcEJlR2R6TUhocU1WZFdSMTlMTUhoS05FbzNWMUpWT0ZrNFRXZ3dURkJZYUd4emNHcHBjVjltZGxkclltTkdTRE5zVEUxZlprRjBRemN6VFVKMlRrUlhTa0pSVjFGSU5VdExhVTAwU3pCaVJHSnpVM05sV1hkdmJIQk5TVWxrTTAxbldqRjFlbnBoT1c5ZmRpMTNYMGxWWkdsVWN6UVNGemhKVUZoaGRYRm5TSEZtY0cxTVVWQnhTa3gyZFZGdkdpSkJSSE55T1daU1RXeGtkRXMzYVVoTlNEQXlkR2hGVDBOVlpHOXVjVFF3WldkQiIsImZjdiI6IjMiLCJmY19pZCI6Ing1NmJ1M3Z1cEM0aWVzNmtBQUFBQUE9PSJ9"
+  },
+  {
+   "title": "Junior Software Engineer",
+   "company_name": "Placement Specialist Pty Ltd",
+   "location": "Johannesburg South, South Africa",
+   "via": "Pnet",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=entry+level+software+developer&htidocid=c56RsNRFIZpZtsUiAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOMQrCQBBFsc0RrKYWzYpgo40WIgSLQA4QNuu4u7KZCTsTjLfyiEZs_uve-8VnUZhqpMgZGn7oy2aEC_lIiBk2UHEHgja7AExwZfYJl8egOsjBGJFUelGr0ZWOe8OEHU_myZ38ppUw64ZkFdvdfjuVA_nVqU7WYY-k0Azook1RFGp9w03vEGlOBkuE0o3Zz59GDes_4PzI0dkvd-fJMrMAAAA&shmds=v1_ARwrE21m0-fhSHoOvs3_wy3ZEfX77Uen4DdZTYzq9nFIBwcJXA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=entry+level+software+developer&htidocid=c56RsNRFIZpZtsUiAAAAAA%3D%3D",
+   "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAnCAMAAABt2HtiAAAAQlBMVEX8__v____9__z9__3-__7u7-bx8-vj4tW_t5f3-fTr6-Lp6d7m5tq6sY75_Pi8tJLX1MHe3MzDvJ_KxKvRzLa0qoQztnj1AAABzUlEQVRIieVV2Y6kMAzE8ZU7MbD__6traI00wzwAr7tWK2poiqqUy-ll-Y8rIAEQvoZBqnOflhcIb3Aoc5raHtuYnV7wZXaZ5FrL2mKFx8AevvQRzNbsOfJbwRxNXyG_WGEfIz12CAF7d6HejpDa2B9SIsiMrY11YzwpW39CGSCvba25zqmCCJD3rd4mIRCk3bsHAHPfdwg817huty0JSd2LGIWFoAPYn9aiV5t3MaDt82BrBaATCpcRR5x6u0myLY7NpMM6N3XFbs3scJ87sH0mAERWjytrbJs8CjryJ2NYtxhHi1Pg4WzBGuPhofehJ_fneWj46Mb5NYRXw-ixHi9G6Ttybz4QXzsLS3-OtHZ4ec5yYHmhF8RJ1_P0sHRjavhRBEvxhlpZAH_-csV1vpac9ev2ZcOekyBEgZAQ6bOii1SG46YPaKAgApQuhGRkmphK55T8tb7mNCH7lBQoSTgttfsDYhkvQBMVq8JmWkTVY5oVycS4VFVxkFW1VC_HDxmAevU0WXMyY025krgOOWBdywHsVi-HCFbEXC05b8mSuJacRLFbNg3m5CyamatLuvjqyt0PdwDR_cfP6koow0Ln5fnB5-l9_X_1D9VfWuMUain3cEAAAAAASUVORK5CYII.png",
+   "extensions": [
+    "12 days ago",
+    "Full-time"
+   ],
+   "source_link": "https://www.pnet.co.za/jobs--Junior-Software-Engineer-Bryanston-Placement-Specialist-Pty-Ltd--3980008-inline.html",
+   "job_title": "Junior Software Engineer",
+   "description": "Introduction\nJunior Software Developer – Use your brilliant talents to work in a one of a kind insurance tech company! \n\n\n\nHYBRID WORKING opportunity where coding meets excellence \n\n\n\n \n\n\n\nThis is not a remote working position and standard working hours from the office in Bryanston, Johannesburg will apply.  Monday’s, Wednesday’s and Friday’s are spent at the office.  \n\n\n\n \n\n\n\nNo Prior Working Experience Required!\n\n\n\n \n\n\n\nWe are recruiting for an enthusiastic Junior Software Engineer to join an experienced Software Development team.  You will assist with all functions of software design and development and primary focus will be to learn the codebase, gain domain knowledge, respond to requests from Senior Team members and provide support to the users.  \n\n\n\nTo ensure success as a Junior Software Engineer in this opportunity, you should have a good working knowledge of basic programming languages, the ability to learn new technologies quickly and the ability to work in a team environment.  Ultimately a top-class Junior Software Engineer provides valuable support to their team while continually improving their coding and development skills.  \n\n\n\nDuties & Responsibilities\nTech Stack:\n\n\n\n\n\tC# - Data Structures & Algorithms\n\tSQL\n\tLINQ\n\tHTML & CSS\n\tJavascript / Typescript\n\tAngular / Blazor\n\tNet Web API \n\tC#\n\tASP.Net MVC\n\tJavascript        \n\tEntity Framework\n\tSSAS / SSIS / SSRS\n\tRelational Database Design\n\tSQL and TSQL Scripting\n\tMS Net Framework \n\n\n \n\n\n\nResponsibilities:\n\n\n\n\n\tAssisting with all aspects of software design and coding\n\tLearning the codebase and improving your coding skills\n\tGaining knowledge and understanding of the full development life cycle\n\tWriting and maintaining code\n\tWorking on minor bug fixes\n\tMonitoring the technical performance of systems\n\tResponding to online requests\n\tGathering information from clients about program functionality\n\tWriting reports\n\tConducting development tests\n\n\nDesired Experience & Qualification\nAssessment: Online Coding Challenge to be completed with initial application \n\n\n\n \n\n\n\nRequirements:\n\n\n\n\n\tCompleted Matric with a minimum 60% achievement for Mathematics – Not Negotiable\n\tCompleted relevant IT Degree (BSc Computer Science or BCom Informatics) – Not Negotiable \n\tCompleted Honours Degree - highly beneficial  \n\tAspirations to become a tech-savvy Software Developer – essential \n\tBasic programming experience (university level)\n\tKnowledge of databases and operating systems\n\tAbility to learn new software and technologies quickly\n\tAbility to apply logic, solve problems and work effectively in a team environment\n\n\nPackage & Remuneration\nThe Position: We’re looking for a tech-savvy professional curios about new technologies and aspiring to deliver technology that is essential to any business with an insurance function.  The pay range on offer is R25 000.00 to R27 500.00 CtC Package Per Month, based on skills, tech stack and qualifications.     \n\n\n\nInterested?\nHow to Apply:\n\n\n\nFor your application to be considered, please email your CV, Matric Certificate and Academic Transcript to cv@placed.biz – only candidates with suitable Software Development knowledge will be contacted.  \n\n\n\n \n\n\n\n Note:  \n\n\n\n\n\tOnline Coding Challenge to be completed with initial application \n\tApplicants must be South African with a valid South African ID\n\n\n \n\n\n\nWhy you should apply:\n\n\n\n\n\tHybrid working model \n\tNo dress code… more time in Pj’s for remote days \n\tDynamic and enriching working environment \n\tCutting-edge Insurance Tech industry \n\tWorking alongside qualified industry professionals \n\n\n \n\n\n\nITC, ID, Criminal and Qualification checks will be done on the successful candidate.  \n\n\n\n \n\n\n\nWe will reply on applications that get shortlisted only.  Therefore, please deem your application as unsuccessful if you have not received feedback after 7 days.",
+   "apply_options": [
+    {
+     "title": "Pnet",
+     "link": "https://www.pnet.co.za/jobs--Junior-Software-Engineer-Bryanston-Placement-Specialist-Pty-Ltd--3980008-inline.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJQbGFjZW1lbnQgU3BlY2lhbGlzdCBQdHkgTHRkIiwiaHRpZG9jaWQiOiJjNTZSc05SRklacFp0c1VpQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJaFNtOW9ZVzV1WlhOaWRYSm5MRWRoZFhSbGJtY3NVMjkxZEdnZ1FXWnlhV05oIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIcHNUekZKT1RCdmEwNUJjR1poY0dSMFV6ZHFlRFZIYkZSMldtOVNWbE5zUTFsRkxYRnpXbTVpVFRRMVZVUXdWemhzUld4V1lVMVVUM1JDYVZsdFdVVk1VREpLWjJremJHRlhZbUpQZWpOVVNUaERSMVpSWVRScVdYZHdOME5qZFVsT1pERXllVzlWZVhNdFYxRnNiVmRzZEZVNWJuWjZVMlJwWDJOSVdYSnRhalZoYWtjU0Z6aEpVRmhoZFhGblNIRm1jRzFNVVZCeFNreDJkVkZ2R2lKQlJITnlPV1pUTFVWaVJ6TjJaMFZ5Vm10amJIaDRjRGQ0YkVSSFZuaEpiMVozIiwiZmN2IjoiMyIsImZjX2lkIjoiYzU2UnNOUkZJWnBadHNVaUFBQUFBQT09In0="
+  },
+  {
+   "title": "C# .NET Developer (Intermediate) - Entry Level",
+   "company_name": "How2Apply Talent Network",
+   "location": "Randburg, South Africa",
+   "via": "Jooble",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=entry+level+software+developer&htidocid=CS2I5mtSq3ZQl_8oAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMywqCQBRAaesntLrQpqI0hDa1kpIehItyHzN6U2ucO8xcU_-sz0s3Bw4cjvebePFhBn4Sp3DELyoyaGF-0Yy2xrwSjAtYQ6zZ9nAbg8GuJMGhsFkJpOFEVCic7ktm43ZB4JzyC8eCq8zPqA5Io6QueJN0I56uFBaNGs7PcLvpfKOLZXimNoyMUT2kQqFmSJBbsh-oNNyFzmVjixU8qOESopetMvEHrwMIZLsAAAA&shmds=v1_ARwrE22pmSp6FvuVJlkQs217VzBE686WscqOU94AY8LpWt3wVg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=entry+level+software+developer&htidocid=CS2I5mtSq3ZQl_8oAAAAAA%3D%3D",
+   "extensions": [
+    "6 days ago",
+    "Full-time"
+   ],
+   "source_link": "https://za.jooble.org/jdp/605669214053361313",
+   "job_title": "C# .NET Developer (Intermediate) - Entry Level",
+   "description": "You'll build and ship features that real users touch every day, for a bank's digital channels team in Randburg. It's a practical job: you'll see what you got done before you go home. \n\n You'll be based at a bank's digital channels team in Randburg. Living nearby, or on a taxi route to it, really helps. Start date: as soon as possible for the right person. \n\n What your day looks like  Join daily stand-ups and sprint planning  Pair with junior developers to unblock them  Build and consume REST or GraphQL APIs  Write, test and refactor code in your team's main language  Review teammates' pull requests with useful comments  Must-haves  You can explain technical choices to non-technical people  Good SQL and understanding of relational databases  Experience writing automated tests  Solid Git habits: branches, pull requests and meaningful commit messages  A computer science or IT qualification, or a portfolio that proves you can build  What you get  Hybrid or fully remote work  Laptop and data allowance  Paid certification exams and learning budget  Medical aid and retirement fund  Applying, step by step  Make sure the role, the hours and working in Randburg really suit you before you apply.  Get these ready, because shortlisted people are asked for them straight away: degree or diploma certificate, list of projects with the tech stack you used on each plus link to your GitHub, GitLab or portfolio.  Send your details with the form below. Add one or two lines about similar work you've done.  Keep your phone on. Shortlisted applicants are contacted by call, SMS or WhatsApp within 10 working days.  Your application joins the How2Apply talent pool for this role, and we put shortlisted people forward to employers hiring in and around Randburg. \n\n Applying is free. Nobody from How2Apply will ever ask you to pay for anything to get this job. \n\n Tips to get shortlisted  Start your CV with your stack in one line, such as \"C#, .NET 8, SQL Server, Azure\", then your years on it.  For each job, name one thing you built and its impact, like \"cut checkout load time by 40%\".",
+   "apply_options": [
+    {
+     "title": "Jooble",
+     "link": "https://za.jooble.org/jdp/605669214053361313?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJDIyAuTkVUIERldmVsb3BlciAoSW50ZXJtZWRpYXRlKSAtIEVudHJ5IExldmVsIiwiY29tcGFueV9uYW1lIjoiSG93MkFwcGx5IFRhbGVudCBOZXR3b3JrIiwiaHRpZG9jaWQiOiJDUzJJNW10U3EzWlFsXzhvQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJaFNtOW9ZVzV1WlhOaWRYSm5MRWRoZFhSbGJtY3NVMjkxZEdnZ1FXWnlhV05oIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRISlhjMGxwT0V4Zlh6UlhaR1V5VEhsWlNtZzBlRzkyV1V0NGFWOUphMHRTUzA5TVVtaFNaR1pEUldoS2RGUTJNVXRXUmpZeVFqUk5TR2RHYXpJMGJURmZSMnd5Y0VvMk1tWTNWMnhMYVZJM1YyaG5jWGgwUkZkZlNVRkpaSEp3UTBwRFdYTnNkMnA1UlRKbE1EQTROVlJVWW5KbmFsaGFkemxtUzBSbmNYVlZUa2hZYkZNU0Z6aEpVRmhoZFhGblNIRm1jRzFNVVZCeFNreDJkVkZ2R2lKQlJITnlPV1pTUzA1WldVcGpiRFpQWWkwMGNYSmZObTVMZUhsalVFeDNMVGhCIiwiZmN2IjoiMyIsImZjX2lkIjoiQ1MySTVtdFNxM1pRbF84b0FBQUFBQT09In0="
+  },
+  {
+   "title": "Software System Designer",
+   "company_name": "Nedbank",
+   "location": "Johannesburg, South Africa",
+   "via": "JobzMall",
+   "share_link": "https://www.google.com/search?ibp=htl;jobs&q=entry+level+software+developer&htidocid=ewVVjhHOFQi3yw36AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU63uIg2IrjoJAiCg0s_oCTxmkTTu5K7Yv0Q_9e6vPFV30VlGu70bQtC8xHFHi4oKRAW2MKNHQja4iMwwZU5ZFyeouogR2NEch1ErSZfe-4NEzqezJOd_GklzuuQrWK7P-ymeqCwXt3x4Sy9ING8R0uE4sYSNtDwqBHOXUne_gCI5YgPmAAAAA&shmds=v1_ARwrE23HcVIDY3_hVBuFpJ5m2YLWfG9_lsEQfzHAsniIU4DdEQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=entry+level+software+developer&htidocid=ewVVjhHOFQi3yw36AAAAAA%3D%3D",
+   "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEUBYkH___8AYkEAXjv7__8abU8kb1ITaUoAVjCLrp8AWjYAXz4AWDPV5N9ikH280sri7emyycBJg2wATybv-PUATCDJ3NVrmYY5e2FbjXmjwLVRiHIAQQYARRIwdVt4o5KWt6vA4KKvAAACOklEQVRIie2V25KjIBBA7QblLhjxvlH__yu3MXEyU5MyZmsf02URBU4dgbaTZZ_4xH8LZBa_HoxleDD3R8ihQn2bjVpUkzypYxW0sZQm6WTHHR_1CamRU3TFnyF6ozMtWt41wsXLK-mmU9fSzdLHoe54K-S0XBW8kjLS5dYDwHotY-CdNKwEz3KSHpFGgGrKCCncrMectohAiF2zcna0QMGxhD1UkyRs61jyV2BuL2En3Wx3UBUvQcP0-JBKdh6kBPgurd8Aken1IR3OgxSy_5LGt0DK84f0HXCTun8D0XyTvgP-kJ4F72mJTKq3QDqPPaPv0pOgHhdpfkhPgrICj3rvtbN7A4RYmsdK19cgsjsIDuX-7aLWx2CGVCtoXxK4XofQ3VeKtnDxsHaYvAXaF-nDLCtOK83S9hq5gBfmgLvNcYWc6lTr6j5wKpM2d3x3H7wslURQtkriLdM9Szp9opqTlJP19i8g6She6xBvuaaLpNs6SKqETiOP4V8mxjJDjTFGW23TrTVZam6dzOhnYrQV73uexxjbC4_RW0e3vfSw1CNMBRdxUnH-jSJNCTMI3s1iAuyhC6qHUnDvmhFiAchHGPQTo_Q-egJj7CZgTVQhhlio0EMxtsEDRh7kkzUSWFE9E7D0_QSXBYawznwNIcA6thcAhI7e_zeJelyb0YnWBd8H51TtnWsHh3Xn1disDt3Uh-FJwlIio6Zsk9KmRmeWWrZlwX3EMPk0X9MxPSLLvv9mX9cnPrHFX0tBI5xeWYu-AAAAAElFTkSuQmCC.png",
+   "extensions": [
+    "ZAR 41,385–ZAR 91,976 a year",
+    "Full-time"
+   ],
+   "source_link": "https://www.jobzmall.com/nedbank/job/software-system-designer-3",
+   "job_title": "Software System Designer",
+   "description": "We at Nedbank are looking for an outstanding Software System Designer to join our dynamic and dedicated team. The ideal candidate will be a highly organized individual with a deep passion for developing software solutions that are secure, efficient, and user-friendly.The successful candidate should have a Bachelor's degree in Computer Science, Software Engineering, or a related field, as well as a minimum of two years of experience in software system design. Additionally, they must have excellent problem-solving skills, and the ability to work independently on multiple projects simultaneously.Furthermore, the ideal candidate should possess strong communication skills and be able to effectively collaborate with other developers, managers, and end-users. They should also be comfortable working in a fast-paced environment and be able to work effectively under pressure.We are looking for an enthusiastic team player who is eager to learn and bring fresh ideas to the table. If you are confident that you can make a positive contribution to our team and excel in this role, then we would love to hear from you.\n\nNedbank is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.",
+   "apply_options": [
+    {
+     "title": "JobzMall",
+     "link": "https://www.jobzmall.com/nedbank/job/software-system-designer-3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "Trabajo.org",
+     "link": "https://za.trabajo.org/job-4112-c58fb08cc563454f054f3cdbf50bfbd0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+     "title": "BeBee",
+     "link": "https://bebee.com/za/jobs/software-system-designer-indsafri-city-of-johannesburg--fj-2413668502?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    }
+   ],
+   "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBTeXN0ZW0gRGVzaWduZXIiLCJjb21wYW55X25hbWUiOiJOZWRiYW5rIiwiaHRpZG9jaWQiOiJld1ZWamhIT0ZRaTN5dzM2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJaFNtOW9ZVzV1WlhOaWRYSm5MRWRoZFhSbGJtY3NVMjkxZEdnZ1FXWnlhV05oIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwMU1NR3RHVnpJdFNHaGtZM1JDT1RaMlpWVnpaVzlPV0hsSlUxbGtkV1ZRUW5BMExWcGZNV295ZVVSVlFrMTRNa1V0V0hCRFRrRmpZalZIZEV0M2FXcFBZM1ZmUm05TWEyb3dRVVpKV21kUE4zQkljM2d0VVZKRFgyOHRla3cwTldVdFQweHdYMnByUWtKS2RERnZUVlp1YUhkclNtRm9kRUZGZGsxM09UaFlXVEpKV25BU0Z6aEpVRmhoZFhGblNIRm1jRzFNVVZCeFNreDJkVkZ2R2lKQlJITnlPV1pVVUd4c1UxRldjbGxEUzBFMlMyeGllWGRJYkdKM2IyMHlhMkZSIiwiZmN2IjoiMyIsImZjX2lkIjoiZXdWVmpoSE9GUWkzeXczNkFBQUFBQT09In0="
+  }
+ ]
+}

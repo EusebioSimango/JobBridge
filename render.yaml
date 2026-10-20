@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: jobbridge
+    runtime: python
+    plan: free
+    buildCommand: pip install uv && uv sync --frozen --no-dev --extra web
+    # --no-access-log: access logs would record every visitor's search in the URL.
+    startCommand: .venv/bin/uvicorn jobbridge.web:app --host 0.0.0.0 --port $PORT --no-access-log
+    healthCheckPath: /healthz
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.7"
+      - key: SERPAPI_API_KEY
+        sync: false
+      - key: DEMO_DAILY_SEARCHES
+        value: "40"
