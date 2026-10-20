@@ -1,7 +1,7 @@
 import pytest
 
-from jobbridge.levels import detect_level
-from jobbridge.models import Level
+from kaziradar.levels import detect_level
+from kaziradar.models import Level
 
 
 @pytest.mark.parametrize(

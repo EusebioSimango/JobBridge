@@ -1,10 +1,10 @@
 from dataclasses import replace
 
 from conftest import JOHANNESBURG, TODAY, load_fixture
-from jobbridge import parsing
-from jobbridge.board import board_title, collect, describe_filters, hide_reason, sort_jobs
-from jobbridge.models import REMOTE_LABEL, Job, Level
-from jobbridge.queries import JobQuery
+from kaziradar import parsing
+from kaziradar.board import board_title, collect, describe_filters, hide_reason, sort_jobs
+from kaziradar.models import REMOTE_LABEL, Job, Level
+from kaziradar.queries import JobQuery
 
 
 def job(**changes) -> Job:

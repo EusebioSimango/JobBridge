@@ -1,8 +1,8 @@
 import pytest
 
 from conftest import JOHANNESBURG, FakeClient, FakeHTTPError
-from jobbridge.queries import JobQuery
-from jobbridge.search import (
+from kaziradar.queries import JobQuery
+from kaziradar.search import (
     BudgetedSearch,
     BudgetExceeded,
     ResponseCache,

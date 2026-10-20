@@ -1,8 +1,8 @@
 from conftest import JOHANNESBURG, TODAY, FakeClient, FakeHTTPError
-from jobbridge.board import collect
-from jobbridge.models import Level
-from jobbridge.queries import JobQuery
-from jobbridge.render import render_markdown
+from kaziradar.board import collect
+from kaziradar.models import Level
+from kaziradar.queries import JobQuery
+from kaziradar.render import render_markdown
 
 
 def markdown(query, client=None):

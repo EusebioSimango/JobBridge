@@ -4,8 +4,8 @@ import pytest
 from fastapi.testclient import TestClient
 
 from conftest import JOHANNESBURG
-from jobbridge import web
-from jobbridge.limits import BoardCache, DemoLimits, LimitReached
+from kaziradar import web
+from kaziradar.limits import BoardCache, DemoLimits, LimitReached
 
 SEARCH = {"role": "software developer", "place": JOHANNESBURG, "level": "entry"}
 

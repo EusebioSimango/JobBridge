@@ -5,7 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Any
 
-from jobbridge.models import REMOTE_LABEL, Level
+from kaziradar.models import REMOTE_LABEL, Level
 
 ENGINE = "google_jobs"
 MAX_PLACES = 5

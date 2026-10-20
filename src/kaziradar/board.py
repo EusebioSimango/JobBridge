@@ -6,10 +6,10 @@ import re
 from collections import Counter
 from datetime import date
 
-from jobbridge import parsing
-from jobbridge.models import LEVEL_NAMES, REMOTE_LABEL, Job, JobBoard, Level
-from jobbridge.queries import JobQuery, place_label
-from jobbridge.search import Answer, BudgetedSearch, ResponseCache, SearchClient, run_plans
+from kaziradar import parsing
+from kaziradar.models import LEVEL_NAMES, REMOTE_LABEL, Job, JobBoard, Level
+from kaziradar.queries import JobQuery, place_label
+from kaziradar.search import Answer, BudgetedSearch, ResponseCache, SearchClient, run_plans
 
 _TYPE_SCHEDULES = {
     "full-time": "Full-time",

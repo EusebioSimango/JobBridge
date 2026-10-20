@@ -1,5 +1,5 @@
 [project]
-name = "jobbridge"
+name = "kaziradar"
 version = "0.1.0"
 description = "Find jobs at home, abroad or remote, at any experience level, with SerpApi's Google Jobs API."
 readme = "README.md"
@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [project.scripts]
-jobbridge = "jobbridge.cli:app"
+kaziradar = "kaziradar.cli:app"
 
 [project.optional-dependencies]
 web = [
@@ -28,7 +28,7 @@ build-backend = "uv_build"
 
 [dependency-groups]
 dev = [
-    "jobbridge[web]",
+    "kaziradar[web]",
     "httpx>=0.28.1",
     "pytest>=9.1.1",
     "ruff>=0.6.0",
@@ -45,4 +45,4 @@ target-version = "py310"
 select = ["E", "F", "I", "UP", "B", "SIM"]
 
 [tool.ruff.lint.isort]
-known-first-party = ["jobbridge", "conftest"]
+known-first-party = ["kaziradar", "conftest"]

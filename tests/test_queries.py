@@ -1,7 +1,7 @@
 import pytest
 
-from jobbridge.models import REMOTE_LABEL, Level
-from jobbridge.queries import JobQuery, place_label
+from kaziradar.models import REMOTE_LABEL, Level
+from kaziradar.queries import JobQuery, place_label
 
 
 def test_one_search_per_place_then_remote(entry_query):

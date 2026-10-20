@@ -1,4 +1,4 @@
-"""Command line entry point: ``jobbridge "data analyst" --in Johannesburg --remote``."""
+"""Command line entry point: ``kaziradar "data analyst" --in Johannesburg --remote``."""
 
 from __future__ import annotations
 
@@ -12,11 +12,11 @@ from dotenv import find_dotenv, load_dotenv
 from rich.console import Console
 from rich.markdown import Markdown
 
-from jobbridge.board import collect
-from jobbridge.models import JobBoard, Level
-from jobbridge.queries import JOB_TYPES, POSTED_WITHIN, JobQuery
-from jobbridge.render import render_markdown
-from jobbridge.search import ResponseCache, default_cache_dir, official_client
+from kaziradar.board import collect
+from kaziradar.models import JobBoard, Level
+from kaziradar.queries import JOB_TYPES, POSTED_WITHIN, JobQuery
+from kaziradar.render import render_markdown
+from kaziradar.search import ResponseCache, default_cache_dir, official_client
 
 DEFAULT_MAX_SEARCHES = 6
 EXIT_ALL_SEARCHES_FAILED = 1
@@ -103,11 +103,11 @@ def main(
                 query, official_client(api_key), max_searches=max_searches, cache=cache
             )
     except Exception as exc:
-        if os.getenv("JOBBRIDGE_DEBUG"):
+        if os.getenv("KAZIRADAR_DEBUG"):
             raise
         status_console.print(
             f"[red]Error:[/red] unexpected {type(exc).__name__}. "
-            "Run with JOBBRIDGE_DEBUG=1 for details."
+            "Run with KAZIRADAR_DEBUG=1 for details."
         )
         raise typer.Exit(code=EXIT_ALL_SEARCHES_FAILED) from None
 

@@ -85,7 +85,7 @@ class DemoLimits:
             if self._used_today + searches > self._daily_limit:
                 raise LimitReached(
                     "The demo has used today's SerpApi searches. Please try again tomorrow, "
-                    "search fewer places, or run JobBridge with your own free SerpApi key."
+                    "search fewer places, or run KaziRadar with your own free SerpApi key."
                 )
             now = self._clock()
             self._forget_visits_before(now - HOUR_SECONDS)
@@ -93,7 +93,7 @@ class DemoLimits:
             if len(visits) >= self._hourly_limit:
                 raise LimitReached(
                     f"You have made {self._hourly_limit} live job lists in the last hour. "
-                    "Please try again later, or run JobBridge with your own free SerpApi key."
+                    "Please try again later, or run KaziRadar with your own free SerpApi key."
                 )
             visits.append(now)
             self._used_today += searches

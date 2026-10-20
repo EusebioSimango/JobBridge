@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from datetime import date
 
-from jobbridge.models import LEVEL_NAMES, REMOTE_LABEL, Job, JobBoard, Level, SearchRecord
+from kaziradar.models import LEVEL_NAMES, REMOTE_LABEL, Job, JobBoard, Level, SearchRecord
 
 
 def render_markdown(board: JobBoard) -> str:

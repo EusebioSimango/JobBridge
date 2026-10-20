@@ -9,8 +9,8 @@ from collections.abc import Iterator, Mapping
 from typing import Any
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
-from jobbridge.levels import detect_level
-from jobbridge.models import ApplyLink, Job
+from kaziradar.levels import detect_level
+from kaziradar.models import ApplyLink, Job
 
 MAX_APPLY_LINKS = 3
 

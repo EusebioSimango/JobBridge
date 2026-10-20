@@ -1,6 +1,6 @@
 """Public web demo: a job search form and its results, with limits that protect the budget.
 
-Run locally with ``uv run --extra web uvicorn jobbridge.web:app --reload``.
+Run locally with ``uv run --extra web uvicorn kaziradar.web:app --reload``.
 """
 
 from __future__ import annotations
@@ -16,19 +16,19 @@ from fastapi.concurrency import run_in_threadpool
 from fastapi.responses import HTMLResponse, PlainTextResponse
 from markdown_it import MarkdownIt
 
-from jobbridge.board import collect
-from jobbridge.limits import BoardCache, DemoLimits, LimitReached
-from jobbridge.models import REMOTE_LABEL, Level
-from jobbridge.queries import JOB_TYPES, MAX_ROLE_LENGTH, POSTED_WITHIN, JobQuery
-from jobbridge.render import render_markdown
-from jobbridge.search import ResponseCache, SearchClient, official_client
+from kaziradar.board import collect
+from kaziradar.limits import BoardCache, DemoLimits, LimitReached
+from kaziradar.models import REMOTE_LABEL, Level
+from kaziradar.queries import JOB_TYPES, MAX_ROLE_LENGTH, POSTED_WITHIN, JobQuery
+from kaziradar.render import render_markdown
+from kaziradar.search import ResponseCache, SearchClient, official_client
 
 MAX_PLACES = 3
 MAX_PLACE_LENGTH = 60
 DEFAULT_DAILY_SEARCHES = 40
 LISTS_PER_VISITOR_PER_HOUR = 5
 
-REPO_URL = "https://github.com/EusebioSimango/jobbridge"
+REPO_URL = "https://github.com/EusebioSimango/kaziradar"
 SAMPLE_LIST = Path(__file__).resolve().parents[2] / "examples" / "sample-entry-level.md"
 
 # Raw HTML in search results is shown as text, never rendered.
@@ -50,13 +50,13 @@ def create_app(
         lists_per_visitor_per_hour=LISTS_PER_VISITOR_PER_HOUR,
     )
     boards = BoardCache()
-    answers = ResponseCache(cache_dir or Path(tempfile.gettempdir()) / "jobbridge-demo")
+    answers = ResponseCache(cache_dir or Path(tempfile.gettempdir()) / "kaziradar-demo")
     make_client = client_factory or _client_from_env
-    app = FastAPI(title="JobBridge", docs_url=None, redoc_url=None, openapi_url=None)
+    app = FastAPI(title="KaziRadar", docs_url=None, redoc_url=None, openapi_url=None)
 
     @app.get("/", response_class=HTMLResponse)
     def home() -> str:
-        return _page("JobBridge", _intro() + _form({}))
+        return _page("KaziRadar", _intro() + _form({}))
 
     @app.get("/jobs", response_class=HTMLResponse)
     async def jobs(request: Request) -> HTMLResponse:
@@ -154,7 +154,7 @@ def _list_html(markdown: str) -> str:
 
 def _message_page(status_code: int, message: str, form: str) -> HTMLResponse:
     notice = f'<p class="notice">{escape(message)}</p>'
-    return HTMLResponse(_page("JobBridge", form + notice), status_code=status_code)
+    return HTMLResponse(_page("KaziRadar", form + notice), status_code=status_code)
 
 
 def _intro() -> str:
@@ -227,7 +227,7 @@ def _page(title: str, body: str) -> str:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{escape(title)} · JobBridge</title>
+<title>{escape(title)} · KaziRadar</title>
 <style>
   body {{ font-family: system-ui, sans-serif; max-width: 46rem; margin: 2rem auto;
          padding: 0 1rem; line-height: 1.5; color: #1f2328; }}
@@ -252,7 +252,7 @@ def _page(title: str, body: str) -> str:
 </style>
 </head>
 <body>
-<header><h1><a href="/">JobBridge</a></h1></header>
+<header><h1><a href="/">KaziRadar</a></h1></header>
 {body}
 <footer>
   <p>Results come from Google Jobs, through SerpApi; links go to employers and job boards.

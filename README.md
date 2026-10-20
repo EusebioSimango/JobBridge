@@ -1,7 +1,7 @@
-# JobBridge
+# KaziRadar
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-jobbridge.onrender.com-2ea44f?style=flat-square&logo=fastapi)](https://jobbridge.onrender.com)
-[![Tests](https://img.shields.io/github/actions/workflow/status/EusebioSimango/jobbridge/tests.yml?branch=main&style=flat-square&label=tests)](https://github.com/EusebioSimango/jobbridge/actions/workflows/tests.yml)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-kaziradar.onrender.com-2ea44f?style=flat-square&logo=fastapi)](https://kaziradar.onrender.com)
+[![Tests](https://img.shields.io/github/actions/workflow/status/EusebioSimango/kaziradar/tests.yml?branch=main&style=flat-square&label=tests)](https://github.com/EusebioSimango/kaziradar/actions/workflows/tests.yml)
 [![Hackathon](https://img.shields.io/badge/SerpApi-PyCon_ZA_2026-blue?style=flat-square)](https://serpapi.com/pyconzahackathon)
 [![SerpApi Python package](https://img.shields.io/badge/SerpApi-Python_package-8A2BE2?style=flat-square)](https://github.com/serpapi/serpapi-python)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](pyproject.toml)
@@ -12,8 +12,10 @@
 Find jobs in any field, in the cities and countries you name, abroad or remote, at your experience level. Every job links to where you can apply.
 
 ```bash
-jobbridge "software developer" --in "Johannesburg, South Africa" --remote --level entry
+kaziradar "software developer" --in "Johannesburg, South Africa" --remote --level entry
 ```
+
+*Kazi* means work in Swahili.
 
 Built for the [SerpApi PyCon ZA 2026 Hackathon](https://serpapi.com/pyconzahackathon).
 
@@ -21,7 +23,7 @@ Built for the [SerpApi PyCon ZA 2026 Hackathon](https://serpapi.com/pyconzahacka
 
 At PyCon, and above all at Beginners' Day, one question comes up again and again: *"How do I get a job? Where do I even look?"* People finishing a course, a bootcamp or a degree know what they can do, but not where the openings are, which ones are really for beginners, or which ones they can do from home.
 
-The question is not only about Python, and not only about beginners. A nurse looking at London, an accountant moving to Toronto and a senior engineer who wants remote work all start from the same blank search box. JobBridge is the bridge from "I am looking" to a short list of real openings with apply links:
+The question is not only about Python, and not only about beginners. A nurse looking at London, an accountant moving to Toronto and a senior engineer who wants remote work all start from the same blank search box. KaziRadar is the bridge from "I am looking" to a short list of real openings with apply links:
 
 - **Any role**: software developer, data analyst, nurse, teacher, chef.
 - **Any place**: a city or a country, in Africa or anywhere Google Jobs covers, plus remote jobs.
@@ -65,37 +67,37 @@ Each job shows its title (linked to the first apply page), company and location;
 
 The same job is often posted by several recruiters; it is shown once. Text is cleaned up (HTML entities, broken accents, "Company :" prefixes) and tracking parameters are removed from links.
 
-Google Jobs does not cover every country: for example, it has no listings for Maputo or Lisbon. JobBridge says so for that place, and suggests a nearby city or `--remote`, instead of showing jobs from somewhere else.
+Google Jobs does not cover every country: for example, it has no listings for Maputo or Lisbon. KaziRadar says so for that place, and suggests a nearby city or `--remote`, instead of showing jobs from somewhere else.
 
 ## How it uses SerpApi
 
-JobBridge uses the **[SerpApi Python package](https://github.com/serpapi/serpapi-python)** (`serpapi.Client`) and the **[Google Jobs API](https://serpapi.com/google-jobs-api)** (`engine: google_jobs`).
+KaziRadar uses the **[SerpApi Python package](https://github.com/serpapi/serpapi-python)** (`serpapi.Client`) and the **[Google Jobs API](https://serpapi.com/google-jobs-api)** (`engine: google_jobs`).
 
 | Search | Parameters | Per run |
 | --- | --- | --- |
 | The role, at each place | `q` (role, plus level and type words), `location`, `hl` | one per place |
 | Remote jobs | `q` and `uds` from Google's "Remote" filter in the first place's answer, `location` of that place (so the jobs suit your time zone) | one, with `--remote` |
 
-How it fits together, in [`search.py`](src/jobbridge/search.py) and [`board.py`](src/jobbridge/board.py):
+How it fits together, in [`search.py`](src/kaziradar/search.py) and [`board.py`](src/kaziradar/board.py):
 
-- The place searches run in parallel. Google Jobs answers each one with filter chips, and one of them is "Remote", with its own `uds` token. JobBridge then runs the remote search with that token, so Google itself returns only remote jobs. If no answer offers the chip, it searches "role remote" instead.
+- The place searches run in parallel. Google Jobs answers each one with filter chips, and one of them is "Remote", with its own `uds` token. KaziRadar then runs the remote search with that token, so Google itself returns only remote jobs. If no answer offers the chip, it searches "role remote" instead.
 - Each job is read from `jobs_results`: `title`, `company_name`, `location`, `extensions` (posted, type, salary, work from home, no degree), `detected_extensions`, `description` and `apply_options`.
 - The SDK adds `api_key` to the dict it is given, so it always gets a copy. Errors are reduced to SerpApi's own message: `serpapi.HTTPError` holds the request URL, with the key, and is never printed.
 - An empty answer ("Google hasn't returned any results") is a normal result for that place, not a failure.
 
-Searches cost credits, so JobBridge is careful with them:
+Searches cost credits, so KaziRadar is careful with them:
 
 - **Cost up front:** the command prints how many searches it may spend (one per place, plus one for remote) before it starts, and how many it made at the end.
 - **Budget:** at most 6 searches per run by default (`--max-searches`, up to 20). A run that needs more is refused before any search is sent.
-- **Cache:** answers are saved in `~/.cache/jobbridge` for 12 hours, without search metadata, so changing only the filters costs nothing. Use `--no-cache` to search again.
+- **Cache:** answers are saved in `~/.cache/kaziradar` for 12 hours, without search metadata, so changing only the filters costs nothing. Use `--no-cache` to search again.
 
 ## Run it
 
 You need Python 3.10 or newer, [uv](https://docs.astral.sh/uv/getting-started/installation/) and a free [SerpApi API key](https://serpapi.com/users/sign_up) (250 searches a month).
 
 ```bash
-git clone https://github.com/EusebioSimango/jobbridge.git
-cd jobbridge
+git clone https://github.com/EusebioSimango/kaziradar.git
+cd kaziradar
 uv sync
 cp .env.example .env   # then paste your key after SERPAPI_API_KEY=
 ```
@@ -104,29 +106,29 @@ Try it:
 
 ```bash
 # First jobs in two cities, plus remote ones (3 searches)
-uv run jobbridge "software developer" --in "Johannesburg, South Africa" --in "Cape Town, South Africa" --remote --level entry
+uv run kaziradar "software developer" --in "Johannesburg, South Africa" --in "Cape Town, South Africa" --remote --level entry
 
 # Jobs abroad, any level, posted in the last week, that show a salary
-uv run jobbridge "nurse" --in "London, United Kingdom" --in "Toronto, Canada" --posted 7 --with-salary
+uv run kaziradar "nurse" --in "London, United Kingdom" --in "Toronto, Canada" --posted 7 --with-salary
 
 # Internships, saved as Markdown
-uv run jobbridge "accountant" --in Nairobi --type internship -o jobs.md
+uv run kaziradar "accountant" --in Nairobi --type internship -o jobs.md
 
 # Remote only, senior roles, as JSON for other tools
-uv run jobbridge "data engineer" --remote --level senior --json
+uv run kaziradar "data engineer" --remote --level senior --json
 ```
 
-`--in` takes a city or a country and can be repeated (up to 5). Run `uv run jobbridge --help` for every option. The command exits with code `1` if every search failed and `2` if the API key is missing or an argument is invalid.
+`--in` takes a city or a country and can be repeated (up to 5). Run `uv run kaziradar --help` for every option. The command exits with code `1` if every search failed and `2` if the API key is missing or an argument is invalid.
 
 ## Web demo
 
-The same search as a web page: a role, up to 3 places, "also remote jobs", level, type, date and the two checkboxes. A [sample list](https://jobbridge.onrender.com/example) needs no searches.
+The same search as a web page: a role, up to 3 places, "also remote jobs", level, type, date and the two checkboxes. A [sample list](https://kaziradar.onrender.com/example) needs no searches.
 
 Run it locally:
 
 ```bash
 uv sync --extra web
-uv run uvicorn jobbridge.web:app --reload   # http://127.0.0.1:8000
+uv run uvicorn kaziradar.web:app --reload   # http://127.0.0.1:8000
 ```
 
 The demo runs on a shared SerpApi key, so it protects that key's free plan:
@@ -141,16 +143,16 @@ To deploy your own copy on [Render](https://render.com), choose **New > Blueprin
 
 | Module | Responsibility |
 | --- | --- |
-| [`cli.py`](src/jobbridge/cli.py) | The `jobbridge` command, API key loading, writing the output. |
-| [`web.py`](src/jobbridge/web.py) | The FastAPI web demo. |
-| [`limits.py`](src/jobbridge/limits.py) | The web demo's cache and rate limits. |
-| [`queries.py`](src/jobbridge/queries.py) | `JobQuery`: validation and the parameters of each search. |
-| [`search.py`](src/jobbridge/search.py) | The `serpapi.Client` wrapper: budget, 12-hour cache, parallel searches, safe errors. |
-| [`parsing.py`](src/jobbridge/parsing.py) | Turns Google Jobs JSON into `Job` items: dates, salary, flags, apply links. Pure functions. |
-| [`levels.py`](src/jobbridge/levels.py) | Reads a job's experience level, and the reason, from its title and description. |
-| [`board.py`](src/jobbridge/board.py) | Runs the searches, including the remote one, and applies the filters. |
-| [`render.py`](src/jobbridge/render.py) | Writes the `JobBoard` as Markdown. |
-| [`models.py`](src/jobbridge/models.py) | The plain data classes shared by the modules above. |
+| [`cli.py`](src/kaziradar/cli.py) | The `kaziradar` command, API key loading, writing the output. |
+| [`web.py`](src/kaziradar/web.py) | The FastAPI web demo. |
+| [`limits.py`](src/kaziradar/limits.py) | The web demo's cache and rate limits. |
+| [`queries.py`](src/kaziradar/queries.py) | `JobQuery`: validation and the parameters of each search. |
+| [`search.py`](src/kaziradar/search.py) | The `serpapi.Client` wrapper: budget, 12-hour cache, parallel searches, safe errors. |
+| [`parsing.py`](src/kaziradar/parsing.py) | Turns Google Jobs JSON into `Job` items: dates, salary, flags, apply links. Pure functions. |
+| [`levels.py`](src/kaziradar/levels.py) | Reads a job's experience level, and the reason, from its title and description. |
+| [`board.py`](src/kaziradar/board.py) | Runs the searches, including the remote one, and applies the filters. |
+| [`render.py`](src/kaziradar/render.py) | Writes the `JobBoard` as Markdown. |
+| [`models.py`](src/kaziradar/models.py) | The plain data classes shared by the modules above. |
 
 ## Tests
 
@@ -164,7 +166,7 @@ There is one test file per module. They cover the search parameters and validati
 
 ## What was added for the hackathon
 
-Everything. JobBridge is a new project, started on 20 October 2026 for the SerpApi PyCon ZA Hackathon.
+Everything. KaziRadar is a new project, started on 20 October 2026 for the SerpApi PyCon ZA Hackathon.
 
 ## Credits
 

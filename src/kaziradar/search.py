@@ -13,8 +13,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Protocol
 
-from jobbridge.models import SearchRecord
-from jobbridge.queries import SearchPlan
+from kaziradar.models import SearchRecord
+from kaziradar.queries import SearchPlan
 
 CACHE_SECONDS = 12 * 60 * 60
 
@@ -42,7 +42,7 @@ def official_client(api_key: str, timeout: float = 60.0) -> SearchClient:
 
 def default_cache_dir() -> Path:
     base = os.getenv("XDG_CACHE_HOME") or "~/.cache"
-    return Path(base).expanduser() / "jobbridge"
+    return Path(base).expanduser() / "kaziradar"
 
 
 class ResponseCache:

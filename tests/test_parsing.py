@@ -1,8 +1,8 @@
 import pytest
 
 from conftest import load_fixture
-from jobbridge import parsing
-from jobbridge.models import Level
+from kaziradar import parsing
+from kaziradar.models import Level
 
 
 def test_jobs_from_a_real_answer():

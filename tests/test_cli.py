@@ -4,7 +4,7 @@ import pytest
 from typer.testing import CliRunner
 
 from conftest import JOHANNESBURG, FakeClient
-from jobbridge import cli
+from kaziradar import cli
 
 runner = CliRunner()
 

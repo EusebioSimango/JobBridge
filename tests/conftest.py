@@ -7,8 +7,8 @@ from typing import Any
 
 import pytest
 
-from jobbridge.models import Level
-from jobbridge.queries import JobQuery
+from kaziradar.models import Level
+from kaziradar.queries import JobQuery
 
 FIXTURES = Path(__file__).parent / "fixtures"
 TODAY = date(2026, 10, 20)

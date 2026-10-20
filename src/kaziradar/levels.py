@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import re
 
-from jobbridge.models import Level
+from kaziradar.models import Level
 
 # Words that set the level when they are in the title.
 TITLE_WORDS = {
